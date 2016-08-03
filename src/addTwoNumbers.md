@@ -10,6 +10,7 @@ nodes contain a single digit. Add the two numbers and return it as a
 linked list.
 
 **Input:** (2 -> 4 -> 3) + (5 -> 6 -> 4)
+
 **Output:** 7 -> 0 -> 8
 
 题意
@@ -19,6 +20,7 @@ linked list.
 个链表中的数字相加并返回结果链表。
 
 **输入：** (2 -> 4 -> 3) + (5 -> 6 -> 4)
+
 **输出：** 7 -> 0 -> 8
 
 即： 342 + 465 = 807
