@@ -1,4 +1,4 @@
-162. Find Peak Element
+[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 ======================
 
 原题
@@ -32,6 +32,8 @@ function should return the index number 2.
 
 代码
 ----
+
+方法1示例代码：
 ```C++
 class Solution {
 public:
@@ -46,7 +48,7 @@ public:
 		
 		int idx = 1;
 		for (/* void */; idx < tmp.size(); idx++) {
-			if (tmp[idx] >= tmp[idex - 1] && tmp[idx] > tmp[idx + 1]) {
+			if (tmp[idx] >= tmp[idx - 1] && tmp[idx] >= tmp[idx + 1]) {
 				break;
 			}
 		}
@@ -56,6 +58,7 @@ public:
 };
 ```
 
+方案2示例代码：
 ```C++
 class Solution {
 public:
