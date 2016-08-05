@@ -6,3 +6,4 @@ LeetCode 练习题
 141. [Linked List Cycle](src/linkedListCycle.md)
 142. [Linked List Cycle II](src/linkedListCycleII.md)
 162. [Find Peak Element](src/findPeakElement.md)
+372. [Super Pow](src/superPow.md)
