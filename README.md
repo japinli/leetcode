@@ -2,6 +2,7 @@ LeetCode 练习题
 ===============
 1. [Two Sum](src/twoSum.md)
 2. [Add Two Numbers](src/addTwoNumbers.md)
+9. [Palindrome Numbers](src/palindromeNumber.md)
 136. [Single Number](src/singleNumber.md)
 137. [Single Number II](src/singleNumberII.md)
 141. [Linked List Cycle](src/linkedListCycle.md)
