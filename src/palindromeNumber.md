@@ -14,11 +14,14 @@ Determine whether an integer is a palindrome. Do this without extra space.
 思路
 ----
 
-数字反转。
+1. 数字反转。
+2. 同样利用数字反转，但是只进行部分反转即可判断，参考LeetCode上
+   [gaurav5][]的方法。
 
 代码
 ----
 
+思路1示例代码
 ```C++
 class Solution {
 public:
@@ -42,3 +45,30 @@ public:
 	}
 };
 ```
+
+思路2示例代码
+```C++
+class Solution {
+public:
+	bool isPalindrome(int x) {
+		if (x < 0 || (x && x % 10 == 0)) {
+			return false;
+		}
+		
+		int digit = 0;
+		while (x > digit) {
+			digit = digit * 10 + x % 10;
+			x /= 10;
+		}
+		
+		/*
+		 * For example:
+		 * 1221 ==> x(12) == digit(12)
+		 * 121  ==> x(1) == digit(12) / 10
+		 */
+		return x == digit || x == digit / 10;
+	}
+};
+```
+
+[gaurav5]: https://discuss.leetcode.com/topic/12820/an-easy-c-8-lines-code-only-reversing-till-half-and-then-compare
