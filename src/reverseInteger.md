@@ -49,7 +49,7 @@ when the reversed integer overflows.
 思路
 ----
 
-类似于[Palindrome Number](palindromeNumber.md)问题。特保注意整数的溢出
+类似于[Palindrome Number](palindromeNumber.md)问题。特别注意整数的溢出
 情况。
 
 代码
