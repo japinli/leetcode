@@ -5,6 +5,7 @@ LeetCode 练习题
 4. [Median of Two Sorted Arrays](src/medianofTwoSortedArrays.md)
 7. [Reverse Integer](src/reverseInteger.md)
 9. [Palindrome Numbers](src/palindromeNumber.md)
+29. [Divide Two Integers](src/divideTwoIntegers.md)
 136. [Single Number](src/singleNumber.md)
 137. [Single Number II](src/singleNumberII.md)
 141. [Linked List Cycle](src/linkedListCycle.md)
