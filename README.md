@@ -14,3 +14,4 @@ LeetCode 练习题
 201. [Bitwise AND of Numbers Range](./src/bitwiseANDofNumbersRange.md)
 260. [Single Number III](src/singleNumberIII.md)
 372. [Super Pow](src/superPow.md)
+374. [Guess Number Higher or Lower](src/guessNumberHigherOrLower.md)
