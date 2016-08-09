@@ -49,7 +49,7 @@ Given *nums1* = `[1, 2, 2, 1]`, *nums2* = `[2, 2]`, return `[2, 2]`.
 思路
 ----
 
-1. 同[Intersection of Two Arrays][]的第二种思路，不去重复。
+1. 同[Intersection of Two Arrays][]的第二种思路，不删除重复元素。
 2. 利用`hashmap`遍历其中一个数组，并记录每个数出现的次数，接着遍历第二
    个数组，查找是否在第一个数组中出现，并判断计数值。
 
@@ -91,6 +91,7 @@ public:
 };
 ```
 
+思路2示例代码
 ```C++
 class Solution {
 public:
