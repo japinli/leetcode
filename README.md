@@ -4,6 +4,7 @@ LeetCode 练习题
 2. [Add Two Numbers](src/addTwoNumbers.md)
 3. [Longest Substring Without Repeating Characters](src/longestSubstringWithoutRepeatingCharacters.md)
 4. [Median of Two Sorted Arrays](src/medianofTwoSortedArrays.md)
+5. [Longest Palindromic Substring](src/longestPalindromicSubstring.md)
 7. [Reverse Integer](src/reverseInteger.md)
 9. [Palindrome Numbers](src/palindromeNumber.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
