@@ -23,35 +23,59 @@ one unique longest palindromic substring.
    的长度。该算法时间复杂度为`O(n^2)`。需要注意的是回文的长度可能是奇
    数也可能是偶数，因此不要忽略了偶数的情况，即回文串可能是`aba`或
    `abba`这两种情况。
-3. Manacher算法，思路2中的算法针对回文串长度的奇偶性需要分别计算，
-   Manacher算法则在进行回文查找前先对其进行预处理，统一了回文长度奇偶
-   两种情况。例如，字符串`"aba", "abba"`经预处理后分别变为`"#a#b#a#",
-   "#a#b#b#a#"`。该算法中还涉及一个回文半径的概念，即回文中心到回文最
-   左端/右端的距离。针对字符串`"abaaba"`运用该算法如下：
+3. *Manacher*算法，该算法利用`O(n)`的辅助空间，将时间复杂度将到了
+   `O(n)`。该算法首先通过预处理将上述方法二中的需要针对奇偶长度进行计
+   算统一起来，其次它充分利用了回文的特性通过动态规划的思想避免了不必
+   要的计算。
    
-   ```
-   PREPROCESS RESULT: # a # b # a # a # b # a # 
-   PALINDROME RADIUS: 1 2 1 3 1 2 7 2 1 3 1 2 1
-   ```
-   
-   从上面可以看出`PALINDROME RADIUS[i] - 1`即是原字符串的回文长度。因
-   此该问题转化为求解`PALINDROME RADIUS`数组。该算法使用了连个辅助变量
-   用于计算`PALINDROME RADIUS`数组。一个记录当前最大的回文半径变量
-   `maxR`以及其对应的中心点的位置`maxO`。当计算`i`处的回文半径时，分两
-   种情况：
-   
-   1. `i < maxR`：此时由于区间`[0, i-1]`的回文半径以经确定，且当前字符
-      位于最长回文半径内，因此由对称性可知，当`maxO + maxR - i >
-      PALINDROME RADIUS[2 * maxR - i]`时，此时回文半径为`PALINDROME
-      RADIUS[2 * maxR - i]`；若`maxO + maxR - i < PALINDROME
-      RADIUS[2 * maxR - i]`说明此时`i`右侧的字符不足以构成`2 * maxR -
-      i`处的回文序列，因此回文半径为`maxo + maxR - i`。
-   2. `i > maxR`：此时，由于没有可用信息，因此只能向两边扩展来找出可能
-      的回文半径。
-	  
-  处理完上述两种情况后，还需要对其进行扩展，以判断是否存在更长的回文串。
-  详细说明请看[这里](http://blog.csdn.net/japinli/article/details/52195212)。
+1. 预处理：在该阶段，它为每个字符两端插入一个特殊的字符，通常使用
+   `'#'`字符。如下所示：
 
+	primitive: "adcabacdef"
+	processed: "#a#d#c#a#b#a#c#d#e#f#"
+	primitive: "abbad"
+	processed: "#a#b#b#a#d#"
+	
+	因此，无论原始字符串长度是为奇数还是偶数，经预处理之后其长度均为奇
+    数。这样就避免了考虑偶数的情况。由于在类C语言中字符串末尾包含
+    `'\0'`字符，因此通常还会在字符串的开始加入一个特殊字符`'$'`避免越
+    界。
+	
+2. 分析： 首先我们先定义回文半径，回文半径即从回文中心点到回文最左边或
+   最右边的距离。例如上面的示例中，我们可以计算每个字符的回文半径，如
+   下所示：
+
+	primitive:  "adcabacdef"
+	processed:  # a # d # c # a # b # a # c # d # e # f #
+	radiuses[-]:   1 2 1 2 1 2 1 2 1 8 1 2 1 2 1 2 1 3 1 2 1
+	
+	上述中的空格是为了显示而加上的，*rediuses*数组中的`'-'`字符同样是
+    为了显示效果而加上的。可以看出`radiuses[i] - 1`既是原字符串中回文
+    串的长度。这其实是可以证明的。
+	
+	证明：
+	1. 首先有$L=2 * radiuses[i] - 1$为新串中以`processed[i]`为中心的回
+       文串的长度。
+	2. 以`processed[i]`为中心的回文串一定是以`'#'`字符开始和结尾的，因
+       此，当`L`减去回文串最前（或最后）的`'#'`字符后，其长度正好是原
+       字符串的两倍，即$(L-1)/2$，将$L$代入化解即得$radiuses[i] - 1$。
+	
+3. 因此只要计算出预处理后字符串的回文半径数组就可以求出回文字符串了。
+*Manacher*算法在计算回文半径是利用到了动态规划的思路。它利用两个辅助变
+量`max_right`和`max_index`来计算`radiuses`数组。其中`max_right`代表预
+处理串中最大的回文字符串的最右边位置，`max_index`则代表回文字符串的中
+心索引位置（该算法也可以只使用一个`max_index`辅助变量）。步骤如下：
+
+	1. `i < max_right`意味着当前字符处于最大回文半径范围内，因此可以利
+       用回文的特性找到其以`max_index`为中心的对称点（`max\_index -
+       (i - max_index) = 2 * max_index - i`）的回文半径，避免重复计算。
+	   
+       1. 若对称点的回文半径小于`max_right - i`，说明以字符
+          `processed[i]`为中的回文半径等于其对称点的回文半径。
+	   2. 若对称点的回文半径大于等于$max\_right - i$，说明该点的回文
+           半径至少为`max_right - i`。此时还需要利用中心扩展法进行探测。
+		   
+	2. `i >= max_right`意味着需要重新以中心扩展的方式计算回文半径。
 
 代码
 ----
@@ -137,20 +161,16 @@ private:
 class Solution {
 public:
 	string longestPalindrome(string s) {
-		int len = s.length();
-		if (len <= 1) {
-			return s;
-		}
-		
 		string str = preprocess(s);
-		vector<int> radiuses(str.length());
-		int maxRadius = 0, maxPoint = 0;
+		int len = str.length();		
+		vector<int> radiuses(len);
+		int max_right = 0, max_index = 0;
 		
-		len = str.length();
-		for (int i = 1; i < len; ++i) {
-			if (maxRadius > i) {
-				radiuses[i] = maxRadius + maxPoint - i > radiuses[2 * maxPoint - i] ? maxRadius + maxPoint - i : radiuses[2 * maxPoint - i];
-			} else {
+		for (int i = 0; i < len; ++i) {
+			/* core code */
+			if (max_right > i) {
+				radiuses[i] = max_right - i < radiuses[2 * max_index - i] ? max_right - i : radiuses[2 * max_index - i];
+   			} else {
 				radiuses[i] = 1;
 			}
 			
@@ -158,17 +178,17 @@ public:
 				radiuses[i]++;
 			}
 			
-			if (radiuses[i] > maxRadius) {
-				maxRadius = radiuses[i];
-				maxPoint = i;
+			if (max_right - max_index < radiuses[i]) {
+				max_index = i;
+				max_right = i + radiuses[i];
 			}
 		}
 		
-		len = radiuses[maxPoint] - 1;
-		int start = maxPoint - len;
+		len = radiuses[max_index] - 1;
+		int start = max_index - len;
 		string result;
 		while (len--) {
-			result.push_back(str[start + 1]);
+			result.push_back(str[start + 1]); /* skip '#' */
 			start += 2;
 		}
 		
