@@ -50,6 +50,7 @@ one unique longest palindromic substring.
       的回文半径。
 	  
   处理完上述两种情况后，还需要对其进行扩展，以判断是否存在更长的回文串。
+  详细说明请看[这里](http://blog.csdn.net/japinli/article/details/52195212)。
 
 
 代码
