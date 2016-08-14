@@ -7,6 +7,7 @@ LeetCode 练习题
 5. [Longest Palindromic Substring](src/longestPalindromicSubstring.md)
 6. [ZigZag Conversion](src/zigzagConversion.md)
 7. [Reverse Integer](src/reverseInteger.md)
+8. [String to Integer (atoi)](src/stringToInteger.md)
 9. [Palindrome Numbers](src/palindromeNumber.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 136. [Single Number](src/singleNumber.md)
