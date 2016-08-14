@@ -52,20 +52,26 @@ string convert(string text, int nRows);
 1. 遍历字符串，将每个字符放入一个二维数组中，数组按列遍历，最后在按行
    遍历二维数组读取字符形成锯齿形字符串。
 2. 参考[xwr1314521][]我们可以按字符串数组下标写出其生成锯齿形的对应关系，如下所示：
-   字符串`"abcdefghijklmn", nRows = 3`
+
+	字符串`"abcdefghijklmn", nRows = 3`
+	
    ```
    a   e   i       |  0   4   8
    b d f h k n     |  1 3 5 7 9  11
    c   g   m       |  2   6   10
    ```
+   
    若`nRows=4`
+   
    ```
    a     g     n   | 0     6
    b   f h   m     | 1   5 7    11
    c e   i k       | 2 4   8 10
    d     j         | 3     9
    ```
+   
    从上面可以看出对于字符串，转化为锯齿形后具有如下特征
+   
    ```
    words[0] = 2 * i * (nRows - 1)
    words[1] = 2 * i * (nRows - 1) +/- 1
@@ -75,7 +81,8 @@ string convert(string text, int nRows);
 	  .                 .
    words[n-1] = 2 * i * (nRows - 1) + (n - 1)
    ```
-   其中`i`代码列号。
+   
+   其中`i`代表列号。
    
 
 代码
