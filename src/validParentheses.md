@@ -8,7 +8,7 @@ Given a string containing just the characters `'('`, `')'`, `'{'`,
 `'}'`, `'['` and `']'`, determine if the input string is valid.
 
 The brackets must close in the correct order, `"()"` and `"()[]{}"`
-are all valid but `"(]"` and `"([)]` are not.
+are all valid but `"(]"` and `"([)]"` are not.
 
 题意
 ----
@@ -17,7 +17,7 @@ are all valid but `"(]"` and `"([)]` are not.
 判断输入的字符串是否有效。
 
 括号必须以正确的顺序闭合，例如`"()"`和`"()[]{}"`是有效的，但是`"(]"`和
-`"([)]`是无效的。
+`"([)]"`是无效的。
 
 思路
 ----
