@@ -1,5 +1,6 @@
 LeetCode 练习题
 ===============
+
 1. [Two Sum](src/twoSum.md)
 2. [Add Two Numbers](src/addTwoNumbers.md)
 3. [Longest Substring Without Repeating Characters](src/longestSubstringWithoutRepeatingCharacters.md)
@@ -23,3 +24,4 @@ LeetCode 练习题
 350. [Intersection of Two Arrays II](src/intersectionOfTwoArraysII.md)
 372. [Super Pow](src/superPow.md)
 374. [Guess Number Higher or Lower](src/guessNumberHigherOrLower.md)
+382. [Linked List Random Node](src/linkedListRandomNode.md)
