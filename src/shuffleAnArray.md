@@ -58,6 +58,10 @@ solution.shuffle();
    度减`1`；接着进行第二轮选取，此时在区间`[0, n-2]`内随机选取一个数并
    与`n-2`位置上的数交换，结果数组长度加`1`，剩余数组长度减`1`。重复此
    过程直至剩余数组长度为`0`为止。此算法的时间复杂度为`O(n)`。
+3. 方法2是一种*in-space*算法，在数组非常大时，这是它的一个优点。但是本
+   题要保证能够重置为原数组，为此，通过使用额外的数据空间拷贝了一份原
+   始数据，然后在这个拷贝的数据上进行操作。在*wikipedia*上给出的另
+   *inside-out*算法，则动态的向数组添加元素，避免了先整体拷贝的操作。
    
 代码
 ----
@@ -130,6 +134,42 @@ public:
 		for (size_t i = result.size() - 1; i > 0 ; --i) {
 			size_t idx = rand() % (i + 1);
 			swap(result[idx], result[i]);
+		}
+		
+		return result;
+	}
+	
+private:
+	vector<int> array_;
+};
+```
+
+思路3示例代码
+```c++
+class Solution {
+public:
+	Solution(vector<int> nums) {
+		array_ = nums;
+	}
+	
+	/** Resets the array to its original configuration and return it. */
+	vector<int> reset() {
+		return array_;
+	}
+	
+	/** Returns a random shuffling of the array. */
+	vector<int> shuffle() {
+		vector<int> result;
+		
+		for (size_t i = 0; i < array_.size(); ++i) {
+			size_t len = result.size();
+			size_t idx = rand() % (len + 1);
+			if (idx == len) {
+				result.push_back(array_[i]);
+			} else {
+				result.push_back(result[idx]);
+				result[idx] = array_[i];
+			}
 		}
 		
 		return result;
