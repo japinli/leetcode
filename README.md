@@ -27,3 +27,4 @@ LeetCode 练习题
 374. [Guess Number Higher or Lower](src/guessNumberHigherOrLower.md)
 382. [Linked List Random Node](src/linkedListRandomNode.md)
 384. [Shuffle an Array](src/shuffleAnArray.md)
+387. [First Unique Character in a String](src/firstUniqueCharInString.md)
