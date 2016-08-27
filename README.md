@@ -20,6 +20,7 @@ LeetCode 练习题
 162. [Find Peak Element](src/findPeakElement.md)
 201. [Bitwise AND of Numbers Range](./src/bitwiseANDofNumbersRange.md)
 260. [Single Number III](src/singleNumberIII.md)
+326. [Power of Three](src/powerOfThree.md)
 349. [Intersection of Two Arrays](src/intersectionOfTwoArrays.md)
 350. [Intersection of Two Arrays II](src/intersectionOfTwoArraysII.md)
 367. [Valid Perfect Square](src/validPerfectSquare.md)
