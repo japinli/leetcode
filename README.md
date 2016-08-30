@@ -32,3 +32,4 @@ LeetCode 练习题
 384. [Shuffle an Array](src/shuffleAnArray.md)
 387. [First Unique Character in a String](src/firstUniqueCharInString.md)
 389. [Find the Difference](src/findTheDifference.md)
+390. [Elimination Game](src/eliminationGame.md)
