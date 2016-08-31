@@ -21,6 +21,7 @@ LeetCode 练习题
 191. [Number of 1 Bits](src/numberOf1Bits.md)
 201. [Bitwise AND of Numbers Range](./src/bitwiseANDofNumbersRange.md)
 260. [Single Number III](src/singleNumberIII.md)
+263. [Ugly Number](src/uglyNumber.md)
 326. [Power of Three](src/powerOfThree.md)
 295. [Find Median from Data Stream](src/findMedianFromDataStream.md)
 349. [Intersection of Two Arrays](src/intersectionOfTwoArrays.md)
