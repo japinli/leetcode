@@ -30,21 +30,20 @@ public:
 	       int len1 = a.size();
 	       int len2 = b.size();
 	       int carry = 0;
-	       int max = len1 > len2 ? len1 : len2;
-	       
-	       for (int i = max; i > 0 ; --i) {
+
+	       while (len1 > 0 || len2 > 0) {
 	       	   carry += len1 > 0 ? a[--len1] - '0' : 0;
 		   carry += len2 > 0 ? b[--len2] - '0' : 0;
 
-		   result.push_back('0' + (carry % 2));
+		   result = char(carry % 2 + '0') + result;
 		   carry /= 2;
 	       }
 	       
 	       if (carry) {
-	       	   result.push_back('1');
+	       	   result = '1' + result;
 	       }
 	       
-	       return string(result.rbegin(), result.rend());
+	       return result;
 	}
 };
 ```

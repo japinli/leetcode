@@ -15,6 +15,7 @@ LeetCode 练习题
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 50. [Pow(x, n)](src/powXN.md)
 66. [Plus One](src/plusOne.md)
+67. [Add Binary](src/addBinary.md)
 136. [Single Number](src/singleNumber.md)
 137. [Single Number II](src/singleNumberII.md)
 141. [Linked List Cycle](src/linkedListCycle.md)
