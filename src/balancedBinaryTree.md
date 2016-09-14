@@ -21,7 +21,12 @@ by more than 1.
 思路
 ----
 
-1. 递归的判断每个节点的两个子树的高度差，出现不平衡时直接返回。
+1. 递归的判断每个节点的两个子树的高度差，出现不平衡时直接返回。该方法
+   需要递归调用判断其子树的高度，同时，每个节点需要判断是否平衡，时间
+   复杂度大致为`O(n^2)`。
+2. 通过上面的思路，我们可以利用已有的信息，通过从下往上将节点的高度差
+   累积到父节点上，若某个父节点出现不平衡则可直接返回，否则继续这个过
+   程直到根节点为止。该方法的时间复杂度约为`O(n)`。
 
 代码
 ----
@@ -55,6 +60,34 @@ public:
 		}
 		
 		return 1 + max(binaryTreeDepth(root->left), binaryTreeDepth(root->right));
+	}
+};
+```
+
+思路2示例代码
+```c++
+class Solution {
+public:
+	bool isBalanced(TreeNode* root) {
+		return checkDepth(root) == -1 ? false : true;
+	}
+	
+	int checkDepth(TreeNode* root) {
+		if (root == NULL) {
+			return 0;
+		}
+		
+		int left = checkDepth(root->left);
+		if (left == -1) {
+			return left;
+		}
+		
+		int right = checkDepth(root->right);
+		if (right == -1) {
+			return right;
+		}
+		
+		return abs(left - right) > 1 ? -1 : max(left, right) + 1;
 	}
 };
 ```
