@@ -34,6 +34,7 @@ LeetCode 练习题
 349. [Intersection of Two Arrays](src/intersectionOfTwoArrays.md)
 350. [Intersection of Two Arrays II](src/intersectionOfTwoArraysII.md)
 367. [Valid Perfect Square](src/validPerfectSquare.md)
+371. [Sum of Two Integers](src/sumOfTwoIntegers.md)
 372. [Super Pow](src/superPow.md)
 374. [Guess Number Higher or Lower](src/guessNumberHigherOrLower.md)
 382. [Linked List Random Node](src/linkedListRandomNode.md)
