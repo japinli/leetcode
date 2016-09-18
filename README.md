@@ -15,6 +15,7 @@ LeetCode 练习题
 22. [Generate Parentheses](src/generateParentheses.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 50. [Pow(x, n)](src/powXN.md)
+61. [Rotate List](src/rotateList.md)
 66. [Plus One](src/plusOne.md)
 67. [Add Binary](src/addBinary.md)
 100. [Same Tree](src/sameTree.md)
