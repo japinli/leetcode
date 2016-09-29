@@ -35,6 +35,7 @@ LeetCode 练习题
 263. [Ugly Number](src/uglyNumber.md)
 287. [Find the Duplicate Number](src/findTheDuplicateNumber.md)
 295. [Find Median from Data Stream](src/findMedianFromDataStream.md)
+299. [Bulls and Cows](src/bullsAndCows.md)
 326. [Power of Three](src/powerOfThree.md)
 349. [Intersection of Two Arrays](src/intersectionOfTwoArrays.md)
 350. [Intersection of Two Arrays II](src/intersectionOfTwoArraysII.md)
