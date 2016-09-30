@@ -48,3 +48,4 @@ LeetCode 练习题
 387. [First Unique Character in a String](src/firstUniqueCharInString.md)
 389. [Find the Difference](src/findTheDifference.md)
 390. [Elimination Game](src/eliminationGame.md)
+396. [Rotate Function](src/rotateFunction.md)
