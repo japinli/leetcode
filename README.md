@@ -23,6 +23,7 @@ LeetCode 练习题
 94. [Binary Tree Inorder Traversal](src/binaryTreeInorderTraversal.md)
 100. [Same Tree](src/sameTree.md)
 105. [Construct Binary Tree from Preorder and Inorder Traversal](src/constructBinaryPreorderAndInorder.md)
+106. [Construct Binary Tree from Inorder and Postorder Traversal](src/constructBinaryInorderAndPostorder.md)
 110. [Balanced Binary Tree](src/balancedBinaryTree.md)
 111. [Minimum Depth of Binary Tree](src/minimumDepthOfBinaryTree.md)
 136. [Single Number](src/singleNumber.md)
