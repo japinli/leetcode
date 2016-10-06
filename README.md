@@ -21,6 +21,7 @@ LeetCode 练习题
 67. [Add Binary](src/addBinary.md)
 70. [Climbing Stairs](src/climbingStairs.md)
 94. [Binary Tree Inorder Traversal](src/binaryTreeInorderTraversal.md)
+98. [Validate Binary Search Tree](src/validateBinarySearchTree.md)
 100. [Same Tree](src/sameTree.md)
 105. [Construct Binary Tree from Preorder and Inorder Traversal](src/constructBinaryPreorderAndInorder.md)
 106. [Construct Binary Tree from Inorder and Postorder Traversal](src/constructBinaryInorderAndPostorder.md)
