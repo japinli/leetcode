@@ -22,6 +22,9 @@ return `5`.
 ----
 
 1. 分两步进行：a.跳过末尾的空白字符；b.从后向前统计非空白字符的个数。
+2. 思路1采用从后往前的计算。我们也可以采用由前往后计算，分三步进行：
+   a.跳过所有空白字符；b.统计非空白字符的长度；c.若出现空白字符，将长
+   度置为0，跳转到(a)。
 
 代码
 ----
@@ -41,6 +44,27 @@ public:
 		while (index >= 0 && s[index] != ' ') {
 			index--;
 			lastWordLength++;
+		}
+		
+		return lastWordLength;
+	}
+};
+```
+
+思路2示例代码
+```
+class Solution {
+public:
+	int lengthOfLastWord(string s) {
+		int lastWordLength = 0;
+		int index = 0;
+		
+		while (index < s.length()) {
+			if (s[index++] != ' ') {
+				lastWordLength++;
+			} else if (index < s.length() && s[index] != ' ') {
+				lastWordLength = 0;
+			}
 		}
 		
 		return lastWordLength;
