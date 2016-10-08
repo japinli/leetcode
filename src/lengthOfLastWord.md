@@ -52,7 +52,7 @@ public:
 ```
 
 思路2示例代码
-```
+```c++
 class Solution {
 public:
 	int lengthOfLastWord(string s) {
