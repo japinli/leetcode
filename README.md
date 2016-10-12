@@ -14,6 +14,7 @@ LeetCode 练习题
 19. [Remove Nth Node From End of List](src/removeNthNodeFromEndOfList.md)
 20. [Valid Parentheses](src/validParentheses.md)
 22. [Generate Parentheses](src/generateParentheses.md)
+26. [Remove Duplicates from Sorted Array](src/removeDuplicatesFromSortedArray.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 31. [Next Permutation](src/nextPermutation.md)
 50. [Pow(x, n)](src/powXN.md)
