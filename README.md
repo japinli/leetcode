@@ -18,6 +18,7 @@ LeetCode 练习题
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 31. [Next Permutation](src/nextPermutation.md)
 50. [Pow(x, n)](src/powXN.md)
+55. [Jump Game](src/jumpGame.md)
 58. [Length of Last Word](src/lengthOfLastWord.md)
 61. [Rotate List](src/rotateList.md)
 66. [Plus One](src/plusOne.md)
