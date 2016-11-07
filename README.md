@@ -15,6 +15,7 @@ LeetCode 练习题
 20. [Valid Parentheses](src/validParentheses.md)
 21. [Merge Two Sorted Lists](src/mergeTwoSortedLists.md)
 22. [Generate Parentheses](src/generateParentheses.md)
+23. [Merge k Sorted Lists](src/mergeKSortedLists.md)
 26. [Remove Duplicates from Sorted Array](src/removeDuplicatesFromSortedArray.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 31. [Next Permutation](src/nextPermutation.md)
