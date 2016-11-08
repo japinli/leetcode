@@ -59,3 +59,4 @@ LeetCode 练习题
 390. [Elimination Game](src/eliminationGame.md)
 391. [Perfect Rectangle](src/prefectRectangle.md)
 396. [Rotate Function](src/rotateFunction.md)
+442. [Find All Duplicates in an array](src/findAllDuplicatesInAnArray.md)
