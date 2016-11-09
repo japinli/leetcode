@@ -17,6 +17,7 @@ LeetCode 练习题
 22. [Generate Parentheses](src/generateParentheses.md)
 23. [Merge k Sorted Lists](src/mergeKSortedLists.md)
 26. [Remove Duplicates from Sorted Array](src/removeDuplicatesFromSortedArray.md)
+28. [Implement strStr()](src/implementStr.md)
 29. [Divide Two Integers](src/divideTwoIntegers.md)
 31. [Next Permutation](src/nextPermutation.md)
 50. [Pow(x, n)](src/powXN.md)
