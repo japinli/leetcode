@@ -1,0 +1,2 @@
+abcde cdeab -> true
+abcde abced -> false

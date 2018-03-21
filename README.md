@@ -1,5 +1,10 @@
-LeetCode 练习题
-===============
+# LeetCode
+
+## Algorithms
+
+796. [Rotate String](Algorithms/Rotate.String)
+
+## Reorganize
 
 1. [Two Sum](src/twoSum.md)
 2. [Add Two Numbers](src/addTwoNumbers.md)
