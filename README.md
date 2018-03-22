@@ -6,6 +6,10 @@
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
+## Database
+
+595. [Big Countries](Database/Big.Countries)
+
 
 ## Reorganize
 
