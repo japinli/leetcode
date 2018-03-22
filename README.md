@@ -2,7 +2,8 @@
 
 ## Algorithms
 
-1.   [Two Sum](Algorithms/Two.Sum)
+1. [Two Sum](Algorithms/Two.Sum)
+2. [Add Two Numbers](Algorithms/Add.Two.Numbers)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
@@ -13,7 +14,6 @@
 
 ## Reorganize
 
-2. [Add Two Numbers](src/addTwoNumbers.md)
 3. [Longest Substring Without Repeating Characters](src/longestSubstringWithoutRepeatingCharacters.md)
 4. [Median of Two Sorted Arrays](src/medianofTwoSortedArrays.md)
 5. [Longest Palindromic Substring](src/longestPalindromicSubstring.md)
