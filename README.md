@@ -9,7 +9,9 @@
 
 ## Database
 
+175. [Combine Two Tables](Database/Combine.Two.Tables)
 595. [Big Countries](Database/Big.Countries)
+627. [Swap Salary](Database/Swap.Salary)
 
 
 ## Reorganize
