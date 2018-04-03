@@ -12,6 +12,7 @@
 175. [Combine Two Tables](Database/Combine.Two.Tables)
 176. [Second Highest Salary](Database/Second.Highest.Salary)
 181. [Employees Earning More Than Their Managers](Database/Employees.Earning.More.Than.Their.Managers)
+182. [Duplicate Emails](Database/Duplicate.Emails)
 595. [Big Countries](Database/Big.Countries)
 620. [Not Boring Movies](Database/Not.Boring.Movies)
 627. [Swap Salary](Database/Swap.Salary)
