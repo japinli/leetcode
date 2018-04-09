@@ -16,6 +16,7 @@
 183. [Customers Who Never Order](Database/Customers.Who.Never.Order)
 197. [Rising Temperature](Database/Rising.Temperature)
 595. [Big Countries](Database/Big.Countries)
+596. [Classes More Than 5 Students](Database/Classes.More.Than.5.Students)
 620. [Not Boring Movies](Database/Not.Boring.Movies)
 627. [Swap Salary](Database/Swap.Salary)
 
