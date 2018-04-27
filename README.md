@@ -1,11 +1,13 @@
 # LeetCode
 
+
 ## Algorithms
 
 1. [Two Sum](Algorithms/Two.Sum)
 2. [Add Two Numbers](Algorithms/Add.Two.Numbers)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
+
 
 ## Database
 
@@ -19,6 +21,11 @@
 596. [Classes More Than 5 Students](Database/Classes.More.Than.5.Students)
 620. [Not Boring Movies](Database/Not.Boring.Movies)
 627. [Swap Salary](Database/Swap.Salary)
+
+
+## Shell
+
+193. [Valid Phone Numbers](Shell/Valid.Phone.Numbers)
 
 
 ## Reorganize
