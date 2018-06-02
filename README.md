@@ -5,6 +5,7 @@
 
 1. [Two Sum](Algorithms/Two.Sum)
 2. [Add Two Numbers](Algorithms/Add.Two.Numbers)
+13. [Roman to Integer](Algorithms/Roman.to.Integer)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
