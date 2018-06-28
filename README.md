@@ -7,6 +7,7 @@
 2. [Add Two Numbers](Algorithms/Add.Two.Numbers)
 13. [Roman to Integer](Algorithms/Roman.to.Integer)
 35. [Search Insert Position](Algorithms/Search.Insert.Position)
+38. [Count and Say](Algorithms/Count.and.Say)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
@@ -18,6 +19,7 @@
 181. [Employees Earning More Than Their Managers](Database/Employees.Earning.More.Than.Their.Managers)
 182. [Duplicate Emails](Database/Duplicate.Emails)
 183. [Customers Who Never Order](Database/Customers.Who.Never.Order)
+196. [Delete Duplicate Emails](Database/Delete.Duplicate/Emails)
 197. [Rising Temperature](Database/Rising.Temperature)
 595. [Big Countries](Database/Big.Countries)
 596. [Classes More Than 5 Students](Database/Classes.More.Than.5.Students)
