@@ -30,6 +30,7 @@
 ## Shell
 
 193. [Valid Phone Numbers](Shell/Valid.Phone.Numbers)
+195. [Tenth Line](Shell/Tenth.Line)
 
 
 ## Reorganize
