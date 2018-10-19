@@ -1,6 +1,5 @@
 # LeetCode
 
-
 ## Algorithms
 
 1. [Two Sum](Algorithms/Two.Sum)
@@ -8,6 +7,7 @@
 13. [Roman to Integer](Algorithms/Roman.to.Integer)
 35. [Search Insert Position](Algorithms/Search.Insert.Position)
 38. [Count and Say](Algorithms/Count.and.Say)
+53. [Maximum Subarray](Algorithms/Maximum.Subarray)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
