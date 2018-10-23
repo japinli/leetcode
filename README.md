@@ -8,6 +8,7 @@
 35. [Search Insert Position](Algorithms/Search.Insert.Position)
 38. [Count and Say](Algorithms/Count.and.Say)
 53. [Maximum Subarray](Algorithms/Maximum.Subarray)
+69. [Sqrt(x)](Algorithms/Sqrtx)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
