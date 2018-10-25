@@ -9,6 +9,7 @@
 38. [Count and Say](Algorithms/Count.and.Say)
 53. [Maximum Subarray](Algorithms/Maximum.Subarray)
 69. [Sqrt(x)](Algorithms/Sqrtx)
+101. [Symmetric Tree](Algorithms/Symmetric.Tree)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
 
