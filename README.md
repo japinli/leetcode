@@ -12,6 +12,7 @@
 101. [Symmetric Tree](Algorithms/Symmetric.Tree)
 771. [Jewels and Stones](Algorithms/Jewels.and.Stones)
 796. [Rotate String](Algorithms/Rotate.String)
+905. [Sort Array By Parity](Algorithms/Sort.Array.By.Parity)
 
 
 ## Database
