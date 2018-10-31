@@ -1,8 +1,8 @@
 # LeetCode
 
-| #       | Title                                        | Tags             |
-|---------|----------------------------------------------|------------------|
-| [832][] | [Flipping an Image]                            | [Array]()        |
+| #        | Title                                        | Tags             |
+|----------|----------------------------------------------|------------------|
+| [832][]  | [Flipping an Image][]                        | [Array][]        |
 
 
 <!-- Questions -->
@@ -12,7 +12,7 @@
 [Array]: https://leetcode.com/tag/array/
 
 <!-- Solutions -->
-[Flipping an Image]: ./Flipping.an.Image/
+[Flipping an Image]: ./0832-Flipping.an.Image/
 
 <!--
 ## Algorithms
