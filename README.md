@@ -1,5 +1,20 @@
 # LeetCode
 
+| #       | Title                                        | Tags             |
+|---------|----------------------------------------------|------------------|
+| [832][] | [Flipping an Image]                            | [Array]()        |
+
+
+<!-- Questions -->
+[832]: https://leetcode.com/problems/flipping-an-image/
+
+<!-- Tags -->
+[Array]: https://leetcode.com/tag/array/
+
+<!-- Solutions -->
+[Flipping an Image]: ./Flipping.an.Image/
+
+<!--
 ## Algorithms
 
 1. [Two Sum](Algorithms/Two.Sum)
@@ -96,3 +111,4 @@
 391. [Perfect Rectangle](src/prefectRectangle.md)
 396. [Rotate Function](src/rotateFunction.md)
 442. [Find All Duplicates in an array](src/findAllDuplicatesInAnArray.md)
+-->
