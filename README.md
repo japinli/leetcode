@@ -4,6 +4,7 @@
 |----------|----------------------------------------------|------------------|
 | [561][]  | [Array Partition I][]                        | [Array][]        |
 | [832][]  | [Flipping an Image][]                        | [Array][]        |
+| [867][]  | [Transpose Matrix][]                         | [Array][]        |
 
 
 <!-- Questions -->
@@ -16,6 +17,7 @@
 <!-- Solutions -->
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Array Partition I]: ./0561-Array.Partition.I/
+[Transpose Matrix]: ./0867-Transpose.Matrix/
 
 <!--
 ## Algorithms
