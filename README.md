@@ -2,17 +2,20 @@
 
 | #        | Title                                        | Tags             |
 |----------|----------------------------------------------|------------------|
+| [561][]  | [Array Partition I][]                        | [Array][]        |
 | [832][]  | [Flipping an Image][]                        | [Array][]        |
 
 
 <!-- Questions -->
 [832]: https://leetcode.com/problems/flipping-an-image/
+[561]: https://leetcode.com/problems/array-partition-i/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
 
 <!-- Solutions -->
 [Flipping an Image]: ./0832-Flipping.an.Image/
+[Array Partition I]: ./0561-Array.Partition.I/
 
 <!--
 ## Algorithms
