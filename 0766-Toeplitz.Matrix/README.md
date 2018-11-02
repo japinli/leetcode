@@ -23,8 +23,6 @@ In each diagonal all elements are the same, so the answer is True.
 __Example 2:__
 
 ```
-
-
 Input:
 matrix = [
   [1,2],
