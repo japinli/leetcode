@@ -7,6 +7,7 @@
 | [766][]  | [Toeplitz Matrix][]                          | [Array][]        |
 | [832][]  | [Flipping an Image][]                        | [Array][]        |
 | [867][]  | [Transpose Matrix][]                         | [Array][]        |
+| [896][]  | [Monotonic Array][]                          | [Array][]        |
 
 
 <!-- Questions -->
@@ -15,6 +16,7 @@
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [867]: https://leetcode.com/problems/transpose-matrix/
+[896]: https://leetcode.com/problems/monotonic-array/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -25,6 +27,7 @@
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
+[Monotonic Array]: ./0896-Monotonic.Array/
 
 <!--
 ## Algorithms
