@@ -3,6 +3,7 @@
 | #        | Title                                        | Tags             |
 |----------|----------------------------------------------|------------------|
 | [561][]  | [Array Partition I][]                        | [Array][]        |
+| [566][]  | [Reshape the Matrix][]                       | [Array][]        |
 | [766][]  | [Toeplitz Matrix][]                          | [Array][]        |
 | [832][]  | [Flipping an Image][]                        | [Array][]        |
 | [867][]  | [Transpose Matrix][]                         | [Array][]        |
@@ -10,6 +11,7 @@
 
 <!-- Questions -->
 [561]: https://leetcode.com/problems/array-partition-i/
+[566]: https://leetcode.com/problems/reshape-the-matrix/
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [867]: https://leetcode.com/problems/transpose-matrix/
@@ -19,6 +21,7 @@
 
 <!-- Solutions -->
 [Array Partition I]: ./0561-Array.Partition.I/
+[Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
