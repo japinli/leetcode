@@ -2,6 +2,7 @@
 
 | #        | Title                                        | Tags             |
 |----------|----------------------------------------------|------------------|
+| [485][]  | [Max Consecutive Ones][]                     | [Array][]        |
 | [561][]  | [Array Partition I][]                        | [Array][]        |
 | [566][]  | [Reshape the Matrix][]                       | [Array][]        |
 | [766][]  | [Toeplitz Matrix][]                          | [Array][]        |
@@ -11,6 +12,7 @@
 
 
 <!-- Questions -->
+[485]: https://leetcode.com/problems/max-consecutive-ones/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [766]: https://leetcode.com/problems/toeplitz-matrix/
@@ -22,6 +24,7 @@
 [Array]: https://leetcode.com/tag/array/
 
 <!-- Solutions -->
+[Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
