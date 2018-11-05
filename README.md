@@ -8,6 +8,7 @@
 | [766][]  | [Toeplitz Matrix][]                          | [Array][]        |
 | [832][]  | [Flipping an Image][]                        | [Array][]        |
 | [867][]  | [Transpose Matrix][]                         | [Array][]        |
+| [888][]  | [Fair Candy Swap][]                          | [Array][]        |
 | [896][]  | [Monotonic Array][]                          | [Array][]        |
 
 
@@ -18,6 +19,7 @@
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [867]: https://leetcode.com/problems/transpose-matrix/
+[888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
 
 <!-- Tags -->
@@ -30,6 +32,7 @@
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
+[Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
 
 <!--
