@@ -1,19 +1,21 @@
 # LeetCode
 
-| #        | Title                                        | Tags             |
-|----------|----------------------------------------------|------------------|
-| [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]        |
-| [485][]  | [Max Consecutive Ones][]                     | [Array][]        |
-| [561][]  | [Array Partition I][]                        | [Array][]        |
-| [566][]  | [Reshape the Matrix][]                       | [Array][]        |
-| [766][]  | [Toeplitz Matrix][]                          | [Array][]        |
-| [832][]  | [Flipping an Image][]                        | [Array][]        |
-| [867][]  | [Transpose Matrix][]                         | [Array][]        |
-| [888][]  | [Fair Candy Swap][]                          | [Array][]        |
-| [896][]  | [Monotonic Array][]                          | [Array][]        |
+| #        | Title                                        | Tags                              |
+|----------|----------------------------------------------|-----------------------------------|
+| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][] [Dynamic programming][] |
+| [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
+| [485][]  | [Max Consecutive Ones][]                     | [Array][]                         |
+| [561][]  | [Array Partition I][]                        | [Array][]                         |
+| [566][]  | [Reshape the Matrix][]                       | [Array][]                         |
+| [766][]  | [Toeplitz Matrix][]                          | [Array][]                         |
+| [832][]  | [Flipping an Image][]                        | [Array][]                         |
+| [867][]  | [Transpose Matrix][]                         | [Array][]                         |
+| [888][]  | [Fair Candy Swap][]                          | [Array][]                         |
+| [896][]  | [Monotonic Array][]                          | [Array][]                         |
 
 
 <!-- Questions -->
+[121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [561]: https://leetcode.com/problems/array-partition-i/
@@ -26,8 +28,10 @@
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
+[Dynamic programming]: https://leetcode.com/tag/dynamic-programming/
 
 <!-- Solutions -->
+[]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
