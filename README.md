@@ -2,7 +2,7 @@
 
 | #        | Title                                        | Tags                              |
 |----------|----------------------------------------------|-----------------------------------|
-| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][] [Dynamic programming][] |
+| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic programming][] |
 | [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
 | [485][]  | [Max Consecutive Ones][]                     | [Array][]                         |
 | [561][]  | [Array Partition I][]                        | [Array][]                         |
@@ -31,7 +31,7 @@
 [Dynamic programming]: https://leetcode.com/tag/dynamic-programming/
 
 <!-- Solutions -->
-[]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
+[Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
