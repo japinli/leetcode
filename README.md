@@ -2,8 +2,9 @@
 
 | #        | Title                                        | Tags                              |
 |----------|----------------------------------------------|-----------------------------------|
-| [26][]   | [Remove Duplicates from Sorted Array][]      |[Array][],[Two Pointers][]         |
+| [26][]   | [Remove Duplicates from Sorted Array][]      | [Array][],[Two Pointers][]        |
 | [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][] |
+| [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]        |
 | [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
 | [485][]  | [Max Consecutive Ones][]                     | [Array][]                         |
 | [561][]  | [Array Partition I][]                        | [Array][]                         |
@@ -16,7 +17,9 @@
 
 
 <!-- Questions -->
+[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[283]: https://leetcode.com/problems/move-zeroes/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [561]: https://leetcode.com/problems/array-partition-i/
@@ -35,6 +38,7 @@
 <!-- Solutions -->
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
+[Move Zeroes]: ./0283-Move.Zeroes/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
