@@ -2,7 +2,8 @@
 
 | #        | Title                                        | Tags                              |
 |----------|----------------------------------------------|-----------------------------------|
-| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic programming][] |
+| [26][]   | [Remove Duplicates from Sorted Array][]      |[Array][],[Two Pointers][]         |
+| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][] |
 | [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
 | [485][]  | [Max Consecutive Ones][]                     | [Array][]                         |
 | [561][]  | [Array Partition I][]                        | [Array][]                         |
@@ -28,9 +29,11 @@
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
-[Dynamic programming]: https://leetcode.com/tag/dynamic-programming/
+[Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
+[Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 <!-- Solutions -->
+[Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
