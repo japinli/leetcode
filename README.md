@@ -5,6 +5,7 @@
 | [26][]   | [Remove Duplicates from Sorted Array][]      | [Array][],[Two Pointers][]        |
 | [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][] |
 | [122][]  | [Best Time to Buy and Sell Stock II][]       | [Array][],[Greedy][]              |
+| [171][]  | [1-bit and 2-bit Characters][]               | [Array][]                         |
 | [189][]  | [Rotate Array][]                             | [Array][]                         |
 | [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]        |
 | [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
@@ -22,6 +23,7 @@
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
 [283]: https://leetcode.com/problems/move-zeroes/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
@@ -44,6 +46,7 @@
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
+[1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
 [Move Zeroes]: ./0283-Move.Zeroes/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
