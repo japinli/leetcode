@@ -1,28 +1,30 @@
 # LeetCode
 
-| #        | Title                                        | Tags                              |
-|----------|----------------------------------------------|-----------------------------------|
-| [26][]   | [Remove Duplicates from Sorted Array][]      | [Array][],[Two Pointers][]        |
-| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][] |
-| [122][]  | [Best Time to Buy and Sell Stock II][]       | [Array][],[Greedy][]              |
-| [171][]  | [1-bit and 2-bit Characters][]               | [Array][]                         |
-| [189][]  | [Rotate Array][]                             | [Array][]                         |
-| [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]        |
-| [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                         |
-| [485][]  | [Max Consecutive Ones][]                     | [Array][]                         |
-| [561][]  | [Array Partition I][]                        | [Array][]                         |
-| [566][]  | [Reshape the Matrix][]                       | [Array][]                         |
-| [766][]  | [Toeplitz Matrix][]                          | [Array][]                         |
-| [832][]  | [Flipping an Image][]                        | [Array][]                         |
-| [867][]  | [Transpose Matrix][]                         | [Array][]                         |
-| [888][]  | [Fair Candy Swap][]                          | [Array][]                         |
-| [896][]  | [Monotonic Array][]                          | [Array][]                         |
+| #        | Title                                        | Tags                                          |
+|----------|----------------------------------------------|-----------------------------------------------|
+| [26][]   | [Remove Duplicates from Sorted Array][]      | [Array][],[Two Pointers][]                    |
+| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][]             |
+| [122][]  | [Best Time to Buy and Sell Stock II][]       | [Array][],[Greedy][]                          |
+| [167][]  | [Two Sum II - Input array is sorted][]       | [Array][],[Two Pointers][],[Binary Search][]  |
+| [171][]  | [1-bit and 2-bit Characters][]               | [Array][]                                     |
+| [189][]  | [Rotate Array][]                             | [Array][]                                     |
+| [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]                    |
+| [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                                     |
+| [485][]  | [Max Consecutive Ones][]                     | [Array][]                                     |
+| [561][]  | [Array Partition I][]                        | [Array][]                                     |
+| [566][]  | [Reshape the Matrix][]                       | [Array][]                                     |
+| [766][]  | [Toeplitz Matrix][]                          | [Array][]                                     |
+| [832][]  | [Flipping an Image][]                        | [Array][]                                     |
+| [867][]  | [Transpose Matrix][]                         | [Array][]                                     |
+| [888][]  | [Fair Candy Swap][]                          | [Array][]                                     |
+| [896][]  | [Monotonic Array][]                          | [Array][]                                     |
 
 
 <!-- Questions -->
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
 [283]: https://leetcode.com/problems/move-zeroes/
@@ -38,6 +40,7 @@
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
+[Binary Search]: https://leetcode.com/tag/binary-search/
 [Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
 [Greedy]: https://leetcode.com/tag/greedy/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
@@ -46,6 +49,7 @@
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
+[Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
 [Move Zeroes]: ./0283-Move.Zeroes/
