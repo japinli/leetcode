@@ -60,6 +60,7 @@
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
+[Missing Number]: ./0268-Missing.Number/
 [Move Zeroes]: ./0283-Move.Zeroes/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
