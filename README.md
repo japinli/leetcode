@@ -9,6 +9,7 @@
 | [171][]  | [1-bit and 2-bit Characters][]               | [Array][]                                     |
 | [189][]  | [Rotate Array][]                             | [Array][]                                     |
 | [217][]  | [Contains Duplicate][]                       | [Array][],[Hash Table][]                      |
+| [268][]  | [Missing Number][]                           | [Array][],[Math][],[Bit Manipulation][]       |
 | [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]                    |
 | [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                                     |
 | [485][]  | [Max Consecutive Ones][]                     | [Array][]                                     |
@@ -29,6 +30,7 @@
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
 [217]: https://leetcode.com/problems/contains-duplicate/
+[268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
@@ -43,9 +45,11 @@
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
 [Binary Search]: https://leetcode.com/tag/binary-search/
+[Bit Manipulation]: https://leetcode.com/tag/bit-manipulation/
 [Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
 [Greedy]: https://leetcode.com/tag/greedy/
 [Hash Table]: https://leetcode.com/tag/hash-table/
+[Math]: https://leetcode.com/tag/math/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 <!-- Solutions -->
