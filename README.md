@@ -1,25 +1,26 @@
 # LeetCode
 
-| #        | Title                                        | Tags                                          |
-|----------|----------------------------------------------|-----------------------------------------------|
-| [26][]   | [Remove Duplicates from Sorted Array][]      | [Array][],[Two Pointers][]                    |
-| [121][]  | [Best Time to Buy and Sell Stock][]          | [Array][],[Dynamic Programming][]             |
-| [122][]  | [Best Time to Buy and Sell Stock II][]       | [Array][],[Greedy][]                          |
-| [167][]  | [Two Sum II - Input array is sorted][]       | [Array][],[Two Pointers][],[Binary Search][]  |
-| [171][]  | [1-bit and 2-bit Characters][]               | [Array][]                                     |
-| [189][]  | [Rotate Array][]                             | [Array][]                                     |
-| [217][]  | [Contains Duplicate][]                       | [Array][],[Hash Table][]                      |
-| [268][]  | [Missing Number][]                           | [Array][],[Math][],[Bit Manipulation][]       |
-| [283][]  | [Move Zeroes][]                              | [Array][],[Two Pointers][]                    |
-| [448][]  | [Find All Numbers Disappered in an Array][]  | [Array][]                                     |
-| [485][]  | [Max Consecutive Ones][]                     | [Array][]                                     |
-| [561][]  | [Array Partition I][]                        | [Array][]                                     |
-| [566][]  | [Reshape the Matrix][]                       | [Array][]                                     |
-| [766][]  | [Toeplitz Matrix][]                          | [Array][]                                     |
-| [832][]  | [Flipping an Image][]                        | [Array][]                                     |
-| [867][]  | [Transpose Matrix][]                         | [Array][]                                     |
-| [888][]  | [Fair Candy Swap][]                          | [Array][]                                     |
-| [896][]  | [Monotonic Array][]                          | [Array][]                                     |
+| #       | Title                                       | Tags                                         |
+|---------|---------------------------------------------|----------------------------------------------|
+| [26][]  | [Remove Duplicates from Sorted Array][]     | [Array][],[Two Pointers][]                   |
+| [121][] | [Best Time to Buy and Sell Stock][]         | [Array][],[Dynamic Programming][]            |
+| [122][] | [Best Time to Buy and Sell Stock II][]      | [Array][],[Greedy][]                         |
+| [167][] | [Two Sum II - Input array is sorted][]      | [Array][],[Two Pointers][],[Binary Search][] |
+| [171][] | [1-bit and 2-bit Characters][]              | [Array][]                                    |
+| [189][] | [Rotate Array][]                            | [Array][]                                    |
+| [217][] | [Contains Duplicate][]                      | [Array][],[Hash Table][]                     |
+| [268][] | [Missing Number][]                          | [Array][],[Math][],[Bit Manipulation][]      |
+| [283][] | [Move Zeroes][]                             | [Array][],[Two Pointers][]                   |
+| [448][] | [Find All Numbers Disappered in an Array][] | [Array][]                                    |
+| [485][] | [Max Consecutive Ones][]                    | [Array][]                                    |
+| [561][] | [Array Partition I][]                       | [Array][]                                    |
+| [566][] | [Reshape the Matrix][]                      | [Array][]                                    |
+| [628][] | [Maximum Product of Three Numbers][]        | [Array][],[Math][]                           |
+| [766][] | [Toeplitz Matrix][]                         | [Array][]                                    |
+| [832][] | [Flipping an Image][]                       | [Array][]                                    |
+| [867][] | [Transpose Matrix][]                        | [Array][]                                    |
+| [888][] | [Fair Candy Swap][]                         | [Array][]                                    |
+| [896][] | [Monotonic Array][]                         | [Array][]                                    |
 
 
 <!-- Questions -->
@@ -36,6 +37,7 @@
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
+[628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [867]: https://leetcode.com/problems/transpose-matrix/
@@ -66,6 +68,7 @@
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
+[Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
