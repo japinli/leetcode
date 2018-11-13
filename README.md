@@ -3,6 +3,7 @@
 | #       | Title                                         | Tags                                         |
 |---------|-----------------------------------------------|----------------------------------------------|
 | [26][]  | [Remove Duplicates from Sorted Array][]       | [Array][],[Two Pointers][]                   |
+| [118][] | [Pascal's Triangle][]                         | [Array][]                                    |
 | [121][] | [Best Time to Buy and Sell Stock][]           | [Array][],[Dynamic Programming][]            |
 | [122][] | [Best Time to Buy and Sell Stock II][]        | [Array][],[Greedy][]                         |
 | [167][] | [Two Sum II - Input array is sorted][]        | [Array][],[Two Pointers][],[Binary Search][] |
@@ -28,6 +29,7 @@
 
 <!-- Questions -->
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[118]: https://leetcode.com/problems/pascals-triangle/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
@@ -62,6 +64,7 @@
 
 <!-- Solutions -->
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
+[Pascal's Triangle]: ./0118-Pascals.Triangle/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
 [Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
