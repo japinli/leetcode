@@ -1,27 +1,28 @@
 # LeetCode
 
-| #       | Title                                       | Tags                                         |
-|---------|---------------------------------------------|----------------------------------------------|
-| [26][]  | [Remove Duplicates from Sorted Array][]     | [Array][],[Two Pointers][]                   |
-| [121][] | [Best Time to Buy and Sell Stock][]         | [Array][],[Dynamic Programming][]            |
-| [122][] | [Best Time to Buy and Sell Stock II][]      | [Array][],[Greedy][]                         |
-| [167][] | [Two Sum II - Input array is sorted][]      | [Array][],[Two Pointers][],[Binary Search][] |
-| [171][] | [1-bit and 2-bit Characters][]              | [Array][]                                    |
-| [189][] | [Rotate Array][]                            | [Array][]                                    |
-| [217][] | [Contains Duplicate][]                      | [Array][],[Hash Table][]                     |
-| [268][] | [Missing Number][]                          | [Array][],[Math][],[Bit Manipulation][]      |
-| [283][] | [Move Zeroes][]                             | [Array][],[Two Pointers][]                   |
-| [448][] | [Find All Numbers Disappered in an Array][] | [Array][]                                    |
-| [485][] | [Max Consecutive Ones][]                    | [Array][]                                    |
-| [561][] | [Array Partition I][]                       | [Array][]                                    |
-| [566][] | [Reshape the Matrix][]                      | [Array][]                                    |
-| [628][] | [Maximum Product of Three Numbers][]        | [Array][],[Math][]                           |
-| [746][] | [Min Cost Climbing Stairs][]                | [Array][],[Dynamic Programming][]            |
-| [766][] | [Toeplitz Matrix][]                         | [Array][]                                    |
-| [832][] | [Flipping an Image][]                       | [Array][]                                    |
-| [867][] | [Transpose Matrix][]                        | [Array][]                                    |
-| [888][] | [Fair Candy Swap][]                         | [Array][]                                    |
-| [896][] | [Monotonic Array][]                         | [Array][]                                    |
+| #       | Title                                         | Tags                                         |
+|---------|-----------------------------------------------|----------------------------------------------|
+| [26][]  | [Remove Duplicates from Sorted Array][]       | [Array][],[Two Pointers][]                   |
+| [121][] | [Best Time to Buy and Sell Stock][]           | [Array][],[Dynamic Programming][]            |
+| [122][] | [Best Time to Buy and Sell Stock II][]        | [Array][],[Greedy][]                         |
+| [167][] | [Two Sum II - Input array is sorted][]        | [Array][],[Two Pointers][],[Binary Search][] |
+| [171][] | [1-bit and 2-bit Characters][]                | [Array][]                                    |
+| [189][] | [Rotate Array][]                              | [Array][]                                    |
+| [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
+| [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
+| [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
+| [448][] | [Find All Numbers Disappered in an Array][]   | [Array][]                                    |
+| [485][] | [Max Consecutive Ones][]                      | [Array][]                                    |
+| [561][] | [Array Partition I][]                         | [Array][]                                    |
+| [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
+| [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
+| [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
+| [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
+| [766][] | [Toeplitz Matrix][]                           | [Array][]                                    |
+| [832][] | [Flipping an Image][]                         | [Array][]                                    |
+| [867][] | [Transpose Matrix][]                          | [Array][]                                    |
+| [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
+| [896][] | [Monotonic Array][]                           | [Array][]                                    |
 
 
 <!-- Questions -->
@@ -39,6 +40,7 @@
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
+[674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
@@ -71,6 +73,7 @@
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
+[Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
