@@ -19,6 +19,7 @@
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
+| [724][] | [Find Pivot Index][]                          | [Array][]                                    |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
 | [766][] | [Toeplitz Matrix][]                           | [Array][]                                    |
@@ -46,6 +47,7 @@
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+[724]: https://leetcode.com/problems/find-pivot-index/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
 [766]: https://leetcode.com/problems/toeplitz-matrix/
@@ -82,6 +84,7 @@
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
+[Find Pivot Index]: ./0724-Find.Pivot.Index/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
