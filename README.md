@@ -2,6 +2,7 @@
 
 | #       | Title                                         | Tags                                         |
 |---------|-----------------------------------------------|----------------------------------------------|
+| [1][]   | [Two Sum][]                                   | [Array][],[Hash Table][]                     |
 | [26][]  | [Remove Duplicates from Sorted Array][]       | [Array][],[Two Pointers][]                   |
 | [118][] | [Pascal's Triangle][]                         | [Array][]                                    |
 | [119][] | [Pascal's Triangle II][]                      | [Array][]                                    |
@@ -30,6 +31,7 @@
 
 
 <!-- Questions -->
+[1]: https://leetcode.com/problems/two-sum/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
@@ -67,6 +69,7 @@
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 <!-- Solutions -->
+[Two Sum]: ./0001-Two.Sum/
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Pascal's Triangle]: ./0118-Pascals.Triangle/
 [Pascal's Triangle II]: ./0119-Pascals.Triangle.II/
