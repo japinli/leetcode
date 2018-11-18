@@ -26,3 +26,21 @@ findMaxAverage(int *nums, int numsSize, int k)
 
     return max;
 }
+
+double
+findMaxAverage2(int *nums, int numsSize, int k)
+{
+    double sum = 0.0;
+
+    for (int i = 0; i < k; i++) {
+        sum += nums[i];
+    }
+
+    double res = sum;
+    for (int i = k; i < numsSize; i++) {
+        sum += nums[i] - nums[i - k];
+        res = MAX(res, sum);
+    }
+
+    return res / k;
+}
