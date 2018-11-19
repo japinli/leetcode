@@ -14,6 +14,7 @@
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
 | [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
+| [414][] | [Third Maximum Number][]                      | [Array][]                                    |
 | [448][] | [Find All Numbers Disappered in an Array][]   | [Array][]                                    |
 | [485][] | [Max Consecutive Ones][]                      | [Array][]                                    |
 | [561][] | [Array Partition I][]                         | [Array][]                                    |
@@ -44,6 +45,7 @@
 [217]: https://leetcode.com/problems/contains-duplicate/
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
+[414]: https://leetcode.com/problems/third-maximum-number/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [561]: https://leetcode.com/problems/array-partition-i/
@@ -83,6 +85,7 @@
 [Contains Duplicate]: ./0217-Contains.Duplicate/
 [Missing Number]: ./0268-Missing.Number/
 [Move Zeroes]: ./0283-Move.Zeroes/
+[Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Array Partition I]: ./0561-Array.Partition.I/
