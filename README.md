@@ -21,6 +21,7 @@
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
+| [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
@@ -52,6 +53,7 @@
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
+[665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [724]: https://leetcode.com/problems/find-pivot-index/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
@@ -92,6 +94,7 @@
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
+[Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
