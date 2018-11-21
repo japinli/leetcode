@@ -17,6 +17,7 @@
 | [414][] | [Third Maximum Number][]                      | [Array][]                                    |
 | [448][] | [Find All Numbers Disappered in an Array][]   | [Array][]                                    |
 | [485][] | [Max Consecutive Ones][]                      | [Array][]                                    |
+| [532][] | [K-diff Pairs in an Array][]                  | [Array][],[Two Pointers][]                   |
 | [561][] | [Array Partition I][]                         | [Array][]                                    |
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
@@ -49,6 +50,7 @@
 [414]: https://leetcode.com/problems/third-maximum-number/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
+[532]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
@@ -90,6 +92,7 @@
 [Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
+[K-diff Pairs in an Array]: ./0532-K-diff.Pairs.in.an.Array/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
