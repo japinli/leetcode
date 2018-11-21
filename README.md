@@ -32,6 +32,7 @@
 | [867][] | [Transpose Matrix][]                          | [Array][]                                    |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
+| [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
 
 
 <!-- Questions -->
@@ -65,6 +66,7 @@
 [867]: https://leetcode.com/problems/transpose-matrix/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
+[941]: https://leetcode.com/problems/valid-mountain-array/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -107,6 +109,7 @@
 [Transpose Matrix]: ./0867-Transpose.Matrix/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
+[Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 
 <!--
 ## Algorithms
