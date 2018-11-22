@@ -20,6 +20,7 @@
 | [532][] | [K-diff Pairs in an Array][]                  | [Array][],[Two Pointers][]                   |
 | [561][] | [Array Partition I][]                         | [Array][]                                    |
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
+| [581][] | [Shortest Unsorted Continuous Subarray][]     | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
@@ -54,6 +55,7 @@
 [532]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
+[581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [665]: https://leetcode.com/problems/non-decreasing-array/
@@ -97,6 +99,7 @@
 [K-diff Pairs in an Array]: ./0532-K-diff.Pairs.in.an.Array/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
+[Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
