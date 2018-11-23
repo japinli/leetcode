@@ -21,6 +21,7 @@
 | [561][] | [Array Partition I][]                         | [Array][]                                    |
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [581][] | [Shortest Unsorted Continuous Subarray][]     | [Array][]                                    |
+| [605][] | [Can Place Flowers][]                         | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
@@ -56,6 +57,7 @@
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+[605]: https://leetcode.com/problems/can-place-flowers/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [665]: https://leetcode.com/problems/non-decreasing-array/
@@ -100,6 +102,7 @@
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
+[Can Place Flowers]: ./0605-Can.Place.Flowers/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/

@@ -9,6 +9,7 @@
  */
 #include <stdio.h>
 #include <stdlib.h>
+#include <limits.h>
 
 #define MAX(a, b)    ((a) > (b) ? (a) : (b))
 #define MIN(a, b)    ((a) < (b) ? (a) : (b))
@@ -40,4 +41,48 @@ findUnsortedSubarray(int *nums, int numsSize)
     }
 
     return end - beg > 0 ? end - beg + 1 : 0;
+}
+
+int
+findUnsortedSubarray2(int *nums, int numsSize)
+{
+    int max = INT_MIN;
+    int min = INT_MAX;
+    int flag = 0;
+
+    for (int i = 1; i < numsSize; i++) {
+        if (nums[i - 1] > nums[i]) {
+            flag = 1;
+        }
+
+        if (flag) {
+            min = MIN(min, nums[i]);
+        }
+    }
+
+    flag = 0;
+    for (int i = numsSize - 2; i >= 0; i--) {
+        if (nums[i + 1] < nums[i]) {
+            flag = 1;
+        }
+
+        if (flag) {
+            max = MAX(max, nums[i]);
+        }
+    }
+
+    int l, r;
+    for (l = 0; l < numsSize; l++) {
+        if (min < nums[l]) {
+            break;
+        }
+    }
+
+    for (r = numsSize - 1; r >= 0; r--) {
+        if (max > nums[r]) {
+            break;
+        }
+    }
+
+    return (r - l < 0) ? 0 : r - l + 1;
 }
