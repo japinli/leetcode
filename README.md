@@ -32,6 +32,7 @@
 | [766][] | [Toeplitz Matrix][]                           | [Array][]                                    |
 | [832][] | [Flipping an Image][]                         | [Array][]                                    |
 | [867][] | [Transpose Matrix][]                          | [Array][]                                    |
+| [876][] | [Middle of the Linked List][]                 | [Linked List][]                              |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
@@ -68,6 +69,7 @@
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [867]: https://leetcode.com/problems/transpose-matrix/
+[876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
 [941]: https://leetcode.com/problems/valid-mountain-array/
@@ -79,6 +81,7 @@
 [Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
 [Greedy]: https://leetcode.com/tag/greedy/
 [Hash Table]: https://leetcode.com/tag/hash-table/
+[Linked List]: https://leetcode.com/tag/linked-list/
 [Math]: https://leetcode.com/tag/math/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
@@ -113,6 +116,7 @@
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
+[Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
