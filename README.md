@@ -28,6 +28,7 @@
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
+| [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
@@ -67,6 +68,7 @@
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+[707]: https://leetcode.com/problems/design-linked-list/
 [724]: https://leetcode.com/problems/find-pivot-index/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
@@ -82,6 +84,7 @@
 [Array]: https://leetcode.com/tag/array/
 [Binary Search]: https://leetcode.com/tag/binary-search/
 [Bit Manipulation]: https://leetcode.com/tag/bit-manipulation/
+[Design]: https://leetcode.com/tag/design/
 [Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
 [Greedy]: https://leetcode.com/tag/greedy/
 [Hash Table]: https://leetcode.com/tag/hash-table/
@@ -116,6 +119,7 @@
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
+[Design Linked List]: ./0707-Design.Linked.List/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
