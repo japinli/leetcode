@@ -12,6 +12,7 @@
 | [171][] | [1-bit and 2-bit Characters][]                | [Array][]                                    |
 | [189][] | [Rotate Array][]                              | [Array][]                                    |
 | [203][] | [Remove Linked List Elements][]               | [Linked List][]                              |
+| [206][] | [Reverse Linked List][]                       | [Linked List][]                              |
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
 | [234][] | [Palindrome Linked List][]                    | [Array][],[Two Pointers][]                   |
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
@@ -52,6 +53,7 @@
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
+[206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
 [234]: https://leetcode.com/problems/palindrome-linked-list/
 [268]: https://leetcode.com/problems/missing-number/
@@ -103,6 +105,7 @@
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
+[Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
 [Palindrome Linked List]: ./0234-Palindrome.Linked.List/
 [Missing Number]: ./0268-Missing.Number/
