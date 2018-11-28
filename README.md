@@ -21,6 +21,7 @@
 | [414][] | [Third Maximum Number][]                      | [Array][]                                    |
 | [448][] | [Find All Numbers Disappered in an Array][]   | [Array][]                                    |
 | [485][] | [Max Consecutive Ones][]                      | [Array][]                                    |
+| [496][] | [Next Greater Element I][]                    | [Stack][]                                    |
 | [532][] | [K-diff Pairs in an Array][]                  | [Array][],[Two Pointers][]                   |
 | [561][] | [Array Partition I][]                         | [Array][]                                    |
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
@@ -64,6 +65,7 @@
 [414]: https://leetcode.com/problems/third-maximum-number/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
+[496]: https://leetcode.com/problems/next-greater-element-i/
 [532]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
@@ -119,6 +121,7 @@
 [Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
+[Next Greater Element I]: ./0496-Next.Greater.Element.I/
 [K-diff Pairs in an Array]: ./0532-K-diff.Pairs.in.an.Array/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
