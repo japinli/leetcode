@@ -16,12 +16,10 @@ helper(char *S)
     char *s = S;
 
     while (*s) {
-        if (*s == '#') {
-            if (top > -1) {
-                top--;
-            }
-        } else {
+        if (*s != '#') {
             S[++top] = *s;
+        } else if (top > -1) {
+            top--;
         }
         s++;
     }
