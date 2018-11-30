@@ -15,6 +15,7 @@
 | [203][] | [Remove Linked List Elements][]               | [Linked List][]                              |
 | [206][] | [Reverse Linked List][]                       | [Linked List][]                              |
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
+| [232][] | [Implement Queue using Stacks][]              | [Stack][],[Design][]                         |
 | [234][] | [Palindrome Linked List][]                    | [Array][],[Two Pointers][]                   |
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
 | [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
@@ -60,6 +61,7 @@
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
+[232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [234]: https://leetcode.com/problems/palindrome-linked-list/
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
@@ -117,6 +119,7 @@
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
 [Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
+[Implement Queue using Stacks]: ./0232-Implement.Queue.using.Stacks/
 [Palindrome Linked List]: ./0234-Palindrome.Linked.List/
 [Missing Number]: ./0268-Missing.Number/
 [Move Zeroes]: ./0283-Move.Zeroes/
