@@ -34,7 +34,7 @@
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
 | [682][] | [Baseball Game][]                             | [Stack][]                                    |
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
-| [707][] | [To Lower Case][]                             | [String][]                                   |
+| [709][] | [To Lower Case][]                             | [String][]                                   |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
