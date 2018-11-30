@@ -34,6 +34,7 @@
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
 | [682][] | [Baseball Game][]                             | [Stack][]                                    |
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
+| [707][] | [To Lower Case][]                             | [String][]                                   |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
@@ -80,6 +81,7 @@
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [682]: https://leetcode.com/problems/baseball-game/
 [707]: https://leetcode.com/problems/design-linked-list/
+[709]: https://leetcode.com/problems/to-lower-case/
 [724]: https://leetcode.com/problems/find-pivot-index/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
@@ -103,6 +105,7 @@
 [Linked List]: https://leetcode.com/tag/linked-list/
 [Math]: https://leetcode.com/tag/math/
 [Stack]: https://leetcode.com/tag/stack/
+[String]: https://leetcode.com/tag/string/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 <!-- Solutions -->
@@ -138,6 +141,7 @@
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Baseball Game]: ./0682-Baseball.Game/
 [Design Linked List]: ./0707-Design.Linked.List/
+[To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
