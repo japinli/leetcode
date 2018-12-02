@@ -12,6 +12,7 @@
 | [167][] | [Two Sum II - Input array is sorted][]        | [Array][],[Two Pointers][],[Binary Search][] |
 | [171][] | [1-bit and 2-bit Characters][]                | [Array][]                                    |
 | [189][] | [Rotate Array][]                              | [Array][]                                    |
+| [190][] | [Reverse Bits][]                              | [Bit Manipulation][]                         |
 | [203][] | [Remove Linked List Elements][]               | [Linked List][]                              |
 | [206][] | [Reverse Linked List][]                       | [Linked List][]                              |
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
@@ -59,6 +60,7 @@
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
+[190]: https://leetcode.com/problems/reverse-bits/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
@@ -119,6 +121,7 @@
 [Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
+[Reverse Bits]: ./0190-Reverse.Bits/
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
 [Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
