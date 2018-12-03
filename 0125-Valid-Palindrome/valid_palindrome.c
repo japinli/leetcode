@@ -64,11 +64,11 @@ isPalindrome2(char *s)
     char *q = s + len - 1;
 
     while (p < q) {
-        while (!isalnum(*p)) {
-            p++;
+        if (!isalnum(*p)) {
+            p++; continue;
         }
-        while (!isalnum(*q)) {
-            q--;
+        if (!isalnum(*q)) {
+            q--; continue;
         }
 
         if (tolower(*p++) != tolower(*q--)) {
