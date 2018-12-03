@@ -9,6 +9,7 @@
 | [119][] | [Pascal's Triangle II][]                      | [Array][]                                    |
 | [121][] | [Best Time to Buy and Sell Stock][]           | [Array][],[Dynamic Programming][]            |
 | [122][] | [Best Time to Buy and Sell Stock II][]        | [Array][],[Greedy][]                         |
+| [125][] | [Valid Palindrome][]                          | [String][],[Two Pointers][]                  |
 | [167][] | [Two Sum II - Input array is sorted][]        | [Array][],[Two Pointers][],[Binary Search][] |
 | [171][] | [1-bit and 2-bit Characters][]                | [Array][]                                    |
 | [189][] | [Rotate Array][]                              | [Array][]                                    |
@@ -57,6 +58,7 @@
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[125]: https://leetcode.com/problems/valid-palindrome/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
@@ -118,6 +120,7 @@
 [Pascal's Triangle II]: ./0119-Pascals.Triangle.II/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
+[Valid Palindrome]: ./0125-Valid-Palindrome/
 [Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
