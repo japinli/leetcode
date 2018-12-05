@@ -48,6 +48,7 @@
 | [876][] | [Middle of the Linked List][]                 | [Linked List][]                              |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
+| [925][] | [Long Pressed Name][]                         | [String][],[Two Pointers][]                  |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
 
 
@@ -98,6 +99,7 @@
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
+[925]: https://leetcode.com/problems/long-pressed-name/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 
 <!-- Tags -->
@@ -161,6 +163,7 @@
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
+[Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 
 <!--
