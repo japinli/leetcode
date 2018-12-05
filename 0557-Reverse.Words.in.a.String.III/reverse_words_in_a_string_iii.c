@@ -8,6 +8,7 @@
  *----------------------------------------------------------------------------
  */
 #include <stdio.h>
+#include <string.h>
 
 static void
 reverseString(char *s, int b, int e)
@@ -40,6 +41,22 @@ reverseWords(char *s)
 
     if (e - b > 1) {
         reverseString(s, b, e - 1);
+    }
+
+    return s;
+}
+
+char *
+reverseWords2(char *s)
+{
+    int len = strlen(s);
+    int b = 0;
+
+    for (int i = 0; i <= len; i++) {
+        if (s[i] == ' ' || s[i] == '\0') {
+            reverseString(s, b, i - 1);
+            b = i + 1;
+        }
     }
 
     return s;
