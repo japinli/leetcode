@@ -25,6 +25,7 @@
 | [448][] | [Find All Numbers Disappered in an Array][]   | [Array][]                                    |
 | [485][] | [Max Consecutive Ones][]                      | [Array][]                                    |
 | [496][] | [Next Greater Element I][]                    | [Stack][]                                    |
+| [520][] | [Detect Capital][]                            | [String][]                                   |
 | [532][] | [K-diff Pairs in an Array][]                  | [Array][],[Two Pointers][]                   |
 | [541][] | [Reverse String II][]                         | [String][]                                   |
 | [557][] | [Reverse Words in a String III][]             | [String][]                                   |
@@ -77,6 +78,7 @@
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [496]: https://leetcode.com/problems/next-greater-element-i/
+[520]: https://leetcode.com/problems/detect-capital/
 [532]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [541]: https://leetcode.com/problems/reverse-string-ii/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
@@ -142,6 +144,7 @@
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Next Greater Element I]: ./0496-Next.Greater.Element.I/
+[Detect Capital]: ./0520-Detect.Capital/
 [K-diff Pairs in an Array]: ./0532-K-diff.Pairs.in.an.Array/
 [Reverse String II]: ./0541-Reverse.String.II/
 [Reverse Words in a String III]: ./0557-Reverse.Words.in.a.String.III/
