@@ -44,6 +44,7 @@
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
 | [766][] | [Toeplitz Matrix][]                           | [Array][]                                    |
+| [824][] | [Goat Latin][]                                | [String][]                                   |
 | [832][] | [Flipping an Image][]                         | [Array][]                                    |
 | [844][] | [Backspace String Compare][]                  | [Stack][],[Two Pointers][]                   |
 | [867][] | [Transpose Matrix][]                          | [Array][]                                    |
@@ -98,6 +99,7 @@
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
 [766]: https://leetcode.com/problems/toeplitz-matrix/
+[824]: https://leetcode.com/problems/goat-latin/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [844]: https://leetcode.com/problems/backspace-string-compare/
 [867]: https://leetcode.com/problems/transpose-matrix/
@@ -165,6 +167,7 @@
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
+[Goat Latin]: ./0824-Goat.Latin/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Backspace String Compare]: ./0844-Backspace.String.Compare/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
