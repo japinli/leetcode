@@ -38,6 +38,7 @@
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
 | [682][] | [Baseball Game][]                             | [Stack][]                                    |
+| [696][] | [Count Binary Substrings][]                   | [String][]                                   |
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
 | [709][] | [To Lower Case][]                             | [String][]                                   |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
@@ -93,6 +94,7 @@
 [665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [682]: https://leetcode.com/problems/baseball-game/
+[696]: https://leetcode.com/problems/count-binary-substrings/
 [707]: https://leetcode.com/problems/design-linked-list/
 [709]: https://leetcode.com/problems/to-lower-case/
 [724]: https://leetcode.com/problems/find-pivot-index/
@@ -161,6 +163,7 @@
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Baseball Game]: ./0682-Baseball.Game/
+[Count Binary Substrings]: ./0696-Count.Binary.Substrings/
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
