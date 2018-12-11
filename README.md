@@ -38,6 +38,7 @@
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
+| [680][] | [Valid Palindrome II][]                       | [String][]                                   |
 | [682][] | [Baseball Game][]                             | [Stack][]                                    |
 | [696][] | [Count Binary Substrings][]                   | [String][]                                   |
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
@@ -95,6 +96,7 @@
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+[680]: https://leetcode.com/problems/valid-palindrome-ii/
 [682]: https://leetcode.com/problems/baseball-game/
 [696]: https://leetcode.com/problems/count-binary-substrings/
 [707]: https://leetcode.com/problems/design-linked-list/
@@ -165,6 +167,7 @@
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
+[Valid Palindrome II]: ./0680-Valid.Palindrome.II/
 [Baseball Game]: ./0682-Baseball.Game/
 [Count Binary Substrings]: ./0696-Count.Binary.Substrings/
 [Design Linked List]: ./0707-Design.Linked.List/
