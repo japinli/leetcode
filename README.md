@@ -44,6 +44,7 @@
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
 | [709][] | [To Lower Case][]                             | [String][]                                   |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
+| [728][] | [Self Dividing Numbers][]                     | [Math][]                                     |
 | [746][] | [Min Cost Climbing Stairs][]                  | [Array][],[Dynamic Programming][]            |
 | [747][] | [Largest Number At Least Twice of Other][]    | [Array][]                                    |
 | [766][] | [Toeplitz Matrix][]                           | [Array][]                                    |
@@ -103,6 +104,7 @@
 [707]: https://leetcode.com/problems/design-linked-list/
 [709]: https://leetcode.com/problems/to-lower-case/
 [724]: https://leetcode.com/problems/find-pivot-index/
+[728]: https://leetcode.com/problems/self-dividing-numbers/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
 [766]: https://leetcode.com/problems/toeplitz-matrix/
@@ -175,6 +177,7 @@
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
+[Self Dividing Numbers]: ./0728-Self.Dividing.Numbers/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
