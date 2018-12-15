@@ -60,6 +60,7 @@
 | [917][] | [Reverse Only Letters][]                      | [String][]                                   |
 | [925][] | [Long Pressed Name][]                         | [String][],[Two Pointers][]                  |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
+| [942][] | [DI String Match][]                           | [Math][]                                     |
 
 
 <!-- Questions -->
@@ -121,6 +122,7 @@
 [917]: https://leetcode.com/problems/reverse-only-letters/
 [925]: https://leetcode.com/problems/long-pressed-name/
 [941]: https://leetcode.com/problems/valid-mountain-array/
+[942]: https://leetcode.com/problems/di-string-match/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -195,6 +197,7 @@
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
+[DI String Match]: ./0942-DI.String.Match/
 
 <!--
 ## Algorithms
