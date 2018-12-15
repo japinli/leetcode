@@ -54,6 +54,7 @@
 | [859][] | [Buddy Strings][]                             | [String][]                                   |
 | [867][] | [Transpose Matrix][]                          | [Array][]                                    |
 | [876][] | [Middle of the Linked List][]                 | [Linked List][]                              |
+| [883][] | [Projection Area of 3D Shapes][]              | [Math][]                                     |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
 | [917][] | [Reverse Only Letters][]                      | [String][]                                   |
@@ -114,6 +115,7 @@
 [859]: https://leetcode.com/problems/buddy-strings/
 [867]: https://leetcode.com/problems/transpose-matrix/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
+[883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
 [917]: https://leetcode.com/problems/reverse-only-letters/
@@ -187,6 +189,7 @@
 [Buddy Strings]: ./0859-Buddy.Strings/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
+[Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
