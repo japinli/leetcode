@@ -57,6 +57,7 @@
 | [883][] | [Projection Area of 3D Shapes][]              | [Math][]                                     |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
+| [908][] | [Smallest Range I][]                          | [Math][]                                     |
 | [917][] | [Reverse Only Letters][]                      | [String][]                                   |
 | [925][] | [Long Pressed Name][]                         | [String][],[Two Pointers][]                  |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
@@ -119,6 +120,7 @@
 [883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [896]: https://leetcode.com/problems/monotonic-array/
+[908]: https://leetcode.com/problems/smallest-range-i/
 [917]: https://leetcode.com/problems/reverse-only-letters/
 [925]: https://leetcode.com/problems/long-pressed-name/
 [941]: https://leetcode.com/problems/valid-mountain-array/
@@ -194,6 +196,7 @@
 [Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Monotonic Array]: ./0896-Monotonic.Array/
+[Smallest Range I]: ./0908-Smallest.Range.I/
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
