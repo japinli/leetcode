@@ -56,6 +56,7 @@
 | [876][] | [Middle of the Linked List][]                 | [Linked List][]                              |
 | [883][] | [Projection Area of 3D Shapes][]              | [Math][]                                     |
 | [888][] | [Fair Candy Swap][]                           | [Array][]                                    |
+| [892][] | [Surface Area of 3D Shapes][]                 | [Geometry][],[Math][]                        |
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
 | [908][] | [Smallest Range I][]                          | [Math][]                                     |
 | [917][] | [Reverse Only Letters][]                      | [String][]                                   |
@@ -119,6 +120,7 @@
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
 [888]: https://leetcode.com/problems/fair-candy-swap/
+[892]: https://leetcode.com/problems/surface-area-of-3d-shapes/
 [896]: https://leetcode.com/problems/monotonic-array/
 [908]: https://leetcode.com/problems/smallest-range-i/
 [917]: https://leetcode.com/problems/reverse-only-letters/
@@ -132,6 +134,7 @@
 [Bit Manipulation]: https://leetcode.com/tag/bit-manipulation/
 [Design]: https://leetcode.com/tag/design/
 [Dynamic Programming]: https://leetcode.com/tag/dynamic-programming/
+[Geometry]: https://leetcode.com/tag/geometry/
 [Greedy]: https://leetcode.com/tag/greedy/
 [Hash Table]: https://leetcode.com/tag/hash-table/
 [Linked List]: https://leetcode.com/tag/linked-list/
@@ -195,6 +198,7 @@
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
 [Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
+[Surface Area of 3D Shapes]: ./0892-Surface.Area.of.3D.Shapes/
 [Monotonic Array]: ./0896-Monotonic.Array/
 [Smallest Range I]: ./0908-Smallest.Range.I/
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
