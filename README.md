@@ -38,6 +38,7 @@
 | [605][] | [Can Place Flowers][]                         | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
+| [645][] | [Set Mismatch][]                              | [Math][]                                     |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
 | [674][] | [Longest Continuous Increasing Subsequence][] | [Array][]                                    |
 | [680][] | [Valid Palindrome II][]                       | [String][]                                   |
@@ -104,6 +105,7 @@
 [605]: https://leetcode.com/problems/can-place-flowers/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
+[645]: https://leetcode.com/problems/set-mismatch/
 [665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [680]: https://leetcode.com/problems/valid-palindrome-ii/
@@ -184,6 +186,7 @@
 [Can Place Flowers]: ./0605-Can.Place.Flowers/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
+[Set Mismatch]: ./0645-Set.Mismatch/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Valid Palindrome II]: ./0680-Valid.Palindrome.II/
