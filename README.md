@@ -37,6 +37,7 @@
 | [581][] | [Shortest Unsorted Continuous Subarray][]     | [Array][]                                    |
 | [605][] | [Can Place Flowers][]                         | [Array][]                                    |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
+| [633][] | [Sum of Square Numbers][]                     | [Math][]                                     |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
 | [645][] | [Set Mismatch][]                              | [Math][]                                     |
 | [665][] | [Non-decreasing Array][]                      | [Array][]                                    |
@@ -104,6 +105,7 @@
 [581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [605]: https://leetcode.com/problems/can-place-flowers/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
+[633]: https://leetcode.com/problems/sum-of-square-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [645]: https://leetcode.com/problems/set-mismatch/
 [665]: https://leetcode.com/problems/non-decreasing-array/
@@ -185,6 +187,7 @@
 [Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
 [Can Place Flowers]: ./0605-Can.Place.Flowers/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
+[Sum of Square Numbers]: ./0633-Sum.of.Square.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Set Mismatch]: ./0645-Set.Mismatch/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
