@@ -45,6 +45,7 @@
 | [680][] | [Valid Palindrome II][]                       | [String][]                                   |
 | [682][] | [Baseball Game][]                             | [Stack][]                                    |
 | [696][] | [Count Binary Substrings][]                   | [String][]                                   |
+| [704][] | [Binary.Search][]                             | [Binary Search][]                            |
 | [707][] | [Design Linked List][]                        | [Array][],[Design][]                         |
 | [709][] | [To Lower Case][]                             | [String][]                                   |
 | [724][] | [Find Pivot Index][]                          | [Array][]                                    |
@@ -113,6 +114,7 @@
 [680]: https://leetcode.com/problems/valid-palindrome-ii/
 [682]: https://leetcode.com/problems/baseball-game/
 [696]: https://leetcode.com/problems/count-binary-substrings/
+[704]: https://leetcode.com/problems/binary-search/
 [707]: https://leetcode.com/problems/design-linked-list/
 [709]: https://leetcode.com/problems/to-lower-case/
 [724]: https://leetcode.com/problems/find-pivot-index/
@@ -195,6 +197,7 @@
 [Valid Palindrome II]: ./0680-Valid.Palindrome.II/
 [Baseball Game]: ./0682-Baseball.Game/
 [Count Binary Substrings]: ./0696-Count.Binary.Substrings/
+[Binary Search]: ./0704-Binary.Search/
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
