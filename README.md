@@ -56,6 +56,7 @@
 | [824][] | [Goat Latin][]                                | [String][]                                   |
 | [832][] | [Flipping an Image][]                         | [Array][]                                    |
 | [844][] | [Backspace String Compare][]                  | [Stack][],[Two Pointers][]                   |
+| [852][] | [Peak Index in a Mountain Array][]            | [Binary Search][]                            |
 | [859][] | [Buddy Strings][]                             | [String][]                                   |
 | [867][] | [Transpose Matrix][]                          | [Array][]                                    |
 | [876][] | [Middle of the Linked List][]                 | [Linked List][]                              |
@@ -125,6 +126,7 @@
 [824]: https://leetcode.com/problems/goat-latin/
 [832]: https://leetcode.com/problems/flipping-an-image/
 [844]: https://leetcode.com/problems/backspace-string-compare/
+[852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [859]: https://leetcode.com/problems/buddy-strings/
 [867]: https://leetcode.com/problems/transpose-matrix/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
@@ -208,6 +210,7 @@
 [Goat Latin]: ./0824-Goat.Latin/
 [Flipping an Image]: ./0832-Flipping.an.Image/
 [Backspace String Compare]: ./0844-Backspace.String.Compare/
+[Peak Index in a Mountain Array]: ./0852-Peak.Index.in.a.Mountain.Array/
 [Buddy Strings]: ./0859-Buddy.Strings/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
