@@ -5,6 +5,7 @@
 | [1][]   | [Two Sum][]                                   | [Array][],[Hash Table][]                     |
 | [21][]  | [Merge Two Sorted Lists][]                    | [Linked List][]                              |
 | [26][]  | [Remove Duplicates from Sorted Array][]       | [Array][],[Two Pointers][]                   |
+| [69][]  | [Sqrt(x)][]                                   | [Binary Search][], [Math][]                  |
 | [118][] | [Pascal's Triangle][]                         | [Array][]                                    |
 | [119][] | [Pascal's Triangle II][]                      | [Array][]                                    |
 | [121][] | [Best Time to Buy and Sell Stock][]           | [Array][],[Dynamic Programming][]            |
@@ -76,6 +77,7 @@
 [1]: https://leetcode.com/problems/two-sum/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[69]: https://leetcode.com/problems/sqrtx/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -161,6 +163,7 @@
 [Two Sum]: ./0001-Two.Sum/
 [Merge Two Sorted Lists]: ./0021-Merge.Two.Sorted.Lists/
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
+[Sqrt(x)]: ./0069-Sqrt-x/
 [Pascal's Triangle]: ./0118-Pascals.Triangle/
 [Pascal's Triangle II]: ./0119-Pascals.Triangle.II/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
