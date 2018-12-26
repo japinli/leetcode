@@ -20,6 +20,7 @@
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
 | [232][] | [Implement Queue using Stacks][]              | [Stack][],[Design][]                         |
 | [234][] | [Palindrome Linked List][]                    | [Array][],[Two Pointers][]                   |
+| [242][] | [Valid Anagram][]                             | [Hash Table][], [Sort][]                     |
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
 | [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
 | [414][] | [Third Maximum Number][]                      | [Array][]                                    |
@@ -92,6 +93,7 @@
 [217]: https://leetcode.com/problems/contains-duplicate/
 [232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [234]: https://leetcode.com/problems/palindrome-linked-list/
+[242]: https://leetcode.com/problems/valid-anagram/
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [414]: https://leetcode.com/problems/third-maximum-number/
@@ -155,6 +157,7 @@
 [Hash Table]: https://leetcode.com/tag/hash-table/
 [Linked List]: https://leetcode.com/tag/linked-list/
 [Math]: https://leetcode.com/tag/math/
+[Sort]: https://leetcode.com/tag/sort/
 [Stack]: https://leetcode.com/tag/stack/
 [String]: https://leetcode.com/tag/string/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
