@@ -39,6 +39,7 @@
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [581][] | [Shortest Unsorted Continuous Subarray][]     | [Array][]                                    |
 | [605][] | [Can Place Flowers][]                         | [Array][]                                    |
+| [620][] | [Not Boring Movies][]                         | [Database][]                                 |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [633][] | [Sum of Square Numbers][]                     | [Math][]                                     |
 | [643][] | [Maximum Average Subarray I][]                | [Array][]                                    |
@@ -113,6 +114,7 @@
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [605]: https://leetcode.com/problems/can-place-flowers/
+[620]: https://leetcode.com/problems/not-boring-movies/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [633]: https://leetcode.com/problems/sum-of-square-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
@@ -164,6 +166,8 @@
 [String]: https://leetcode.com/tag/string/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
+[Database]: https://leetcode.com/problemset/database/
+
 <!-- Solutions -->
 [Two Sum]: ./0001-Two.Sum/
 [Merge Two Sorted Lists]: ./0021-Merge.Two.Sorted.Lists/
@@ -201,6 +205,7 @@
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
 [Can Place Flowers]: ./0605-Can.Place.Flowers/
+[Not Boring Movies]: ./0620-Not.Boring.Movies/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Sum of Square Numbers]: ./0633-Sum.of.Square.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
