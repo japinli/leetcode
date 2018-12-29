@@ -189,6 +189,7 @@
 [Contains Duplicate]: ./0217-Contains.Duplicate/
 [Implement Queue using Stacks]: ./0232-Implement.Queue.using.Stacks/
 [Palindrome Linked List]: ./0234-Palindrome.Linked.List/
+[Valid Anagram]: ./0242-Valid.Anagram/
 [Missing Number]: ./0268-Missing.Number/
 [Move Zeroes]: ./0283-Move.Zeroes/
 [Reverse String]: ./0344-Reverse.String/
