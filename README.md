@@ -71,6 +71,7 @@
 | [896][] | [Monotonic Array][]                           | [Array][]                                    |
 | [908][] | [Smallest Range I][]                          | [Math][]                                     |
 | [917][] | [Reverse Only Letters][]                      | [String][]                                   |
+| [922][] | [Sort Array By Parity II][]                   | [Array][],[Sort][]                           |
 | [925][] | [Long Pressed Name][]                         | [String][],[Two Pointers][]                  |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
 | [942][] | [DI String Match][]                           | [Math][]                                     |
@@ -146,6 +147,7 @@
 [896]: https://leetcode.com/problems/monotonic-array/
 [908]: https://leetcode.com/problems/smallest-range-i/
 [917]: https://leetcode.com/problems/reverse-only-letters/
+[922]: https://leetcode.com/problems/sort-array-by-parity-ii/
 [925]: https://leetcode.com/problems/long-pressed-name/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
@@ -237,6 +239,7 @@
 [Monotonic Array]: ./0896-Monotonic.Array/
 [Smallest Range I]: ./0908-Smallest.Range.I/
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
+[Sort Array By Parity II]: ./0922-Sort.Array.By.Parity.II/
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
