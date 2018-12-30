@@ -15,6 +15,7 @@
 | [171][] | [1-bit and 2-bit Characters][]                | [Array][]                                    |
 | [189][] | [Rotate Array][]                              | [Array][]                                    |
 | [190][] | [Reverse Bits][]                              | [Bit Manipulation][]                         |
+| [193][] | [Valid Phone Numbers][]                       | [Shell][]                                    |
 | [203][] | [Remove Linked List Elements][]               | [Linked List][]                              |
 | [206][] | [Reverse Linked List][]                       | [Linked List][]                              |
 | [217][] | [Contains Duplicate][]                        | [Array][],[Hash Table][]                     |
@@ -91,6 +92,7 @@
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
 [190]: https://leetcode.com/problems/reverse-bits/
+[193]: https://leetcode.com/problems/valid-phone-numbers/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
@@ -169,6 +171,7 @@
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 [Database]: https://leetcode.com/problemset/database/
+[Shell]: https://leetcode.com/problemset/shell/
 
 <!-- Solutions -->
 [Two Sum]: ./0001-Two.Sum/
@@ -184,6 +187,7 @@
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
 [Reverse Bits]: ./0190-Reverse.Bits/
+[Valid Phone Numbers]: ./0193-Valid.Phone.Numbers/
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
 [Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
