@@ -77,6 +77,7 @@
 | [925][] | [Long Pressed Name][]                         | [String][],[Two Pointers][]                  |
 | [941][] | [Valid Mountain Array][]                      | [Array][]                                    |
 | [942][] | [DI String Match][]                           | [Math][]                                     |
+| [965][] | [Univalued Binary Tree][]                     | [Tree][]                                     |
 
 
 <!-- Questions -->
@@ -155,6 +156,7 @@
 [925]: https://leetcode.com/problems/long-pressed-name/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
+[965]: https://leetcode.com/problems/univalued-binary-tree/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -170,6 +172,7 @@
 [Sort]: https://leetcode.com/tag/sort/
 [Stack]: https://leetcode.com/tag/stack/
 [String]: https://leetcode.com/tag/string/
+[Tree]: https://leetcode.com/tag/tree/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
 
 [Database]: https://leetcode.com/problemset/database/
@@ -251,6 +254,7 @@
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
+[Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 
 <!--
 ## Algorithms
