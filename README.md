@@ -41,6 +41,7 @@
 | [566][] | [Reshape the Matrix][]                        | [Array][]                                    |
 | [581][] | [Shortest Unsorted Continuous Subarray][]     | [Array][]                                    |
 | [605][] | [Can Place Flowers][]                         | [Array][]                                    |
+| [617][] | [Merge Two Binary Trees][]                    | [Tree][]                                     |
 | [620][] | [Not Boring Movies][]                         | [Database][]                                 |
 | [628][] | [Maximum Product of Three Numbers][]          | [Array][],[Math][]                           |
 | [633][] | [Sum of Square Numbers][]                     | [Math][]                                     |
@@ -120,6 +121,7 @@
 [566]: https://leetcode.com/problems/reshape-the-matrix/
 [581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [605]: https://leetcode.com/problems/can-place-flowers/
+[617]: https://leetcode.com/problems/merge-two-binary-trees/
 [620]: https://leetcode.com/problems/not-boring-movies/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [633]: https://leetcode.com/problems/sum-of-square-numbers/
@@ -218,6 +220,7 @@
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
 [Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
 [Can Place Flowers]: ./0605-Can.Place.Flowers/
+[Merge Two Binary Trees]: ./0617-Merge.Two.Binary.Trees/
 [Not Boring Movies]: ./0620-Not.Boring.Movies/
 [Maximum Product of Three Numbers]: ./0628-Maximum.Product.of.Three.Numbers/
 [Sum of Square Numbers]: ./0633-Sum.of.Square.Numbers/
