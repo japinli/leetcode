@@ -3,6 +3,7 @@
 | #       | Title                                         | Tags                                         |
 |---------|-----------------------------------------------|----------------------------------------------|
 | [1][]   | [Two Sum][]                                   | [Array][],[Hash Table][]                     |
+| [13][]  | [Roman to Integer][]                          | [Math][],[String][]                          |
 | [21][]  | [Merge Two Sorted Lists][]                    | [Linked List][]                              |
 | [26][]  | [Remove Duplicates from Sorted Array][]       | [Array][],[Two Pointers][]                   |
 | [69][]  | [Sqrt(x)][]                                   | [Binary Search][], [Math][]                  |
@@ -84,6 +85,7 @@
 
 <!-- Questions -->
 [1]: https://leetcode.com/problems/two-sum/
+[13]: https://leetcode.com/problems/roman-to-integer/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [69]: https://leetcode.com/problems/sqrtx/
@@ -184,6 +186,7 @@
 
 <!-- Solutions -->
 [Two Sum]: ./0001-Two.Sum/
+[Roman to Integer]: ./0013-Romain.to.Integer/
 [Merge Two Sorted Lists]: ./0021-Merge.Two.Sorted.Lists/
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Sqrt(x)]: ./0069-Sqrt-x/
