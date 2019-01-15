@@ -27,6 +27,7 @@
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
 | [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
 | [344][] | [Reverse String][]                            | [String][],[Two Pointers][]                  |
+| [400][] | [Nth Digit][]                                 | [Math][]                                     |
 | [414][] | [Third Maximum Number][]                      | [Array][]                                    |
 | [415][] | [Add Strings][]                               | [Math][]                                     |
 | [443][] | [String Compression][]                        | [String][]                                   |
@@ -109,6 +110,7 @@
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [344]: https://leetcode.com/problems/reverse-string/
+[400]: https://leetcode.com/problems/nth-digit/
 [414]: https://leetcode.com/problems/third-maximum-number/
 [415]: https://leetcode.com/problems/add-strings/
 [443]: https://leetcode.com/problems/string-compression/
@@ -210,6 +212,7 @@
 [Missing Number]: ./0268-Missing.Number/
 [Move Zeroes]: ./0283-Move.Zeroes/
 [Reverse String]: ./0344-Reverse.String/
+[Nth Digit]: ./0400-Nth.Digit/
 [Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Add Strings]: ./0415-Add.Strings/
 [String Compression]: ./0443-String.Compression/
