@@ -25,6 +25,7 @@
 | [234][] | [Palindrome Linked List][]                    | [Array][],[Two Pointers][]                   |
 | [242][] | [Valid Anagram][]                             | [Hash Table][], [Sort][]                     |
 | [268][] | [Missing Number][]                            | [Array][],[Math][],[Bit Manipulation][]      |
+| [278][] | [First Bad Version][]                         | [Binary Search][]                            |
 | [283][] | [Move Zeroes][]                               | [Array][],[Two Pointers][]                   |
 | [344][] | [Reverse String][]                            | [String][],[Two Pointers][]                  |
 | [400][] | [Nth Digit][]                                 | [Math][]                                     |
@@ -108,6 +109,7 @@
 [234]: https://leetcode.com/problems/palindrome-linked-list/
 [242]: https://leetcode.com/problems/valid-anagram/
 [268]: https://leetcode.com/problems/missing-number/
+[278]: https://leetcode.com/problems/first-bad-version/
 [283]: https://leetcode.com/problems/move-zeroes/
 [344]: https://leetcode.com/problems/reverse-string/
 [400]: https://leetcode.com/problems/nth-digit/
@@ -210,6 +212,7 @@
 [Palindrome Linked List]: ./0234-Palindrome.Linked.List/
 [Valid Anagram]: ./0242-Valid.Anagram/
 [Missing Number]: ./0268-Missing.Number/
+[First Bad Version]: ./0278-First.Bad.Version/
 [Move Zeroes]: ./0283-Move.Zeroes/
 [Reverse String]: ./0344-Reverse.String/
 [Nth Digit]: ./0400-Nth.Digit/
