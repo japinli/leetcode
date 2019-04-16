@@ -82,6 +82,7 @@
 | [917][] | [Reverse Only Letters][]                                    | [String][]                                   |
 | [922][] | [Sort Array By Parity II][]                                 | [Array][],[Sort][]                           |
 | [925][] | [Long Pressed Name][]                                       | [String][],[Two Pointers][]                  |
+| [929][] | [Unique Email Addresses][]                                  | [String][]                                   |
 | [941][] | [Valid Mountain Array][]                                    | [Array][]                                    |
 | [942][] | [DI String Match][]                                         | [Math][]                                     |
 | [965][] | [Univalued Binary Tree][]                                   | [Tree][]                                     |
@@ -168,6 +169,7 @@
 [917]: https://leetcode.com/problems/reverse-only-letters/
 [922]: https://leetcode.com/problems/sort-array-by-parity-ii/
 [925]: https://leetcode.com/problems/long-pressed-name/
+[929]: https://leetcode.com/problems/unique-email-addresses/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
 [965]: https://leetcode.com/problems/univalued-binary-tree/
@@ -273,6 +275,7 @@
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
 [Sort Array By Parity II]: ./0922-Sort.Array.By.Parity.II/
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
+[Unique Email Addresses]: ./0929-Unique.Email.Addresses/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
