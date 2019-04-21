@@ -59,7 +59,7 @@
 | [682][]  | [Baseball Game][]                                           | [Stack][]                                    |
 | [696][]  | [Count Binary Substrings][]                                 | [String][]                                   |
 | [700][]  | [Search in a Binary Search Tree][]                          | [Tree][]                                     |
-| [704][]  | [Binary.Search][]                                           | [Binary Search][]                            |
+| [704][]  | [Binary Search ][]                                          | [Binary Search][]                            |
 | [707][]  | [Design Linked List][]                                      | [Array][],[Design][]                         |
 | [709][]  | [To Lower Case][]                                           | [String][]                                   |
 | [724][]  | [Find Pivot Index][]                                        | [Array][]                                    |
@@ -260,7 +260,7 @@
 [Baseball Game]: ./0682-Baseball.Game/
 [Count Binary Substrings]: ./0696-Count.Binary.Substrings/
 [Search in a Binary Search Tree]: ./0700-Search.in.a.Binary.Search.Tree/
-[Binary Search]: ./0704-Binary.Search/
+[Binary Search ]: ./0704-Binary.Search/
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
