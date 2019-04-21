@@ -87,6 +87,7 @@
 | [929][]  | [Unique Email Addresses][]                                  | [String][]                                   |
 | [941][]  | [Valid Mountain Array][]                                    | [Array][]                                    |
 | [942][]  | [DI String Match][]                                         | [Math][]                                     |
+| [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                               |
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                     |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                    |
 
@@ -177,6 +178,7 @@
 [929]: https://leetcode.com/problems/unique-email-addresses/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
+[961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [965]: https://leetcode.com/problems/univalued-binary-tree/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 
@@ -286,5 +288,6 @@
 [Unique Email Addresses]: ./0929-Unique.Email.Addresses/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
+[N-Repeated Element in Size 2N Array]: ./0961-N-Repeated.Element.in.Size.2N.Array/
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
