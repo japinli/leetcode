@@ -59,7 +59,7 @@
 | [682][]  | [Baseball Game][]                                           | [Stack][]                                    |
 | [696][]  | [Count Binary Substrings][]                                 | [String][]                                   |
 | [700][]  | [Search in a Binary Search Tree][]                          | [Tree][]                                     |
-| [704][]  | [Binary Search ][]                                          | [Binary Search][]                            |
+| [704][]  | [Binary.Search][]                                           | [Binary Search][]                            |
 | [707][]  | [Design Linked List][]                                      | [Array][],[Design][]                         |
 | [709][]  | [To Lower Case][]                                           | [String][]                                   |
 | [724][]  | [Find Pivot Index][]                                        | [Array][]                                    |
@@ -89,6 +89,7 @@
 | [942][]  | [DI String Match][]                                         | [Math][]                                     |
 | [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                               |
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                     |
+| [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                   |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                    |
 
 
@@ -180,6 +181,7 @@
 [942]: https://leetcode.com/problems/di-string-match/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [965]: https://leetcode.com/problems/univalued-binary-tree/
+[977]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 
 <!-- Tags -->
@@ -260,7 +262,7 @@
 [Baseball Game]: ./0682-Baseball.Game/
 [Count Binary Substrings]: ./0696-Count.Binary.Substrings/
 [Search in a Binary Search Tree]: ./0700-Search.in.a.Binary.Search.Tree/
-[Binary Search ]: ./0704-Binary.Search/
+[Binary.Search]: ./0704-Binary.Search/
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
@@ -290,4 +292,5 @@
 [DI String Match]: ./0942-DI.String.Match/
 [N-Repeated Element in Size 2N Array]: ./0961-N-Repeated.Element.in.Size.2N.Array/
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
+[Squares of a Sorted Array]: ./0977-Squares.of.a.Sorted.Array/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
