@@ -89,6 +89,7 @@
 | [929][]  | [Unique Email Addresses][]                                  | [String][]                                   |
 | [941][]  | [Valid Mountain Array][]                                    | [Array][]                                    |
 | [942][]  | [DI String Match][]                                         | [Math][]                                     |
+| [944][]  | [Delete Columns to Make Sorted][]                           | [Greedy][]                                   |
 | [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                               |
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                     |
 | [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                   |
@@ -183,6 +184,7 @@
 [929]: https://leetcode.com/problems/unique-email-addresses/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
+[944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [965]: https://leetcode.com/problems/univalued-binary-tree/
 [977]: https://leetcode.com/problems/squares-of-a-sorted-array/
@@ -296,6 +298,7 @@
 [Unique Email Addresses]: ./0929-Unique.Email.Addresses/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
+[Delete Columns to Make Sorted]: ./0944-Delete.Columns.to.Make.Sorted/
 [N-Repeated Element in Size 2N Array]: ./0961-N-Repeated.Element.in.Size.2N.Array/
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 [Squares of a Sorted Array]: ./0977-Squares.of.a.Sorted.Array/
