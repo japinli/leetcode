@@ -34,6 +34,7 @@
 | [415][]  | [Add Strings][]                                             | [Math][]                                     |
 | [443][]  | [String Compression][]                                      | [String][]                                   |
 | [448][]  | [Find All Numbers Disappered in an Array][]                 | [Array][]                                    |
+| [461][]  | [Hamming Distance][]                                        | [Bit Manipulation][]                         |
 | [476][]  | [Number Complement][]                                       | [Bit Manipulation][]                         |
 | [485][]  | [Max Consecutive Ones][]                                    | [Array][]                                    |
 | [496][]  | [Next Greater Element I][]                                  | [Stack][]                                    |
@@ -53,6 +54,7 @@
 | [633][]  | [Sum of Square Numbers][]                                   | [Math][]                                     |
 | [643][]  | [Maximum Average Subarray I][]                              | [Array][]                                    |
 | [645][]  | [Set Mismatch][]                                            | [Math][]                                     |
+| [657][]  | [Robot Return to Origin][]                                  | [String][]                                   |
 | [665][]  | [Non-decreasing Array][]                                    | [Array][]                                    |
 | [674][]  | [Longest Continuous Increasing Subsequence][]               | [Array][]                                    |
 | [680][]  | [Valid Palindrome II][]                                     | [String][]                                   |
@@ -86,8 +88,10 @@
 | [925][]  | [Long Pressed Name][]                                       | [String][],[Two Pointers][]                  |
 | [929][]  | [Unique Email Addresses][]                                  | [String][]                                   |
 | [933][]  | [Number of Recent Calls][]                                  | [Unique][]                                   |
+| [938][]  | [Range Sum of BST][]                                        | [Tree][],[Recursion][]                       |
 | [941][]  | [Valid Mountain Array][]                                    | [Array][]                                    |
 | [942][]  | [DI String Match][]                                         | [Math][]                                     |
+| [944][]  | [Delete Columns to Make Sorted][]                           | [Greedy][]                                   |
 | [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                               |
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                     |
 | [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                   |
@@ -127,6 +131,7 @@
 [415]: https://leetcode.com/problems/add-strings/
 [443]: https://leetcode.com/problems/string-compression/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[461]: https://leetcode.com/problems/hamming-distance/
 [476]: https://leetcode.com/problems/number-complement/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [496]: https://leetcode.com/problems/next-greater-element-i/
@@ -146,6 +151,7 @@
 [633]: https://leetcode.com/problems/sum-of-square-numbers/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [645]: https://leetcode.com/problems/set-mismatch/
+[657]: https://leetcode.com/problems/robot-return-to-origin/
 [665]: https://leetcode.com/problems/non-decreasing-array/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [680]: https://leetcode.com/problems/valid-palindrome-ii/
@@ -179,8 +185,10 @@
 [925]: https://leetcode.com/problems/long-pressed-name/
 [929]: https://leetcode.com/problems/unique-email-addresses/
 [933]: https://leetcode.com/problems/number-of-recent-calls/
+[938]: https://leetcode.com/problems/range-sum-of-bst/
 [941]: https://leetcode.com/problems/valid-mountain-array/
 [942]: https://leetcode.com/problems/di-string-match/
+[944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [965]: https://leetcode.com/problems/univalued-binary-tree/
 [977]: https://leetcode.com/problems/squares-of-a-sorted-array/
@@ -197,6 +205,7 @@
 [Hash Table]: https://leetcode.com/tag/hash-table/
 [Linked List]: https://leetcode.com/tag/linked-list/
 [Math]: https://leetcode.com/tag/math/
+[Recursion]: https://leetcode.com/tag/recursion/
 [Sort]: https://leetcode.com/tag/sort/
 [Stack]: https://leetcode.com/tag/stack/
 [String]: https://leetcode.com/tag/string/
@@ -239,6 +248,7 @@
 [Add Strings]: ./0415-Add.Strings/
 [String Compression]: ./0443-String.Compression/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
+[Hamming Distance]: ./0461-Hamming.Distance/
 [Number Complement]: ./0476-Number.Complement
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Next Greater Element I]: ./0496-Next.Greater.Element.I/
@@ -258,6 +268,7 @@
 [Sum of Square Numbers]: ./0633-Sum.of.Square.Numbers/
 [Maximum Average Subarray I]: ./0643-Maximum.Average.Subarray.I/
 [Set Mismatch]: ./0645-Set.Mismatch/
+[Robot Return to Origin]: ./0657-Robot.Return.to.Origin/
 [Non-decreasing Array]: ./0665-Non-decreasing.Array/
 [Longest Continuous Increasing Subsequence]: ./0674-Longest.Continuous.Increasing.Subsequence/
 [Valid Palindrome II]: ./0680-Valid.Palindrome.II/
@@ -291,8 +302,10 @@
 [Long Pressed Name]: ./0925-Long.Pressed.Name/
 [Unique Email Addresses]: ./0929-Unique.Email.Addresses/
 [Number of Recent Calls]: ./0933-Number.of.Recent.Calls/
+[Range Sum of BST]: ./0938-Range.Sum.of.BST/
 [Valid Mountain Array]: ./0941-Valid.Mountain.Array/
 [DI String Match]: ./0942-DI.String.Match/
+[Delete Columns to Make Sorted]: ./0944-Delete.Columns.to.Make.Sorted/
 [N-Repeated Element in Size 2N Array]: ./0961-N-Repeated.Element.in.Size.2N.Array/
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 [Squares of a Sorted Array]: ./0977-Squares.of.a.Sorted.Array/
