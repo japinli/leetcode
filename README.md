@@ -211,6 +211,7 @@
 [String]: https://leetcode.com/tag/string/
 [Tree]: https://leetcode.com/tag/tree/
 [Two Pointers]: https://leetcode.com/tag/two-pointers/
+[Queue]: https://leetcode.com/tag/queue/
 
 [Database]: https://leetcode.com/problemset/database/
 [Shell]: https://leetcode.com/problemset/shell/
