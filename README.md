@@ -87,7 +87,7 @@
 | [922][]  | [Sort Array By Parity II][]                                 | [Array][],[Sort][]                           |
 | [925][]  | [Long Pressed Name][]                                       | [String][],[Two Pointers][]                  |
 | [929][]  | [Unique Email Addresses][]                                  | [String][]                                   |
-| [933][]  | [Number of Recent Calls][]                                  | [Unique][]                                   |
+| [933][]  | [Number of Recent Calls][]                                  | [Queue][]                                    |
 | [938][]  | [Range Sum of BST][]                                        | [Tree][],[Recursion][]                       |
 | [941][]  | [Valid Mountain Array][]                                    | [Array][]                                    |
 | [942][]  | [DI String Match][]                                         | [Math][]                                     |
