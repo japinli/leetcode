@@ -96,6 +96,7 @@
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                     |
 | [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                   |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                    |
+| [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                     |
 
 
 <!-- Questions -->
@@ -193,6 +194,7 @@
 [965]: https://leetcode.com/problems/univalued-binary-tree/
 [977]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
+[1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -311,3 +313,4 @@
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 [Squares of a Sorted Array]: ./0977-Squares.of.a.Sorted.Array/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
+[Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
