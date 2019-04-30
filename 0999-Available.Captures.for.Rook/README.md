@@ -15,7 +15,7 @@ Return the number of pawns the rook can capture in one move.
 
 __Example 1:__
 
-![example 1](../images/1253_example_1_improved)
+![example 1](../images/1253_example_1_improved.png)
 
 ```
 Input: [
