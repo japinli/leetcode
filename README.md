@@ -98,6 +98,7 @@
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                                 |
 | [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                               |
 | [999][]  | [Available Captures for Rook][]                             | [Array][]                                                |
+| [1002][] | [1002. Find Common Characters][]                            | [Array][],[Hash Table][]                                 |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 
@@ -199,6 +200,7 @@
 [965]: https://leetcode.com/problems/univalued-binary-tree/
 [977]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [999]: https://leetcode.com/problems/available-captures-for-rook/
+[1002]: https://leetcode.com/problems/find-common-characters/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 
@@ -323,5 +325,6 @@
 [Univalued Binary Tree]: ./0965-Univalued.Binary.Tree/
 [Squares of a Sorted Array]: ./0977-Squares.of.a.Sorted.Array/
 [Available Captures for Rook]: ./0999-Available.Captures.for.Rook/
+[Find Common Characters]: ./1002-Find.Common.Characters/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
