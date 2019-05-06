@@ -98,7 +98,7 @@
 | [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                                 |
 | [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                               |
 | [999][]  | [Available Captures for Rook][]                             | [Array][]                                                |
-| [1002][] | [1002. Find Common Characters][]                            | [Array][],[Hash Table][]                                 |
+| [1002][] | [Find Common Characters][]                                  | [Array][],[Hash Table][]                                 |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 
