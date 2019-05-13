@@ -10,6 +10,7 @@
 | [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
 | [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                              |
 | [108][]  | [Convert Sorted Array to Binary Search Tree][]              | [Tree][],[Depth-first Search][]                          |
+| [112][]  | [Path Sum][]                                                | [Tree][],[Depth-first Search][]                          |
 | [118][]  | [Pascal's Triangle][]                                       | [Array][]                                                |
 | [119][]  | [Pascal's Triangle II][]                                    | [Array][]                                                |
 | [121][]  | [Best Time to Buy and Sell Stock][]                         | [Array][],[Dynamic Programming][]                        |
@@ -116,6 +117,7 @@
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [69]: https://leetcode.com/problems/sqrtx/
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+[112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -245,6 +247,7 @@
 [Find First and Last Position of Element in Sorted Array]: ./0034-Find.First.and.Last.Position.of.Element.in.Sorted.Array/
 [Sqrt(x)]: ./0069-Sqrt-x/
 [Convert Sorted Array to Binary Search Tree]: ./0108-Convert.Sorted.Array.to.Binary.Search.Tree
+[Path Sum]: ./0112-Path.Sum/
 [Pascal's Triangle]: ./0118-Pascals.Triangle/
 [Pascal's Triangle II]: ./0119-Pascals.Triangle.II/
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
