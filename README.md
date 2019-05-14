@@ -16,6 +16,7 @@
 | [121][]  | [Best Time to Buy and Sell Stock][]                         | [Array][],[Dynamic Programming][]                        |
 | [122][]  | [Best Time to Buy and Sell Stock II][]                      | [Array][],[Greedy][]                                     |
 | [125][]  | [Valid Palindrome][]                                        | [String][],[Two Pointers][]                              |
+| [160][]  | [Intersection of Two Linked Lists][]                        | [Linked List][]                                          |
 | [167][]  | [Two Sum II - Input array is sorted][]                      | [Array][],[Two Pointers][],[Binary Search][]             |
 | [171][]  | [1-bit and 2-bit Characters][]                              | [Array][]                                                |
 | [189][]  | [Rotate Array][]                                            | [Array][]                                                |
@@ -123,6 +124,7 @@
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]: https://leetcode.com/problems/valid-palindrome/
+[160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [189]: https://leetcode.com/problems/rotate-array/
@@ -253,6 +255,7 @@
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
 [Valid Palindrome]: ./0125-Valid-Palindrome/
+[Intersection of Two Linked Lists]: ./0160-Intersection.of.Two.Linked.Lists/
 [Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
 [Rotate Array]: ./0189-Rotate.Array/
