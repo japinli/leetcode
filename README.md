@@ -23,6 +23,7 @@
 | [190][]  | [Reverse Bits][]                                            | [Bit Manipulation][]                                     |
 | [193][]  | [Valid Phone Numbers][]                                     | [Shell][]                                                |
 | [195][]  | [Tenth Line][]                                              | [Shell][]                                                |
+| [198][]  | [House Robber][]                                            | [Dynamic Programming][]                                  |
 | [203][]  | [Remove Linked List Elements][]                             | [Linked List][]                                          |
 | [206][]  | [Reverse Linked List][]                                     | [Linked List][]                                          |
 | [217][]  | [Contains Duplicate][]                                      | [Array][],[Hash Table][]                                 |
@@ -132,6 +133,7 @@
 [190]: https://leetcode.com/problems/reverse-bits/
 [193]: https://leetcode.com/problems/valid-phone-numbers/
 [195]: https://leetcode.com/problems/tenth-line/
+[198]: https://leetcode.com/problems/house-robber/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
@@ -264,6 +266,7 @@
 [Reverse Bits]: ./0190-Reverse.Bits/
 [Valid Phone Numbers]: ./0193-Valid.Phone.Numbers/
 [Tenth Line]: ./0195-Tenth.Line/
+[House Robber]: ./0198-House.Robber/
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
 [Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
