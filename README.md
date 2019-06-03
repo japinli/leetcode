@@ -25,6 +25,7 @@
 | [195][]  | [Tenth Line][]                                              | [Shell][]                                                |
 | [198][]  | [House Robber][]                                            | [Dynamic Programming][]                                  |
 | [203][]  | [Remove Linked List Elements][]                             | [Linked List][]                                          |
+| [205][]  | [Isomorphic Strings][]                                      | [Hash Table][]                                           |
 | [206][]  | [Reverse Linked List][]                                     | [Linked List][]                                          |
 | [217][]  | [Contains Duplicate][]                                      | [Array][],[Hash Table][]                                 |
 | [232][]  | [Implement Queue using Stacks][]                            | [Stack][],[Design][]                                     |
@@ -135,6 +136,7 @@
 [195]: https://leetcode.com/problems/tenth-line/
 [198]: https://leetcode.com/problems/house-robber/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
+[205]: https://leetcode.com/problems/isomorphic-strings/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
 [232]: https://leetcode.com/problems/implement-queue-using-stacks/
@@ -268,6 +270,7 @@
 [Tenth Line]: ./0195-Tenth.Line/
 [House Robber]: ./0198-House.Robber/
 [Remove Linked List Elements]: ./0203-Remove.Linked.List.Elements/
+[Isomorphic Strings]: ./0205-Isomorphic.Strings/
 [Reverse Linked List]: ./0206-Reverse.Linked.List/
 [Contains Duplicate]: ./0217-Contains.Duplicate/
 [Implement Queue using Stacks]: ./0232-Implement.Queue.using.Stacks/
