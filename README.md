@@ -9,6 +9,8 @@
 | [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                               |
 | [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
 | [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                              |
+| [71][]   | [Simplify Path][]                                           | [String][], [Stack][]                                    |
+| [94][]   | [Binary Tree Inorder Traversal][]                           | [Hash Table][], [Stack][], [Tree][]                      |
 | [108][]  | [Convert Sorted Array to Binary Search Tree][]              | [Tree][],[Depth-first Search][]                          |
 | [112][]  | [Path Sum][]                                                | [Tree][],[Depth-first Search][]                          |
 | [118][]  | [Pascal's Triangle][]                                       | [Array][]                                                |
@@ -16,6 +18,7 @@
 | [121][]  | [Best Time to Buy and Sell Stock][]                         | [Array][],[Dynamic Programming][]                        |
 | [122][]  | [Best Time to Buy and Sell Stock II][]                      | [Array][],[Greedy][]                                     |
 | [125][]  | [Valid Palindrome][]                                        | [String][],[Two Pointers][]                              |
+| [144][]  | [Binary Tree Preorder Traversal][]                          | [Stack][], [Tree][]                                      |
 | [160][]  | [Intersection of Two Linked Lists][]                        | [Linked List][]                                          |
 | [167][]  | [Two Sum II - Input array is sorted][]                      | [Array][],[Two Pointers][],[Binary Search][]             |
 | [171][]  | [1-bit and 2-bit Characters][]                              | [Array][]                                                |
@@ -120,6 +123,8 @@
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [69]: https://leetcode.com/problems/sqrtx/
+[71]: https://leetcode.com/problems/simplify-path/
+[94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
@@ -127,6 +132,7 @@
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]: https://leetcode.com/problems/valid-palindrome/
+[144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [171]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
@@ -254,6 +260,8 @@
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Find First and Last Position of Element in Sorted Array]: ./0034-Find.First.and.Last.Position.of.Element.in.Sorted.Array/
 [Sqrt(x)]: ./0069-Sqrt-x/
+[Simplify Path]: ./0071-Simplify.Path/
+[Binary Tree Inorder Traversal]: ./0094-Binary.Tree.Inorder.Traversal/
 [Convert Sorted Array to Binary Search Tree]: ./0108-Convert.Sorted.Array.to.Binary.Search.Tree
 [Path Sum]: ./0112-Path.Sum/
 [Pascal's Triangle]: ./0118-Pascals.Triangle/
@@ -261,6 +269,7 @@
 [Best Time to Buy and Sell Stock]: ./0121-Best.Time.to.Buy.and.Sell.Stock/
 [Best Time to Buy and Sell Stock II]: ./0122-Best.Time.to.Buy.and.Sell.Stock.II/
 [Valid Palindrome]: ./0125-Valid-Palindrome/
+[Binary Tree Preorder Traversal]: ./0144-Binary.Tree.Preorder.Traversal/
 [Intersection of Two Linked Lists]: ./0160-Intersection.of.Two.Linked.Lists/
 [Two Sum II - Input array is sorted]: ./0167-Two.Sum.II.Input.array.is.sorted/
 [1-bit and 2-bit Characters]: ./0171-1-bit.and.2-bit.Characters/
