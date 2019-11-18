@@ -113,6 +113,7 @@
 | [1002][] | [Find Common Characters][]                                  | [Array][],[Hash Table][]                                 |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
+| [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 
 
 <!-- Questions -->
@@ -227,6 +228,7 @@
 [1002]: https://leetcode.com/problems/find-common-characters/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
+[1108]: https://leetcode.com/problems/defanging-an-ip-address/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -364,3 +366,4 @@
 [Find Common Characters]: ./1002-Find.Common.Characters/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
+[Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
