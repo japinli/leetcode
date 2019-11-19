@@ -114,6 +114,7 @@
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
+| [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 
 
 <!-- Questions -->
@@ -229,6 +230,7 @@
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -367,3 +369,4 @@
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
+[Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
