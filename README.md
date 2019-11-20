@@ -41,6 +41,7 @@
 | [400][]  | [Nth Digit][]                                               | [Math][]                                                 |
 | [414][]  | [Third Maximum Number][]                                    | [Array][]                                                |
 | [415][]  | [Add Strings][]                                             | [Math][]                                                 |
+| [434][]  | [Number of Segments in a String][]                          | [String][]                                               |
 | [443][]  | [String Compression][]                                      | [String][]                                               |
 | [448][]  | [Find All Numbers Disappered in an Array][]                 | [Array][]                                                |
 | [461][]  | [Hamming Distance][]                                        | [Bit Manipulation][]                                     |
@@ -157,6 +158,7 @@
 [400]: https://leetcode.com/problems/nth-digit/
 [414]: https://leetcode.com/problems/third-maximum-number/
 [415]: https://leetcode.com/problems/add-strings/
+[434]: https://leetcode.com/problems/number-of-segments-in-a-string/
 [443]: https://leetcode.com/problems/string-compression/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [461]: https://leetcode.com/problems/hamming-distance/
@@ -296,6 +298,7 @@
 [Nth Digit]: ./0400-Nth.Digit/
 [Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Add Strings]: ./0415-Add.Strings/
+[Number of Segments in a String]: ./0434-Number.of.Segments.in.a.String/
 [String Compression]: ./0443-String.Compression/
 [Find All Numbers Disappered in an Array]: ./0448-Fina.All.Numbers.Disappered.in.an.Array/
 [Hamming Distance]: ./0461-Hamming.Distance/
