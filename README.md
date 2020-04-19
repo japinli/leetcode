@@ -116,6 +116,7 @@
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
+| [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 
 
 <!-- Questions -->
@@ -233,6 +234,7 @@
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 
 <!-- Tags -->
 [Array]: https://leetcode.com/tag/array/
@@ -373,3 +375,4 @@
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
+[Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
