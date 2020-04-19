@@ -6,12 +6,13 @@
  *
  *----------------------------------------------------------------------------
  */
-
+#include <stdlib.h>
+#include <stdbool.h>
 
 #ifdef SOLUTION_1
 
 bool
-checkIfExist(int* arr, int arrSize)
+checkIfExist(int *arr, int arrSize)
 {
     for (int i = 0; i < arrSize; i++) {
         for (int j = 0; j < arrSize; j++) {
@@ -25,3 +26,34 @@ checkIfExist(int* arr, int arrSize)
 }
 
 #endif
+
+#define MAX_SIZE    4001
+#define BASE_NUM    2000
+
+bool
+checkIfExist(int *arr, int arrSize)
+{
+    /*
+     * NB: We DO NOT free the memory, because it will make the runtime slower.
+     */
+    bool *ht = (bool *) calloc(MAX_SIZE, sizeof(bool));
+
+    for (int i = 0; i < arrSize; i++) {
+        int j = arr[i] * 2 + BASE_NUM;
+        if (ht[j]) {
+            return true;
+        }
+
+        if (arr[i] % 2 == 0) {
+            j = arr[i] / 2 + BASE_NUM;
+            if (ht[j]) {
+                return true;
+            }
+        }
+
+        j = arr[i] + BASE_NUM;
+        ht[j] = true;
+    }
+
+    return false;
+}
