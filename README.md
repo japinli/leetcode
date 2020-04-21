@@ -118,6 +118,7 @@
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
+| [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
 
 
 <!-- Questions -->
@@ -237,6 +238,7 @@
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
+[1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
 
 <!-- Tags -->
@@ -380,3 +382,4 @@
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
+[How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
