@@ -120,6 +120,7 @@
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
+| [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
 
 
 <!-- Questions -->
@@ -241,6 +242,7 @@
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 
 
 <!-- Tags -->
@@ -386,3 +388,4 @@
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
+[Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
