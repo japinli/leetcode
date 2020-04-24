@@ -116,6 +116,7 @@
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
+| [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
 | [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
@@ -238,6 +239,7 @@
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
@@ -384,6 +386,7 @@
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
+[Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
 [Find Numbers with Even Number of Digits]: ./1295-Find.Numbers.with.Even.Number.of.Digits/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
