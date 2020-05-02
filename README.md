@@ -120,6 +120,7 @@
 | [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
 | [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
 | [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                |
+| [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
@@ -245,6 +246,7 @@
 [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+[1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -394,6 +396,7 @@
 [Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
 [Find Numbers with Even Number of Digits]: ./1295-Find.Numbers.with.Even.Number.of.Digits/
 [Replace Elements with Greatest Element on Right Side]: ./1299-Replace.Elements.with.Greatest.Element.on.Right.Side/
+[Find N Unique Integers Sum up to Zero]: ./1304-Find.N.Unique.Integers.Sum.up.to.Zero/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
