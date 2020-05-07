@@ -125,6 +125,7 @@
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
+| [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 
 
 <!-- Questions -->
@@ -251,6 +252,7 @@
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 
 <!-- Tags -->
@@ -401,3 +403,4 @@
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
+[Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
