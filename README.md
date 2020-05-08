@@ -123,6 +123,7 @@
 | [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
+| [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
@@ -250,6 +251,7 @@
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
+[1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
@@ -401,6 +403,7 @@
 [Find N Unique Integers Sum up to Zero]: ./1304-Find.N.Unique.Integers.Sum.up.to.Zero/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
+[Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
