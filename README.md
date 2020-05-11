@@ -127,6 +127,7 @@
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
 | [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                |
+| [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 
@@ -257,6 +258,7 @@
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1380]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+[1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
@@ -411,5 +413,6 @@
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
 [Lucky Numbers in a Matrix]: ./1380-Lucky.Numbers.in.a.Matrix/
+[Find the Distance Value Between Two Arrays]: ./1385-Find.the.Distance.Value.Between.Two.Arrays/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
