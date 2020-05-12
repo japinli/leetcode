@@ -123,6 +123,7 @@
 | [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                |
 | [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
+| [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                             |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
@@ -254,6 +255,7 @@
 [1299]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
+[1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -409,6 +411,7 @@
 [Replace Elements with Greatest Element on Right Side]: ./1299-Replace.Elements.with.Greatest.Element.on.Right.Side/
 [Find N Unique Integers Sum up to Zero]: ./1304-Find.N.Unique.Integers.Sum.up.to.Zero/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
+[The K Weakest Rows in a Matrix]: ./1337-The.K.Weakest.Rows.in.a.Matrix/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
