@@ -116,6 +116,7 @@
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
+| [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 | [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
 | [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
@@ -248,6 +249,7 @@
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1051]: https://leetcode.com/problems/height-checker/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1122]: https://leetcode.com/problems/relative-sort-array/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
@@ -404,6 +406,7 @@
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Height Checker]: ./1051-Height.Checker/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
+[Relative Sort Array]: ./1122-Relative.Sort.Array
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
 [Cells with Odd Values in a Matrix]: ./1252-Cells.with.Odd.Values.in.a.Matrix/
 [Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
