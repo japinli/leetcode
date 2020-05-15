@@ -118,6 +118,7 @@
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
 | [1160][] | [Find Words That Can Be Formed by Characters][]             | [Array][], [Hash Table][]                                |
+| [1200][] | [Minimum Absolute Difference][]                             | [Array][]                                                |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 | [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
 | [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
@@ -252,6 +253,7 @@
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1122]: https://leetcode.com/problems/relative-sort-array/
 [1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+[1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
@@ -410,6 +412,7 @@
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Relative Sort Array]: ./1122-Relative.Sort.Array
 [Find Words That Can Be Formed by Characters]: ./1160-Find.Words.That.Can.Be.Formed.by.Characters/
+[Minimum Absolute Difference]: ./1200-Minimum.Absolute.Difference/
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
 [Cells with Odd Values in a Matrix]: ./1252-Cells.with.Odd.Values.in.a.Matrix/
 [Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
