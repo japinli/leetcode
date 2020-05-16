@@ -133,6 +133,7 @@
 | [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                |
 | [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
+| [1394][] | [Find Lucky Integer in an Array][]                          | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 
 
@@ -268,6 +269,7 @@
 [1380]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1394]: https://leetcode.com/problems/find-lucky-integer-in-an-array/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 
@@ -427,4 +429,5 @@
 [Lucky Numbers in a Matrix]: ./1380-Lucky.Numbers.in.a.Matrix/
 [Find the Distance Value Between Two Arrays]: ./1385-Find.the.Distance.Value.Between.Two.Arrays/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
+[Find Lucky Integer in an Array]: ./1394-Find.Lucky.Integer.in.an.Array/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
