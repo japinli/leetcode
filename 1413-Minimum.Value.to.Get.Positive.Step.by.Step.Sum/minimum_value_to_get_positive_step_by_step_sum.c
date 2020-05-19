@@ -13,6 +13,7 @@
  *----------------------------------------------------------------------------
  */
 
+#ifdef SOLUTION_1
 int
 minStartValue(int *nums, int numsSize)
 {
@@ -36,4 +37,26 @@ minStartValue(int *nums, int numsSize)
     }
 
     return result;
+}
+#endif
+
+int
+minStartValue(int *nums, int numsSize)
+{
+    int min = nums[0];
+
+    for (int i = 1; i < numsSize; i++) {
+        nums[i] += nums[i - 1];
+        if (min > nums[i]) {
+            min = nums[i];
+        }
+    }
+
+    if (min < 0) {
+        min = -min + 1;
+    } else {
+        min = 1;
+    }
+
+    return min;
 }
