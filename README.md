@@ -134,6 +134,7 @@
 | [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
 | [1394][] | [Find Lucky Integer in an Array][]                          | [Array][]                                                |
+| [1413][] | [Minimum Value to Get Positive Step by Step Sum][]          | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 | [1450][] | [Number of Students Doing Homework at a Given Time][]       | [Array][]                                                |
 
@@ -271,6 +272,7 @@
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1394]: https://leetcode.com/problems/find-lucky-integer-in-an-array/
+[1413]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 
@@ -432,5 +434,6 @@
 [Find the Distance Value Between Two Arrays]: ./1385-Find.the.Distance.Value.Between.Two.Arrays/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
 [Find Lucky Integer in an Array]: ./1394-Find.Lucky.Integer.in.an.Array/
+[Minimum Value to Get Positive Step by Step Sum]: ./1413-Minimum.Value.to.Get.Positive.Step.by.Step.Sum/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
 [Number of Students Doing Homework at a Given Time]: ./1450-Number.of.Students.Doing.Homework.at.a.Given.Time/
