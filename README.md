@@ -116,6 +116,7 @@
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
+| [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
 | [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
 | [1160][] | [Find Words That Can Be Formed by Characters][]             | [Array][], [Hash Table][]                                |
 | [1185][] | [Day of the Week][]                                         | [Array][]                                                |
@@ -256,6 +257,7 @@
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1051]: https://leetcode.com/problems/height-checker/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1217]: https://leetcode.com/problems/play-with-chips/
 [1122]: https://leetcode.com/problems/relative-sort-array/
 [1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1185]: https://leetcode.com/problems/day-of-the-week/
@@ -420,6 +422,7 @@
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Height Checker]: ./1051-Height.Checker/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
+[Play with Chips]: ./1217-Play.with.Chips/
 [Relative Sort Array]: ./1122-Relative.Sort.Array
 [Find Words That Can Be Formed by Characters]: ./1160-Find.Words.That.Can.Be.Formed.by.Characters/
 [Day of the Week]: ./1185-Day.of.the.Week/
