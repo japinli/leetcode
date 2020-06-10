@@ -140,6 +140,7 @@
 | [1413][] | [Minimum Value to Get Positive Step by Step Sum][]          | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 | [1450][] | [Number of Students Doing Homework at a Given Time][]       | [Array][]                                                |
+| [1460][] | [Make Two Arrays Equal by Reversing Sub-arrays][]           | [Array][]                                                |
 | [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                |
 
 
@@ -282,6 +283,7 @@
 [1413]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1464]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/
 
 
@@ -448,4 +450,5 @@
 [Minimum Value to Get Positive Step by Step Sum]: ./1413-Minimum.Value.to.Get.Positive.Step.by.Step.Sum/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
 [Number of Students Doing Homework at a Given Time]: ./1450-Number.of.Students.Doing.Homework.at.a.Given.Time/
+[Make Two Arrays Equal by Reversing Sub-arrays]: ./1460-Make.Two.Arrays.Equal.by.Reversing.Sub-arrays/
 [Maximum Product of Two Elements in an Array]: ./1464-Maximum.Product.of.Two.Elements.in.an.Array/
