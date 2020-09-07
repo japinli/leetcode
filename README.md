@@ -128,6 +128,7 @@
 | [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
 | [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                |
 | [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
+| [1309][] | [Decrypt String from Alphabet to Integer Mapping][]         | [String][]                                               |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
 | [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                             |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
@@ -273,6 +274,7 @@
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+[1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
@@ -442,6 +444,7 @@
 [Find Numbers with Even Number of Digits]: ./1295-Find.Numbers.with.Even.Number.of.Digits/
 [Replace Elements with Greatest Element on Right Side]: ./1299-Replace.Elements.with.Greatest.Element.on.Right.Side/
 [Find N Unique Integers Sum up to Zero]: ./1304-Find.N.Unique.Integers.Sum.up.to.Zero/
+[Decrypt String from Alphabet to Integer Mapping]: ./1309-Decrypt.String.from.Alphabet.to.Integer.Mapping/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
 [The K Weakest Rows in a Matrix]: ./1337-The.K.Weakest.Rows.in.a.Matrix/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
