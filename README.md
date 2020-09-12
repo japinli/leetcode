@@ -134,6 +134,7 @@
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
+| [1374][] | [Generate a String With Characters That Have Odd Counts][]  | [String][]                                               |
 | [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                |
 | [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
 | [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
@@ -281,6 +282,7 @@
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1380]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
@@ -452,6 +454,7 @@
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
+[Generate a String With Characters That Have Odd Counts]: ./1374-Generate.a.String.With.Characters.That.Have.Odd.Counts/
 [Lucky Numbers in a Matrix]: ./1380-Lucky.Numbers.in.a.Matrix/
 [Find the Distance Value Between Two Arrays]: ./1385-Find.the.Distance.Value.Between.Two.Arrays/
 [Create Target Array in the Given Order]: ./1389-Create.Target.Array.in.the.Given.Order/
