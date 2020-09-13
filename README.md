@@ -134,6 +134,7 @@
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
+| [1370][] | [Increasing Decreasing String][]                            | [String][], [Sort][]                                     |
 | [1374][] | [Generate a String With Characters That Have Odd Counts][]  | [String][]                                               |
 | [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                |
 | [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
@@ -282,6 +283,7 @@
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1370]: https://leetcode.com/problems/increasing-decreasing-string/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1380]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
@@ -454,6 +456,7 @@
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
+[Increasing Decreasing String]: ./1370-Increasing.Decreasing.String/
 [Generate a String With Characters That Have Odd Counts]: ./1374-Generate.a.String.With.Characters.That.Have.Odd.Counts/
 [Lucky Numbers in a Matrix]: ./1380-Lucky.Numbers.in.a.Matrix/
 [Find the Distance Value Between Two Arrays]: ./1385-Find.the.Distance.Value.Between.Two.Arrays/
