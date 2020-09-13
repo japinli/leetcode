@@ -148,6 +148,7 @@
 | [1460][] | [Make Two Arrays Equal by Reversing Sub-arrays][]           | [Array][]                                                |
 | [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                |
 | [1470][] | [Shuffle the Array][]                                       | [Array][]                                                |
+| [1475][] | [Final Prices With a Special Discount in a Shop][]          | [Array][]                                                |
 
 
 <!-- Questions -->
@@ -297,6 +298,7 @@
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
+[1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 
 
 <!-- Tags -->
@@ -470,3 +472,4 @@
 [Make Two Arrays Equal by Reversing Sub-arrays]: ./1460-Make.Two.Arrays.Equal.by.Reversing.Sub-arrays/
 [Maximum Product of Two Elements in an Array]: ./1464-Maximum.Product.of.Two.Elements.in.an.Array/
 [Shuffle the Array]: ./1470-Shuffle.the.Array/
+[Final Prices With a Special Discount in a Shop]: ./1475-Final.Prices.With.a.Special.Discount.in.a.Shop/
