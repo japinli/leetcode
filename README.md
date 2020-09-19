@@ -149,7 +149,7 @@
 | [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                |
 | [1470][] | [Shuffle the Array][]                                       | [Array][]                                                |
 | [1475][] | [Final Prices With a Special Discount in a Shop][]          | [Array][]                                                |
-
+| [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                      |
 
 <!-- Questions -->
 [1]: https://leetcode.com/problems/two-sum/
@@ -299,6 +299,7 @@
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+[1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 
 
 <!-- Tags -->
@@ -473,3 +474,4 @@
 [Maximum Product of Two Elements in an Array]: ./1464-Maximum.Product.of.Two.Elements.in.an.Array/
 [Shuffle the Array]: ./1470-Shuffle.the.Array/
 [Final Prices With a Special Discount in a Shop]: ./1475-Final.Prices.With.a.Special.Discount.in.a.Shop/
+[Can Make Arithmetic Progression From Sequence]: ./1502-Can.Make.Arithmetic.Progression.From.Sequence/
