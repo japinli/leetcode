@@ -96,6 +96,7 @@
 | [888][]  | [Fair Candy Swap][]                                         | [Array][]                                                |
 | [892][]  | [Surface Area of 3D Shapes][]                               | [Geometry][],[Math][]                                    |
 | [896][]  | [Monotonic Array][]                                         | [Array][]                                                |
+| [897][]  | [Increasing Order Search Tree][]                            | [Tree][], [Depth-first Search][]                         |
 | [908][]  | [Smallest Range I][]                                        | [Math][]                                                 |
 | [917][]  | [Reverse Only Letters][]                                    | [String][]                                               |
 | [922][]  | [Sort Array By Parity II][]                                 | [Array][],[Sort][]                                       |
@@ -246,6 +247,7 @@
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [892]: https://leetcode.com/problems/surface-area-of-3d-shapes/
 [896]: https://leetcode.com/problems/monotonic-array/
+[897]: https://leetcode.com/problems/increasing-order-search-tree/
 [908]: https://leetcode.com/problems/smallest-range-i/
 [917]: https://leetcode.com/problems/reverse-only-letters/
 [922]: https://leetcode.com/problems/sort-array-by-parity-ii/
@@ -421,6 +423,7 @@
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Surface Area of 3D Shapes]: ./0892-Surface.Area.of.3D.Shapes/
 [Monotonic Array]: ./0896-Monotonic.Array/
+[Increasing Order Search Tree]: ./0897-Increasing.Order.Search.Tree/
 [Smallest Range I]: ./0908-Smallest.Range.I/
 [Reverse Only Letters]: ./0917-Reverse.Only.Letters/
 [Sort Array By Parity II]: ./0922-Sort.Array.By.Parity.II/
