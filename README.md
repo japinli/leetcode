@@ -116,6 +116,7 @@
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                 |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
+| [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
@@ -269,6 +270,7 @@
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1022]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
+[1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051]: https://leetcode.com/problems/height-checker/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
@@ -447,6 +449,7 @@
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Sum of Root To Leaf Binary Numbers]: ./1022-Sum.of.Root.To.Leaf.Binary.Numbers/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
+[Remove All Adjacent Duplicates In String]: ./1047-Remove.All.Adjacent.Duplicates.In.String/
 [Height Checker]: ./1051-Height.Checker/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
