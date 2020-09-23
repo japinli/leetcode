@@ -126,6 +126,7 @@
 | [1185][] | [Day of the Week][]                                         | [Array][]                                                |
 | [1200][] | [Minimum Absolute Difference][]                             | [Array][]                                                |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
+| [1237][] | [Find Positive Integer Solution for a Given Equation][]     | [Binary Search][], [Math][]                              |
 | [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
 | [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
 | [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
@@ -281,6 +282,7 @@
 [1185]: https://leetcode.com/problems/day-of-the-week/
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1237]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
@@ -461,6 +463,7 @@
 [Day of the Week]: ./1185-Day.of.the.Week/
 [Minimum Absolute Difference]: ./1200-Minimum.Absolute.Difference/
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
+[Find Positive Integer Solution for a Given Equation]: ./1237-Find.Positive.Integer.Solution.for.a.Given.Equation/
 [Cells with Odd Values in a Matrix]: ./1252-Cells.with.Odd.Values.in.a.Matrix/
 [Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
 [Find Numbers with Even Number of Digits]: ./1295-Find.Numbers.with.Even.Number.of.Digits/
