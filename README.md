@@ -137,6 +137,7 @@
 | [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                             |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
+| [1356][] | [Sort Integers by The Number of 1 Bits][]                   | [Bit Manipulation][], [Sort][]                           |
 | [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
 | [1370][] | [Increasing Decreasing String][]                            | [String][], [Sort][]                                     |
 | [1374][] | [Generate a String With Characters That Have Odd Counts][]  | [String][]                                               |
@@ -293,6 +294,7 @@
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+[1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1370]: https://leetcode.com/problems/increasing-decreasing-string/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
@@ -474,6 +476,7 @@
 [The K Weakest Rows in a Matrix]: ./1337-The.K.Weakest.Rows.in.a.Matrix/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
+[Sort Integers by The Number of 1 Bits]: ./1356-Sort.Integers.by.The.Number.of.1.Bits/
 [How Many Numbers Are Smaller Than the Current Number]: ./1365-How.Many.Numbers.Are.Smaller.Than.the.Current.Number/
 [Increasing Decreasing String]: ./1370-Increasing.Decreasing.String/
 [Generate a String With Characters That Have Odd Counts]: ./1374-Generate.a.String.With.Characters.That.Have.Odd.Counts/
