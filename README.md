@@ -96,6 +96,7 @@
 | [883][]  | [Projection Area of 3D Shapes][]                            | [Math][]                                                 |
 | [888][]  | [Fair Candy Swap][]                                         | [Array][]                                                |
 | [892][]  | [Surface Area of 3D Shapes][]                               | [Geometry][],[Math][]                                    |
+| [893][]  | [Groups of Special-Equivalent Strings][]                    | [String][]                                               |
 | [896][]  | [Monotonic Array][]                                         | [Array][]                                                |
 | [897][]  | [Increasing Order Search Tree][]                            | [Tree][], [Depth-first Search][]                         |
 | [908][]  | [Smallest Range I][]                                        | [Math][]                                                 |
@@ -254,6 +255,7 @@
 [883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
 [888]: https://leetcode.com/problems/fair-candy-swap/
 [892]: https://leetcode.com/problems/surface-area-of-3d-shapes/
+[893]: https://leetcode.com/problems/groups-of-special-equivalent-strings/
 [896]: https://leetcode.com/problems/monotonic-array/
 [897]: https://leetcode.com/problems/increasing-order-search-tree/
 [908]: https://leetcode.com/problems/smallest-range-i/
@@ -437,6 +439,7 @@
 [Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
 [Surface Area of 3D Shapes]: ./0892-Surface.Area.of.3D.Shapes/
+[Groups of Special-Equivalent Strings]: ./0893-Groups.of.Special-Equivalent.Strings/
 [Monotonic Array]: ./0896-Monotonic.Array/
 [Increasing Order Search Tree]: ./0897-Increasing.Order.Search.Tree/
 [Smallest Range I]: ./0908-Smallest.Range.I/
