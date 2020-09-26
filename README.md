@@ -84,6 +84,7 @@
 | [747][]  | [Largest Number At Least Twice of Other][]                  | [Array][]                                                |
 | [766][]  | [Toeplitz Matrix][]                                         | [Array][]                                                |
 | [804][]  | [Unique Morse Code Words][]                                 | [String][]                                               |
+| [806][]  | [Number of Lines To Write String][]                         | [Array][]                                                |
 | [811][]  | [Subdomain Visit Count][]                                   | [Hash Table][]                                           |
 | [824][]  | [Goat Latin][]                                              | [String][]                                               |
 | [832][]  | [Flipping an Image][]                                       | [Array][]                                                |
@@ -241,6 +242,7 @@
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [804]: https://leetcode.com/problems/unique-morse-code-words/
+[806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [811]: https://leetcode.com/problems/subdomain-visit-count/
 [824]: https://leetcode.com/problems/goat-latin/
 [832]: https://leetcode.com/problems/flipping-an-image/
@@ -423,6 +425,7 @@
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Unique Morse Code Words]: ./0804-Unique.Morse.Code.Words
+[Number of Lines To Write String]: ./0806-Number.of.Lines.To.Write.String/
 [Subdomain Visit Count]: ./0811-Subdomain.Visit.Count/
 [Goat Latin]: ./0824-Goat.Latin/
 [Flipping an Image]: ./0832-Flipping.an.Image/
