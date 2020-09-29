@@ -159,6 +159,7 @@
 | [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                |
 | [1470][] | [Shuffle the Array][]                                       | [Array][]                                                |
 | [1475][] | [Final Prices With a Special Discount in a Shop][]          | [Array][]                                                |
+| [1480][] | [Running Sum of 1d Array][]                                 | [Array][]                                                |
 | [1491][] | [Average Salary Excluding the Minimum and Maximum Salary][] | [Array][], [Sort][]                                      |
 | [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                      |
 
@@ -320,6 +321,7 @@
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+[1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 
@@ -506,5 +508,6 @@
 [Maximum Product of Two Elements in an Array]: ./1464-Maximum.Product.of.Two.Elements.in.an.Array/
 [Shuffle the Array]: ./1470-Shuffle.the.Array/
 [Final Prices With a Special Discount in a Shop]: ./1475-Final.Prices.With.a.Special.Discount.in.a.Shop/
+[Running Sum of 1d Array]: ./1480-Running.Sum.of.1d.Array/
 [Average Salary Excluding the Minimum and Maximum Salary]: ./1491-Average.Salary.Excluding.the.Minimum.and.Maximum.Salary/
 [Can Make Arithmetic Progression From Sequence]: ./1502-Can.Make.Arithmetic.Progression.From.Sequence/
