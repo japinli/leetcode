@@ -6,6 +6,7 @@
 | [2][]    | [Add Two Numbers][]                                         | [Linked List][],[Math][]                                 |
 | [11][]   | [Container With Most Water][]                               | [Array][], [Two Pointers][]                              |
 | [13][]   | [Roman to Integer][]                                        | [Math][],[String][]                                      |
+| [15][]   | [3Sum][]                                                    | [Array][], [Two Pointers][]                              |
 | [21][]   | [Merge Two Sorted Lists][]                                  | [Linked List][]                                          |
 | [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                               |
 | [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
@@ -170,6 +171,7 @@
 [2]: https://leetcode.com/problems/add-two-numbers/
 [11]: https://leetcode.com/problems/container-with-most-water/
 [13]: https://leetcode.com/problems/roman-to-integer/
+[15]: https://leetcode.com/problems/3sum/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
@@ -358,6 +360,7 @@
 [Add Two Numbers]: ./0002-Add.Two.Numbers/
 [Container With Most Water]: ./0011-Container.With.Most.Water/
 [Roman to Integer]: ./0013-Romain.to.Integer/
+[3Sum]: ./0015-3Sum/
 [Merge Two Sorted Lists]: ./0021-Merge.Two.Sorted.Lists/
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Find First and Last Position of Element in Sorted Array]: ./0034-Find.First.and.Last.Position.of.Element.in.Sorted.Array/
