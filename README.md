@@ -10,6 +10,7 @@
 | [16][]   | [3Sum Closest][]                                            | [Array][], [Two Pointers][]                              |
 | [21][]   | [Merge Two Sorted Lists][]                                  | [Linked List][]                                          |
 | [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                               |
+| [33][]   | [Search in Rotated Sorted Array][]                          | [Array][], [Binary Search][]                             |
 | [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
 | [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                              |
 | [71][]   | [Simplify Path][]                                           | [String][], [Stack][]                                    |
@@ -176,6 +177,7 @@
 [16]: https://leetcode.com/problems/3sum-closest/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [69]: https://leetcode.com/problems/sqrtx/
 [71]: https://leetcode.com/problems/simplify-path/
@@ -366,6 +368,7 @@
 [3Sum Closest]: ./0016-3Sum.Closest/
 [Merge Two Sorted Lists]: ./0021-Merge.Two.Sorted.Lists/
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
+[Search in Rotated Sorted Array]: ./0033-Search.in.Rotated.Sorted.Array/
 [Find First and Last Position of Element in Sorted Array]: ./0034-Find.First.and.Last.Position.of.Element.in.Sorted.Array/
 [Sqrt(x)]: ./0069-Sqrt-x/
 [Simplify Path]: ./0071-Simplify.Path/
