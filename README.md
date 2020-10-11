@@ -53,6 +53,7 @@
 | [476][]  | [Number Complement][]                                       | [Bit Manipulation][]                                     |
 | [485][]  | [Max Consecutive Ones][]                                    | [Array][]                                                |
 | [496][]  | [Next Greater Element I][]                                  | [Stack][]                                                |
+| [500][]  | [Keyboard Row][]                                            | [Hash Table][]                                           |
 | [507][]  | [Perfect Number][]                                          | [Math][]                                                 |
 | [509][]  | [Fibonacci Number][]                                        | [Array][]                                                |
 | [520][]  | [Detect Capital][]                                          | [String][]                                               |
@@ -221,6 +222,7 @@
 [476]: https://leetcode.com/problems/number-complement/
 [485]: https://leetcode.com/problems/max-consecutive-ones/
 [496]: https://leetcode.com/problems/next-greater-element-i/
+[500]: https://leetcode.com/problems/keyboard-row/
 [507]: https://leetcode.com/problems/perfect-number/
 [509]: https://leetcode.com/problems/fibonacci-number/
 [520]: https://leetcode.com/problems/detect-capital/
@@ -413,6 +415,7 @@
 [Number Complement]: ./0476-Number.Complement
 [Max Consecutive Ones]: ./0485-Max.Consecutive.Ones/
 [Next Greater Element I]: ./0496-Next.Greater.Element.I/
+[Keyboard Row]: ./0500-Keyboard.Row/
 [Perfect Number]: ./0507-Perfect.Number/
 [Fibonacci Number]: ./0509-Fibonacci.Number/
 [Detect Capital]: ./0520-Detect.Capital/
