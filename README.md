@@ -126,6 +126,7 @@
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
+| [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                           |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
 | [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
@@ -295,6 +296,7 @@
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051]: https://leetcode.com/problems/height-checker/
+[1078]: https://leetcode.com/problems/occurrences-after-bigram/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [1217]: https://leetcode.com/problems/play-with-chips/
@@ -488,6 +490,7 @@
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Remove All Adjacent Duplicates In String]: ./1047-Remove.All.Adjacent.Duplicates.In.String/
 [Height Checker]: ./1051-Height.Checker/
+[Occurrences After Bigram]: ./1078-Occurrences.After.Bigram/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
 [Play with Chips]: ./1217-Play.with.Chips/
