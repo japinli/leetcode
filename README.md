@@ -169,6 +169,7 @@
 | [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                      |
 | [1512][] | [Number of Good Pairs][]                                    | [Array][], [Hash Table][], [Math][]                      |
 | [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
+| [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 
 
 <!-- Questions -->
@@ -339,6 +340,7 @@
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1550]: https://leetcode.com/problems/three-consecutive-odds/
+[1598]: https://leetcode.com/problems/crawler-log-folder/
 
 
 <!-- Tags -->
@@ -533,3 +535,4 @@
 [Can Make Arithmetic Progression From Sequence]: ./1502-Can.Make.Arithmetic.Progression.From.Sequence/
 [Number of Good Pairs]: ./1512-Number.of.Good.Pairs/
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
+[Crawler Log Folder]: ./1598-Crawler.Log.Folder/
