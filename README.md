@@ -124,6 +124,7 @@
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                 |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
+| [1046][] | [Last Stone Weight][]                                       | [Heap][], [Greedy][]                                     |
 | [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                           |
@@ -296,6 +297,7 @@
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1022]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
+[1046]: https://leetcode.com/problems/last-stone-weight/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051]: https://leetcode.com/problems/height-checker/
 [1078]: https://leetcode.com/problems/occurrences-after-bigram/
@@ -492,6 +494,7 @@
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Sum of Root To Leaf Binary Numbers]: ./1022-Sum.of.Root.To.Leaf.Binary.Numbers/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
+[Last Stone Weight]: ./1046-Last.Stone.Weight/
 [Remove All Adjacent Duplicates In String]: ./1047-Remove.All.Adjacent.Duplicates.In.String/
 [Height Checker]: ./1051-Height.Checker/
 [Occurrences After Bigram]: ./1078-Occurrences.After.Bigram/
