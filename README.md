@@ -170,6 +170,7 @@
 | [1491][] | [Average Salary Excluding the Minimum and Maximum Salary][] | [Array][], [Sort][]                                      |
 | [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                      |
 | [1512][] | [Number of Good Pairs][]                                    | [Array][], [Hash Table][], [Math][]                      |
+| [1518][] | [Water Bottles][]                                           | [Greedy][]                                               |
 | [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 
@@ -343,6 +344,7 @@
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
+[1518]: https://leetcode.com/problems/water-bottles/
 [1550]: https://leetcode.com/problems/three-consecutive-odds/
 [1598]: https://leetcode.com/problems/crawler-log-folder/
 
@@ -540,5 +542,6 @@
 [Average Salary Excluding the Minimum and Maximum Salary]: ./1491-Average.Salary.Excluding.the.Minimum.and.Maximum.Salary/
 [Can Make Arithmetic Progression From Sequence]: ./1502-Can.Make.Arithmetic.Progression.From.Sequence/
 [Number of Good Pairs]: ./1512-Number.of.Good.Pairs/
+[Water Bottles]: ./1518-Water.Bottles/
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
