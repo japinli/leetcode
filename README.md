@@ -97,6 +97,7 @@
 | [844][]  | [Backspace String Compare][]                                | [Stack][],[Two Pointers][]                               |
 | [852][]  | [Peak Index in a Mountain Array][]                          | [Binary Search][]                                        |
 | [859][]  | [Buddy Strings][]                                           | [String][]                                               |
+| [860][]  | [Lemonade Change][]                                         | [Greedy][]                                               |
 | [867][]  | [Transpose Matrix][]                                        | [Array][]                                                |
 | [876][]  | [Middle of the Linked List][]                               | [Linked List][]                                          |
 | [883][]  | [Projection Area of 3D Shapes][]                            | [Math][]                                                 |
@@ -271,6 +272,7 @@
 [844]: https://leetcode.com/problems/backspace-string-compare/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [859]: https://leetcode.com/problems/buddy-strings/
+[860]: https://leetcode.com/problems/lemonade-change/
 [867]: https://leetcode.com/problems/transpose-matrix/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
@@ -469,6 +471,7 @@
 [Backspace String Compare]: ./0844-Backspace.String.Compare/
 [Peak Index in a Mountain Array]: ./0852-Peak.Index.in.a.Mountain.Array/
 [Buddy Strings]: ./0859-Buddy.Strings/
+[Lemonade Change]: ./0860-Lemonade.Change/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
 [Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
