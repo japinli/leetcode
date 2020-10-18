@@ -122,6 +122,7 @@
 | [985][]  | [Sum of Even Numbers After Queries][]                       | [Array][]                                                |
 | [999][]  | [Available Captures for Rook][]                             | [Array][]                                                |
 | [1002][] | [Find Common Characters][]                                  | [Array][],[Hash Table][]                                 |
+| [1005][] | [Maximize Sum Of Array After K Negations][]                 | [Greedy][]                                               |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                 |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
@@ -297,6 +298,7 @@
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [999]: https://leetcode.com/problems/available-captures-for-rook/
 [1002]: https://leetcode.com/problems/find-common-characters/
+[1005]: https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1022]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
@@ -496,6 +498,7 @@
 [Sum of Even Numbers After Queries]: ./0985-Sum.of.Even.Numbers.After.Queries/
 [Available Captures for Rook]: ./0999-Available.Captures.for.Rook/
 [Find Common Characters]: ./1002-Find.Common.Characters/
+[Maximize Sum Of Array After K Negations]: ./1005-Maximize.Sum.Of.Array.After.K.Negations/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Sum of Root To Leaf Binary Numbers]: ./1022-Sum.of.Root.To.Leaf.Binary.Numbers/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
