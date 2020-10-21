@@ -65,6 +65,7 @@
 | [559][]  | [Maximum Depth of N-ary Tree][]                             | [Breadth-first Search][],[Depth-first Search][],[Tree][] |
 | [561][]  | [Array Partition I][]                                       | [Array][]                                                |
 | [566][]  | [Reshape the Matrix][]                                      | [Array][]                                                |
+| [575][]  | [Distribute Candies][]                                      | [Hash Table][]                                           |
 | [581][]  | [Shortest Unsorted Continuous Subarray][]                   | [Array][]                                                |
 | [589][]  | [N-ary Tree Preorder Traversal][]                           | [Tree][]                                                 |
 | [595][]  | [Big Countries][]                                           | [Database][]                                             |
@@ -243,6 +244,7 @@
 [559]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 [561]: https://leetcode.com/problems/array-partition-i/
 [566]: https://leetcode.com/problems/reshape-the-matrix/
+[575]: https://leetcode.com/problems/distribute-candies/
 [581]: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [595]: https://leetcode.com/problems/big-countries/
@@ -445,6 +447,7 @@
 [Maximum Depth of N-ary Tree]: ./0559-Maximum.Depth.of.N-ary.Tree/
 [Array Partition I]: ./0561-Array.Partition.I/
 [Reshape the Matrix]: ./0566-Reshape.the.Matrix/
+[Distribute Candies]: ./0575-Distribute.Candies/
 [Shortest Unsorted Continuous Subarray]: ./0581-Shortest.Unsorted.Continuous.Subarray/
 [N-ary Tree Preorder Traversal]: ./0589-N-ary.Tree.Preorder.Traversal/
 [Big Countries]: ./0595-Big.Countries/
