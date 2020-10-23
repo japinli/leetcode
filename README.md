@@ -144,6 +144,7 @@
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 | [1237][] | [Find Positive Integer Solution for a Given Equation][]     | [Binary Search][], [Math][]                              |
 | [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
+| [1260][] | [Shift 2D Grid][]                                           | [Array][]                                                |
 | [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
 | [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
 | [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                |
@@ -324,6 +325,7 @@
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1237]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+[1260]: https://leetcode.com/problems/shift-2d-grid/
 [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
@@ -528,6 +530,7 @@
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
 [Find Positive Integer Solution for a Given Equation]: ./1237-Find.Positive.Integer.Solution.for.a.Given.Equation/
 [Cells with Odd Values in a Matrix]: ./1252-Cells.with.Odd.Values.in.a.Matrix/
+[Shift 2D Grid]: ./1260-Shift.2D.Grid/
 [Minimum Time Visiting All Points]: ./1266-Minimum.Time.Visiting.All.Points/
 [Find Numbers with Even Number of Digits]: ./1295-Find.Numbers.with.Even.Number.of.Digits/
 [Replace Elements with Greatest Element on Right Side]: ./1299-Replace.Elements.with.Greatest.Element.on.Right.Side/
