@@ -180,6 +180,7 @@
 | [1518][] | [Water Bottles][]                                           | [Greedy][]                                               |
 | [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
+| [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
 
 
 <!-- Questions -->
@@ -361,6 +362,7 @@
 [1518]: https://leetcode.com/problems/water-bottles/
 [1550]: https://leetcode.com/problems/three-consecutive-odds/
 [1598]: https://leetcode.com/problems/crawler-log-folder/
+[1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 
 
 <!-- Tags -->
@@ -566,3 +568,4 @@
 [Water Bottles]: ./1518-Water.Bottles/
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
+[Mean of Array After Removing Some Elements]: ./1619-Mean.of.Array.After.Removing.Some.Elements/
