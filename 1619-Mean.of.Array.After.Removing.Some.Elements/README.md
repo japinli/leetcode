@@ -46,4 +46,4 @@ __Constraints:__
 
 * `20 <= arr.length <= 1000`
 * `arr.length` is a multiple of `20`.
-* `0 <= arr[i] <= 105`
+* `0 <= arr[i] <= 10^5`

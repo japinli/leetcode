@@ -129,6 +129,7 @@
 | [1009][] | [Complement of Base 10 Integer][]                           | [Math][]                                                 |
 | [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
 | [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                 |
+| [1025][] | [Divisor Game][]                                            | [Math][], [Dynamic Programming][]                        |
 | [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
 | [1046][] | [Last Stone Weight][]                                       | [Heap][], [Greedy][]                                     |
 | [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
@@ -311,6 +312,7 @@
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1022]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+[1025]: https://leetcode.com/problems/divisor-game/
 [1030]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1046]: https://leetcode.com/problems/last-stone-weight/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
@@ -517,6 +519,7 @@
 [Complement of Base 10 Integer]: ./1009-Complement.of.Base.10.Integer/
 [Remove Outermost Parentheses]: ./1021-Remove.Outermost.Parentheses/
 [Sum of Root To Leaf Binary Numbers]: ./1022-Sum.of.Root.To.Leaf.Binary.Numbers/
+[Divisor Game]: ./1025-Divisor.Game/
 [Matrix Cells in Distance Order]: ./1030-Matrix.Cells.in.Distance.Order/
 [Last Stone Weight]: ./1046-Last.Stone.Weight/
 [Remove All Adjacent Duplicates In String]: ./1047-Remove.All.Adjacent.Duplicates.In.String/
