@@ -41,6 +41,7 @@
 | [268][]  | [Missing Number][]                                          | [Array][],[Math][],[Bit Manipulation][]                  |
 | [278][]  | [First Bad Version][]                                       | [Binary Search][]                                        |
 | [283][]  | [Move Zeroes][]                                             | [Array][],[Two Pointers][]                               |
+| [303][]  | [Range Sum Query - Immutable][]                             | [Dynamic Programming][]                                  |
 | [344][]  | [Reverse String][]                                          | [String][],[Two Pointers][]                              |
 | [392][]  | [Is Subsequence][]                                          | [Binary Search][], [Dynamic Programming][], [Greedy][]   |
 | [400][]  | [Nth Digit][]                                               | [Math][]                                                 |
@@ -224,6 +225,7 @@
 [268]: https://leetcode.com/problems/missing-number/
 [278]: https://leetcode.com/problems/first-bad-version/
 [283]: https://leetcode.com/problems/move-zeroes/
+[303]: https://leetcode.com/problems/range-sum-query-immutable/
 [344]: https://leetcode.com/problems/reverse-string/
 [392]: https://leetcode.com/problems/is-subsequence/
 [400]: https://leetcode.com/problems/nth-digit/
@@ -431,6 +433,7 @@
 [Missing Number]: ./0268-Missing.Number/
 [First Bad Version]: ./0278-First.Bad.Version/
 [Move Zeroes]: ./0283-Move.Zeroes/
+[Range Sum Query - Immutable]: ./0303-Range.Sum.Query.Immutable/
 [Reverse String]: ./0344-Reverse.String/
 [Is Subsequence]: ./0392-Is.Subsequence/
 [Nth Digit]: ./0400-Nth.Digit/
