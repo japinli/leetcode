@@ -12,6 +12,7 @@
 | [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                               |
 | [33][]   | [Search in Rotated Sorted Array][]                          | [Array][], [Binary Search][]                             |
 | [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
+| [62][]   | [Unique Paths][]                                            | [Array][], [Dynamic Programming][]                       |
 | [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                              |
 | [71][]   | [Simplify Path][]                                           | [String][], [Stack][]                                    |
 | [94][]   | [Binary Tree Inorder Traversal][]                           | [Hash Table][], [Stack][], [Tree][]                      |
@@ -197,6 +198,7 @@
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[62]: https://leetcode.com/problems/unique-paths/
 [69]: https://leetcode.com/problems/sqrtx/
 [71]: https://leetcode.com/problems/simplify-path/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
@@ -406,6 +408,7 @@
 [Remove Duplicates from Sorted Array]: ./0026-Remove.Duplicates.from.Sorted.Array/
 [Search in Rotated Sorted Array]: ./0033-Search.in.Rotated.Sorted.Array/
 [Find First and Last Position of Element in Sorted Array]: ./0034-Find.First.and.Last.Position.of.Element.in.Sorted.Array/
+[Unique Paths]: ./0062-Unique.Paths/
 [Sqrt(x)]: ./0069-Sqrt-x/
 [Simplify Path]: ./0071-Simplify.Path/
 [Binary Tree Inorder Traversal]: ./0094-Binary.Tree.Inorder.Traversal/
