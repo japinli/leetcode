@@ -139,6 +139,7 @@
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                           |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
+| [1114][] | [Print in Order][]                                          |                                                          |
 | [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
 | [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
 | [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
@@ -325,6 +326,7 @@
 [1051]: https://leetcode.com/problems/height-checker/
 [1078]: https://leetcode.com/problems/occurrences-after-bigram/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1114]: https://leetcode.com/problems/print-in-order/
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [1217]: https://leetcode.com/problems/play-with-chips/
 [1122]: https://leetcode.com/problems/relative-sort-array/
@@ -535,6 +537,7 @@
 [Height Checker]: ./1051-Height.Checker/
 [Occurrences After Bigram]: ./1078-Occurrences.After.Bigram/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
+[Print in Order]: ./1114-Print.in.Order/
 [Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
 [Play with Chips]: ./1217-Play.with.Chips/
 [Relative Sort Array]: ./1122-Relative.Sort.Array
