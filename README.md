@@ -186,6 +186,7 @@
 | [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 | [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
+| [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                      |
 
 
 <!-- Questions -->
@@ -373,6 +374,7 @@
 [1550]: https://leetcode.com/problems/three-consecutive-odds/
 [1598]: https://leetcode.com/problems/crawler-log-folder/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+[1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
 
 
 <!-- Tags -->
@@ -584,3 +586,4 @@
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
 [Mean of Array After Removing Some Elements]: ./1619-Mean.of.Array.After.Removing.Some.Elements/
+[Sort Array by Increasing Frequency]: ./1636-Sort.Array.by.Increasing.Frequency
