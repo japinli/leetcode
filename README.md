@@ -187,6 +187,7 @@
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 | [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
 | [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                      |
+| [1716][] | [Calculate Money in Leetcode Bank][]                        | [Math][], [Greedy][]                                     |
 
 
 <!-- Questions -->
@@ -375,6 +376,7 @@
 [1598]: https://leetcode.com/problems/crawler-log-folder/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
+[1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 
 
 <!-- Tags -->
@@ -586,4 +588,5 @@
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
 [Mean of Array After Removing Some Elements]: ./1619-Mean.of.Array.After.Removing.Some.Elements/
-[Sort Array by Increasing Frequency]: ./1636-Sort.Array.by.Increasing.Frequency
+[Sort Array by Increasing Frequency]: ./1636-Sort.Array.by.Increasing.Frequency/
+[Calculate Money in Leetcode Bank]: ./1716-Calculate.Money.in.Leetcode.Bank/
