@@ -156,6 +156,7 @@
 | [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
 | [1309][] | [Decrypt String from Alphabet to Integer Mapping][]         | [String][]                                               |
 | [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
+| [1332][] | [Remove Palindromic Subsequences][]                         | [String][]                                               |
 | [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                             |
 | [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
 | [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
@@ -345,6 +346,7 @@
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
+[1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
@@ -558,6 +560,7 @@
 [Find N Unique Integers Sum up to Zero]: ./1304-Find.N.Unique.Integers.Sum.up.to.Zero/
 [Decrypt String from Alphabet to Integer Mapping]: ./1309-Decrypt.String.from.Alphabet.to.Integer.Mapping/
 [Decompress Run-Length Encoded List]: ./1313.Decompress.Run.Length.Encoded.List/
+[Remove Palindromic Subsequences]: ./1332-Remove.Palindromic.Subsequences/
 [The K Weakest Rows in a Matrix]: ./1337-The.K.Weakest.Rows.in.a.Matrix/
 [Check If N and Its Double Exist]: ./1346-Check.If.N.and.Its.Double.Exist/
 [Count Negative Numbers in a Sorted Matrix]: ./1351-Count.Negative.Numbers.in.a.Sorted.Matrix/
