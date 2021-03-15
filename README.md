@@ -105,6 +105,7 @@
 | [859][]  | [Buddy Strings][]                                           | [String][]                                               |
 | [860][]  | [Lemonade Change][]                                         | [Greedy][]                                               |
 | [867][]  | [Transpose Matrix][]                                        | [Array][]                                                |
+| [872][]  | [Leaf-Similar Trees][]                                      | [Tree][], [Depth-first Search][]                         |
 | [876][]  | [Middle of the Linked List][]                               | [Linked List][]                                          |
 | [883][]  | [Projection Area of 3D Shapes][]                            | [Math][]                                                 |
 | [888][]  | [Fair Candy Swap][]                                         | [Array][]                                                |
@@ -297,6 +298,7 @@
 [859]: https://leetcode.com/problems/buddy-strings/
 [860]: https://leetcode.com/problems/lemonade-change/
 [867]: https://leetcode.com/problems/transpose-matrix/
+[872]: https://leetcode.com/problems/leaf-similar-trees/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [883]: https://leetcode.com/problems/projection-area-of-3d-shapes/
 [888]: https://leetcode.com/problems/fair-candy-swap/
@@ -513,6 +515,7 @@
 [Buddy Strings]: ./0859-Buddy.Strings/
 [Lemonade Change]: ./0860-Lemonade.Change/
 [Transpose Matrix]: ./0867-Transpose.Matrix/
+[Leaf-Similar Trees]: ./0872-Leaf.Similar.Trees/
 [Middle of the Linked List]: ./0876-Middle.of.the.Linked.List/
 [Projection Area of 3D Shapes]: ./0883-Projection.Area.of.3D.Shapes/
 [Fair Candy Swap]: ./0888-Fair.Candy.Swap/
