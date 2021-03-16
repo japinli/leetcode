@@ -94,6 +94,7 @@
 | [744][]  | [Find Smallest Letter Greater Than Target][]                | [Binary Search][]                                        |
 | [746][]  | [Min Cost Climbing Stairs][]                                | [Array][],[Dynamic Programming][]                        |
 | [747][]  | [Largest Number At Least Twice of Other][]                  | [Array][]                                                |
+| [762][]  | [Prime Number of Set Bits in Binary Representation][]       | [Bit Manipulation][]                                     |
 | [766][]  | [Toeplitz Matrix][]                                         | [Array][]                                                |
 | [804][]  | [Unique Morse Code Words][]                                 | [String][]                                               |
 | [806][]  | [Number of Lines To Write String][]                         | [Array][]                                                |
@@ -287,6 +288,7 @@
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [746]: https://leetcode.com/problems/min-cost-climbing-stairs
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others
+[762]: https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 [766]: https://leetcode.com/problems/toeplitz-matrix/
 [804]: https://leetcode.com/problems/unique-morse-code-words/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
@@ -504,6 +506,7 @@
 [Find Smallest Letter Greater Than Target]: ./0744-Find.Smallest.Letter.Greater.Than.Target/
 [Min Cost Climbing Stairs]: ./0746-Min.Cost.Climbing.Stairs/
 [Largest Number At Least Twice of Other]: ./0747-Largest.Number.At.Least.Twice.of.Others/
+[Prime Number of Set Bits in Binary Representation]: ./0762-Prime.Number.of.Set.Bits.in.Binary.Representation/
 [Toeplitz Matrix]: ./0766-Toeplitz.Matrix/
 [Unique Morse Code Words]: ./0804-Unique.Morse.Code.Words
 [Number of Lines To Write String]: ./0806-Number.of.Lines.To.Write.String/
