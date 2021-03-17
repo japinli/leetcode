@@ -87,6 +87,7 @@
 | [696][]  | [Count Binary Substrings][]                                 | [String][]                                               |
 | [700][]  | [Search in a Binary Search Tree][]                          | [Tree][]                                                 |
 | [704][]  | [Binary.Search][]                                           | [Binary Search][]                                        |
+| [705][]  | [Design HashSet][]                                          | [Hash Table][], [Design][]                               |
 | [707][]  | [Design Linked List][]                                      | [Array][],[Design][]                                     |
 | [709][]  | [To Lower Case][]                                           | [String][]                                               |
 | [724][]  | [Find Pivot Index][]                                        | [Array][]                                                |
@@ -281,6 +282,7 @@
 [696]: https://leetcode.com/problems/count-binary-substrings/
 [700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
 [704]: https://leetcode.com/problems/binary-search/
+[705]: https://leetcode.com/problems/design-hashset/
 [707]: https://leetcode.com/problems/design-linked-list/
 [709]: https://leetcode.com/problems/to-lower-case/
 [724]: https://leetcode.com/problems/find-pivot-index/
@@ -499,6 +501,7 @@
 [Count Binary Substrings]: ./0696-Count.Binary.Substrings/
 [Search in a Binary Search Tree]: ./0700-Search.in.a.Binary.Search.Tree/
 [Binary.Search]: ./0704-Binary.Search/
+[Design HashSet]: ./0705-Design.HashSet/
 [Design Linked List]: ./0707-Design.Linked.List/
 [To Lower Case]: ./0709-To.Lower.Case/
 [Find Pivot Index]: ./0724-Find.Pivot.Index/
