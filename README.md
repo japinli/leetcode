@@ -188,6 +188,7 @@
 | [1512][] | [Number of Good Pairs][]                                    | [Array][], [Hash Table][], [Math][]                      |
 | [1518][] | [Water Bottles][]                                           | [Greedy][]                                               |
 | [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
+| [1582][] | [Special Positions in a Binary Matrix][]                    | [Array][]                                                |
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 | [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
 | [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                      |
@@ -383,6 +384,7 @@
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1518]: https://leetcode.com/problems/water-bottles/
 [1550]: https://leetcode.com/problems/three-consecutive-odds/
+[1582]: https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1598]: https://leetcode.com/problems/crawler-log-folder/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
@@ -602,6 +604,7 @@
 [Number of Good Pairs]: ./1512-Number.of.Good.Pairs/
 [Water Bottles]: ./1518-Water.Bottles/
 [Three Consecutive Odds]: ./1550-Three.Consecutive.Odds/
+[Special Positions in a Binary Matrix]: ./1582-Special.Positions.in.a.Binary.Matrix/
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
 [Mean of Array After Removing Some Elements]: ./1619-Mean.of.Array.After.Removing.Some.Elements/
 [Sort Array by Increasing Frequency]: ./1636-Sort.Array.by.Increasing.Frequency/
