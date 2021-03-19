@@ -47,6 +47,7 @@
 | [344][]  | [Reverse String][]                                          | [String][],[Two Pointers][]                              |
 | [392][]  | [Is Subsequence][]                                          | [Binary Search][], [Dynamic Programming][], [Greedy][]   |
 | [400][]  | [Nth Digit][]                                               | [Math][]                                                 |
+| [412][]  | [Fizz Buzz][]                                               |                                                          |
 | [414][]  | [Third Maximum Number][]                                    | [Array][]                                                |
 | [415][]  | [Add Strings][]                                             | [Math][]                                                 |
 | [434][]  | [Number of Segments in a String][]                          | [String][]                                               |
@@ -243,6 +244,7 @@
 [344]: https://leetcode.com/problems/reverse-string/
 [392]: https://leetcode.com/problems/is-subsequence/
 [400]: https://leetcode.com/problems/nth-digit/
+[412]: https://leetcode.com/problems/fizz-buzz/
 [414]: https://leetcode.com/problems/third-maximum-number/
 [415]: https://leetcode.com/problems/add-strings/
 [434]: https://leetcode.com/problems/number-of-segments-in-a-string/
@@ -463,6 +465,7 @@
 [Reverse String]: ./0344-Reverse.String/
 [Is Subsequence]: ./0392-Is.Subsequence/
 [Nth Digit]: ./0400-Nth.Digit/
+[Fizz Buzz]: ./0412-Fizz.Buzz/
 [Third Maximum Number]: ./0414-Third.Maximum.Number/
 [Add Strings]: ./0415-Add.Strings/
 [Number of Segments in a String]: ./0434-Number.of.Segments.in.a.String/
