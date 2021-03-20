@@ -174,6 +174,7 @@
 | [1394][] | [Find Lucky Integer in an Array][]                          | [Array][]                                                |
 | [1399][] | [Count Largest Group][]                                     | [Array][]                                                |
 | [1403][] | [Minimum Subsequence in Non-Increasing Order][]             | [Greedy][], [Sort][]                                     |
+| [1408][] | [String Matching in an Array]                               | [String][]                                               |
 | [1413][] | [Minimum Value to Get Positive Step by Step Sum][]          | [Array][]                                                |
 | [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
 | [1436][] | [Destination City][]                                        | [String][]                                               |
@@ -371,6 +372,7 @@
 [1394]: https://leetcode.com/problems/find-lucky-integer-in-an-array/
 [1399]: https://leetcode.com/problems/count-largest-group/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+[1408]: https://leetcode.com/problems/string-matching-in-an-array/
 [1413]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1436]: https://leetcode.com/problems/destination-city/
@@ -592,6 +594,7 @@
 [Find Lucky Integer in an Array]: ./1394-Find.Lucky.Integer.in.an.Array/
 [Count Largest Group]: ./1399-Count.Largest.Group/
 [Minimum Subsequence in Non-Increasing Order]: ./1403-Minimum.Subsequence.in.Non-Increasing.Order/
+[String Matching in an Array]: ./1408-String.Matching.in.an.Array/
 [Minimum Value to Get Positive Step by Step Sum]: ./1413-Minimum.Value.to.Get.Positive.Step.by.Step.Sum/
 [Kids With the Greatest Number of Candies]: ./1431-Kids.With.the.Greatest.Number.of.Candies/
 [Destination City]: ./1436-Destination.City/
