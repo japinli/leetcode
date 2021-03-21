@@ -142,6 +142,7 @@
 | [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
 | [1051][] | [Height Checker][]                                          | [Array][]                                                |
 | [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                           |
+| [1103][] | [Distribute Candies to People][]                            | [Math][]                                                 |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1114][] | [Print in Order][]                                          |                                                          |
 | [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
@@ -340,6 +341,7 @@
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051]: https://leetcode.com/problems/height-checker/
 [1078]: https://leetcode.com/problems/occurrences-after-bigram/
+[1103]: https://leetcode.com/problems/distribute-candies-to-people/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1114]: https://leetcode.com/problems/print-in-order/
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
@@ -562,6 +564,7 @@
 [Remove All Adjacent Duplicates In String]: ./1047-Remove.All.Adjacent.Duplicates.In.String/
 [Height Checker]: ./1051-Height.Checker/
 [Occurrences After Bigram]: ./1078-Occurrences.After.Bigram/
+[Distribute Candies to People]: ./1103-Distribute.Candies.to.People/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Print in Order]: ./1114-Print.in.Order/
 [Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
