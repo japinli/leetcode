@@ -145,12 +145,13 @@
 | [1103][] | [Distribute Candies to People][]                            | [Math][]                                                 |
 | [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
 | [1114][] | [Print in Order][]                                          |                                                          |
-| [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
-| [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
 | [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
+| [1137][] | [N-th Tribonacci Number][]                                  | [Math][], [Dynamic Programming][], [Memoization][]       |
 | [1160][] | [Find Words That Can Be Formed by Characters][]             | [Array][], [Hash Table][]                                |
 | [1185][] | [Day of the Week][]                                         | [Array][]                                                |
 | [1200][] | [Minimum Absolute Difference][]                             | [Array][]                                                |
+| [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
+| [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
 | [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
 | [1237][] | [Find Positive Integer Solution for a Given Equation][]     | [Binary Search][], [Math][]                              |
 | [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
@@ -345,12 +346,13 @@
 [1103]: https://leetcode.com/problems/distribute-candies-to-people/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1114]: https://leetcode.com/problems/print-in-order/
-[1207]: https://leetcode.com/problems/unique-number-of-occurrences/
-[1217]: https://leetcode.com/problems/play-with-chips/
 [1122]: https://leetcode.com/problems/relative-sort-array/
+[1137]: https://leetcode.com/problems/n-th-tribonacci-number/
 [1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1185]: https://leetcode.com/problems/day-of-the-week/
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
+[1207]: https://leetcode.com/problems/unique-number-of-occurrences/
+[1217]: https://leetcode.com/problems/play-with-chips/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1237]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
@@ -569,12 +571,13 @@
 [Distribute Candies to People]: ./1103-Distribute.Candies.to.People/
 [Defanging an IP Address]: ./1108-Defanging.an.IP.Address/
 [Print in Order]: ./1114-Print.in.Order/
-[Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
-[Play with Chips]: ./1217-Play.with.Chips/
-[Relative Sort Array]: ./1122-Relative.Sort.Array
+[Relative Sort Array]: ./1122-Relative.Sort.Array/
+[N-th Tribonacci Number]: ./1137-N-th.Tribonacci.Number/
 [Find Words That Can Be Formed by Characters]: ./1160-Find.Words.That.Can.Be.Formed.by.Characters/
 [Day of the Week]: ./1185-Day.of.the.Week/
 [Minimum Absolute Difference]: ./1200-Minimum.Absolute.Difference/
+[Unique Number of Occurrences]: ./1207-Unique.Number.of.Occurrences/
+[Play with Chips]: ./1217-Play.with.Chips/
 [Split a String in Balanced Strings]: ./1221-Split.a.String.in.Balanced.Strings/
 [Find Positive Integer Solution for a Given Equation]: ./1237-Find.Positive.Integer.Solution.for.a.Given.Equation/
 [Cells with Odd Values in a Matrix]: ./1252-Cells.with.Odd.Values.in.a.Matrix/
