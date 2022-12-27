@@ -11,6 +11,7 @@
  *----------------------------------------------------------------------------
  */
 #include <stdio.h>
+#include <stdlib.h>
 
 int
 maxProfit(int *prices, int pricesSize)
@@ -52,4 +53,58 @@ maxProfit2(int *prices, int pricesSize)
     }
 
     return max;
+}
+
+typedef struct {
+    int hold;
+    int unhold;
+} stock_profit;
+
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
+
+int
+dpMaxProfit(int *prices, int pricesSize)
+{
+    stock_profit *dp;
+
+    dp = (stock_profit *) malloc(sizeof(stock_profit) * pricesSize);
+
+    dp[0].hold = -prices[0];
+    dp[0].unhold = 0;
+
+    for (int i = 1; i < pricesSize; i++) {
+        dp[i].hold = MAX(dp[i-1].hold, dp[i-1].unhold - prices[i]);
+        dp[i].unhold = MAX(dp[i-1].hold + prices[i], dp[i-1].unhold);
+    }
+
+    return dp[pricesSize-1].unhold;
+}
+
+int
+dpMaxProfit2(int *prices, int pricesSize)
+{
+    int hold = -prices[0];
+    int unhold = 0;
+
+    for (int i = 1; i < pricesSize; i++) {
+        hold = MAX(hold, unhold - prices[i]);
+        unhold = MAX(hold + prices[i], unhold);
+    }
+
+    return unhold;
+}
+
+int
+greedyMaxProfit(int *prices, int pricesSize)
+{
+    int max_profit = 0;
+
+    for (int i = pricesSize - 1; i > 0; i--) {
+        int profit = prices[i] - prices[i-1];
+        if (profit > 0) {
+            max_profit += profit;
+        }
+    }
+
+    return max_profit;
 }
