@@ -196,6 +196,7 @@
 | [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
 | [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
 | [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                      |
+| [1641][] | [Count Sorted Vowel Strings][]                              | [Dynamic Programming][]                                  |
 | [1652][] | [Defuse the Bomb][]                                         | [Array][]                                                |
 | [1694][] | [Reformat Phone Number][]                                   | [String][]                                               |
 | [1716][] | [Calculate Money in Leetcode Bank][]                        | [Math][], [Greedy][]                                     |
@@ -397,6 +398,7 @@
 [1598]: https://leetcode.com/problems/crawler-log-folder/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
+[1641]: https://leetcode.com/problems/count-sorted-vowel-strings/
 [1652]: https://leetcode.com/problems/defuse-the-bomb/
 [1694]: https://leetcode.com/problems/reformat-phone-number/
 [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
@@ -622,6 +624,7 @@
 [Crawler Log Folder]: ./1598-Crawler.Log.Folder/
 [Mean of Array After Removing Some Elements]: ./1619-Mean.of.Array.After.Removing.Some.Elements/
 [Sort Array by Increasing Frequency]: ./1636-Sort.Array.by.Increasing.Frequency/
+[Count Sorted Vowel Strings]: ./1641-Count.Sorted.Vowel.Strings/
 [Defuse the Bomb]: ./1652-Defuse.the.Bomb/
 [Reformat Phone Number]: ./1694-Reformat.Phone.Number/
 [Calculate Money in Leetcode Bank]: ./1716-Calculate.Money.in.Leetcode.Bank/
