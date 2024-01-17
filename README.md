@@ -1,206 +1,207 @@
 # LeetCode
 
-| #        | Title                                                       | Tags                                                     |
-|----------|-------------------------------------------------------------|----------------------------------------------------------|
-| [1][]    | [Two Sum][]                                                 | [Array][],[Hash Table][]                                 |
-| [2][]    | [Add Two Numbers][]                                         | [Linked List][],[Math][]                                 |
-| [11][]   | [Container With Most Water][]                               | [Array][], [Two Pointers][]                              |
-| [13][]   | [Roman to Integer][]                                        | [Math][],[String][]                                      |
-| [15][]   | [3Sum][]                                                    | [Array][], [Two Pointers][]                              |
-| [16][]   | [3Sum Closest][]                                            | [Array][], [Two Pointers][]                              |
-| [21][]   | [Merge Two Sorted Lists][]                                  | [Linked List][]                                          |
-| [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                               |
-| [33][]   | [Search in Rotated Sorted Array][]                          | [Array][], [Binary Search][]                             |
-| [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                              |
-| [62][]   | [Unique Paths][]                                            | [Array][], [Dynamic Programming][]                       |
-| [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                              |
-| [71][]   | [Simplify Path][]                                           | [String][], [Stack][]                                    |
-| [94][]   | [Binary Tree Inorder Traversal][]                           | [Hash Table][], [Stack][], [Tree][]                      |
-| [108][]  | [Convert Sorted Array to Binary Search Tree][]              | [Tree][],[Depth-first Search][]                          |
-| [112][]  | [Path Sum][]                                                | [Tree][],[Depth-first Search][]                          |
-| [118][]  | [Pascal's Triangle][]                                       | [Array][]                                                |
-| [119][]  | [Pascal's Triangle II][]                                    | [Array][]                                                |
-| [121][]  | [Best Time to Buy and Sell Stock][]                         | [Array][],[Dynamic Programming][]                        |
-| [122][]  | [Best Time to Buy and Sell Stock II][]                      | [Array][],[Greedy][]                                     |
-| [125][]  | [Valid Palindrome][]                                        | [String][],[Two Pointers][]                              |
-| [144][]  | [Binary Tree Preorder Traversal][]                          | [Stack][], [Tree][]                                      |
-| [160][]  | [Intersection of Two Linked Lists][]                        | [Linked List][]                                          |
-| [167][]  | [Two Sum II - Input array is sorted][]                      | [Array][],[Two Pointers][],[Binary Search][]             |
-| [171][]  | [1-bit and 2-bit Characters][]                              | [Array][]                                                |
-| [189][]  | [Rotate Array][]                                            | [Array][]                                                |
-| [190][]  | [Reverse Bits][]                                            | [Bit Manipulation][]                                     |
-| [193][]  | [Valid Phone Numbers][]                                     | [Shell][]                                                |
-| [195][]  | [Tenth Line][]                                              | [Shell][]                                                |
-| [198][]  | [House Robber][]                                            | [Dynamic Programming][]                                  |
-| [203][]  | [Remove Linked List Elements][]                             | [Linked List][]                                          |
-| [205][]  | [Isomorphic Strings][]                                      | [Hash Table][]                                           |
-| [206][]  | [Reverse Linked List][]                                     | [Linked List][]                                          |
-| [217][]  | [Contains Duplicate][]                                      | [Array][],[Hash Table][]                                 |
-| [232][]  | [Implement Queue using Stacks][]                            | [Stack][],[Design][]                                     |
-| [234][]  | [Palindrome Linked List][]                                  | [Array][],[Two Pointers][]                               |
-| [242][]  | [Valid Anagram][]                                           | [Hash Table][], [Sort][]                                 |
-| [268][]  | [Missing Number][]                                          | [Array][],[Math][],[Bit Manipulation][]                  |
-| [278][]  | [First Bad Version][]                                       | [Binary Search][]                                        |
-| [283][]  | [Move Zeroes][]                                             | [Array][],[Two Pointers][]                               |
-| [303][]  | [Range Sum Query - Immutable][]                             | [Dynamic Programming][]                                  |
-| [322][]  | [Coin Change][]                                             | [Dynamic Programming][]                                  |
-| [344][]  | [Reverse String][]                                          | [String][],[Two Pointers][]                              |
-| [392][]  | [Is Subsequence][]                                          | [Binary Search][], [Dynamic Programming][], [Greedy][]   |
-| [400][]  | [Nth Digit][]                                               | [Math][]                                                 |
-| [412][]  | [Fizz Buzz][]                                               |                                                          |
-| [414][]  | [Third Maximum Number][]                                    | [Array][]                                                |
-| [415][]  | [Add Strings][]                                             | [Math][]                                                 |
-| [434][]  | [Number of Segments in a String][]                          | [String][]                                               |
-| [443][]  | [String Compression][]                                      | [String][]                                               |
-| [448][]  | [Find All Numbers Disappered in an Array][]                 | [Array][]                                                |
-| [455][]  | [Assign Cookies][]                                          | [Greedy][]                                               |
-| [461][]  | [Hamming Distance][]                                        | [Bit Manipulation][]                                     |
-| [463][]  | [Island Perimeter][]                                        | [Hash Table][]                                           |
-| [476][]  | [Number Complement][]                                       | [Bit Manipulation][]                                     |
-| [485][]  | [Max Consecutive Ones][]                                    | [Array][]                                                |
-| [496][]  | [Next Greater Element I][]                                  | [Stack][]                                                |
-| [500][]  | [Keyboard Row][]                                            | [Hash Table][]                                           |
-| [507][]  | [Perfect Number][]                                          | [Math][]                                                 |
-| [509][]  | [Fibonacci Number][]                                        | [Array][]                                                |
-| [520][]  | [Detect Capital][]                                          | [String][]                                               |
-| [532][]  | [K-diff Pairs in an Array][]                                | [Array][],[Two Pointers][]                               |
-| [541][]  | [Reverse String II][]                                       | [String][]                                               |
-| [557][]  | [Reverse Words in a String III][]                           | [String][]                                               |
-| [559][]  | [Maximum Depth of N-ary Tree][]                             | [Breadth-first Search][],[Depth-first Search][],[Tree][] |
-| [561][]  | [Array Partition I][]                                       | [Array][]                                                |
-| [566][]  | [Reshape the Matrix][]                                      | [Array][]                                                |
-| [575][]  | [Distribute Candies][]                                      | [Hash Table][]                                           |
-| [581][]  | [Shortest Unsorted Continuous Subarray][]                   | [Array][]                                                |
-| [589][]  | [N-ary Tree Preorder Traversal][]                           | [Tree][]                                                 |
-| [595][]  | [Big Countries][]                                           | [Database][]                                             |
-| [605][]  | [Can Place Flowers][]                                       | [Array][]                                                |
-| [617][]  | [Merge Two Binary Trees][]                                  | [Tree][]                                                 |
-| [620][]  | [Not Boring Movies][]                                       | [Database][]                                             |
-| [628][]  | [Maximum Product of Three Numbers][]                        | [Array][],[Math][]                                       |
-| [633][]  | [Sum of Square Numbers][]                                   | [Math][]                                                 |
-| [643][]  | [Maximum Average Subarray I][]                              | [Array][]                                                |
-| [645][]  | [Set Mismatch][]                                            | [Math][]                                                 |
-| [657][]  | [Robot Return to Origin][]                                  | [String][]                                               |
-| [665][]  | [Non-decreasing Array][]                                    | [Array][]                                                |
-| [674][]  | [Longest Continuous Increasing Subsequence][]               | [Array][]                                                |
-| [680][]  | [Valid Palindrome II][]                                     | [String][]                                               |
-| [682][]  | [Baseball Game][]                                           | [Stack][]                                                |
-| [696][]  | [Count Binary Substrings][]                                 | [String][]                                               |
-| [700][]  | [Search in a Binary Search Tree][]                          | [Tree][]                                                 |
-| [704][]  | [Binary.Search][]                                           | [Binary Search][]                                        |
-| [705][]  | [Design HashSet][]                                          | [Hash Table][], [Design][]                               |
-| [707][]  | [Design Linked List][]                                      | [Array][],[Design][]                                     |
-| [709][]  | [To Lower Case][]                                           | [String][]                                               |
-| [724][]  | [Find Pivot Index][]                                        | [Array][]                                                |
-| [728][]  | [Self Dividing Numbers][]                                   | [Math][]                                                 |
-| [744][]  | [Find Smallest Letter Greater Than Target][]                | [Binary Search][]                                        |
-| [746][]  | [Min Cost Climbing Stairs][]                                | [Array][],[Dynamic Programming][]                        |
-| [747][]  | [Largest Number At Least Twice of Other][]                  | [Array][]                                                |
-| [762][]  | [Prime Number of Set Bits in Binary Representation][]       | [Bit Manipulation][]                                     |
-| [766][]  | [Toeplitz Matrix][]                                         | [Array][]                                                |
-| [804][]  | [Unique Morse Code Words][]                                 | [String][]                                               |
-| [806][]  | [Number of Lines To Write String][]                         | [Array][]                                                |
-| [811][]  | [Subdomain Visit Count][]                                   | [Hash Table][]                                           |
-| [824][]  | [Goat Latin][]                                              | [String][]                                               |
-| [832][]  | [Flipping an Image][]                                       | [Array][]                                                |
-| [844][]  | [Backspace String Compare][]                                | [Stack][],[Two Pointers][]                               |
-| [852][]  | [Peak Index in a Mountain Array][]                          | [Binary Search][]                                        |
-| [859][]  | [Buddy Strings][]                                           | [String][]                                               |
-| [860][]  | [Lemonade Change][]                                         | [Greedy][]                                               |
-| [867][]  | [Transpose Matrix][]                                        | [Array][]                                                |
-| [872][]  | [Leaf-Similar Trees][]                                      | [Tree][], [Depth-first Search][]                         |
-| [876][]  | [Middle of the Linked List][]                               | [Linked List][]                                          |
-| [883][]  | [Projection Area of 3D Shapes][]                            | [Math][]                                                 |
-| [888][]  | [Fair Candy Swap][]                                         | [Array][]                                                |
-| [892][]  | [Surface Area of 3D Shapes][]                               | [Geometry][],[Math][]                                    |
-| [893][]  | [Groups of Special-Equivalent Strings][]                    | [String][]                                               |
-| [896][]  | [Monotonic Array][]                                         | [Array][]                                                |
-| [897][]  | [Increasing Order Search Tree][]                            | [Tree][], [Depth-first Search][]                         |
-| [908][]  | [Smallest Range I][]                                        | [Math][]                                                 |
-| [917][]  | [Reverse Only Letters][]                                    | [String][]                                               |
-| [922][]  | [Sort Array By Parity II][]                                 | [Array][],[Sort][]                                       |
-| [925][]  | [Long Pressed Name][]                                       | [String][],[Two Pointers][]                              |
-| [929][]  | [Unique Email Addresses][]                                  | [String][]                                               |
-| [933][]  | [Number of Recent Calls][]                                  | [Queue][]                                                |
-| [938][]  | [Range Sum of BST][]                                        | [Tree][],[Recursion][]                                   |
-| [941][]  | [Valid Mountain Array][]                                    | [Array][]                                                |
-| [942][]  | [DI String Match][]                                         | [Math][]                                                 |
-| [944][]  | [Delete Columns to Make Sorted][]                           | [Greedy][]                                               |
-| [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                                           |
-| [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                                 |
-| [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                               |
-| [985][]  | [Sum of Even Numbers After Queries][]                       | [Array][]                                                |
-| [999][]  | [Available Captures for Rook][]                             | [Array][]                                                |
-| [1002][] | [Find Common Characters][]                                  | [Array][],[Hash Table][]                                 |
-| [1005][] | [Maximize Sum Of Array After K Negations][]                 | [Greedy][]                                               |
-| [1009][] | [Complement of Base 10 Integer][]                           | [Math][]                                                 |
-| [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                |
-| [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                 |
-| [1025][] | [Divisor Game][]                                            | [Math][], [Dynamic Programming][]                        |
-| [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                 |
-| [1046][] | [Last Stone Weight][]                                       | [Heap][], [Greedy][]                                     |
-| [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                |
-| [1051][] | [Height Checker][]                                          | [Array][]                                                |
-| [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                           |
-| [1103][] | [Distribute Candies to People][]                            | [Math][]                                                 |
-| [1108][] | [Defanging an IP Address][]                                 | [String][]                                               |
-| [1114][] | [Print in Order][]                                          |                                                          |
-| [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                      |
-| [1137][] | [N-th Tribonacci Number][]                                  | [Math][], [Dynamic Programming][], [Memoization][]       |
-| [1160][] | [Find Words That Can Be Formed by Characters][]             | [Array][], [Hash Table][]                                |
-| [1185][] | [Day of the Week][]                                         | [Array][]                                                |
-| [1200][] | [Minimum Absolute Difference][]                             | [Array][]                                                |
-| [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                           |
-| [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                          |
-| [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                   |
-| [1237][] | [Find Positive Integer Solution for a Given Equation][]     | [Binary Search][], [Math][]                              |
-| [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                |
-| [1260][] | [Shift 2D Grid][]                                           | [Array][]                                                |
-| [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                  |
-| [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                |
-| [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                |
-| [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                |
-| [1309][] | [Decrypt String from Alphabet to Integer Mapping][]         | [String][]                                               |
-| [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                |
-| [1332][] | [Remove Palindromic Subsequences][]                         | [String][]                                               |
-| [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                             |
-| [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                |
-| [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                             |
-| [1356][] | [Sort Integers by The Number of 1 Bits][]                   | [Bit Manipulation][], [Sort][]                           |
-| [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                |
-| [1370][] | [Increasing Decreasing String][]                            | [String][], [Sort][]                                     |
-| [1374][] | [Generate a String With Characters That Have Odd Counts][]  | [String][]                                               |
-| [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                |
-| [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                |
-| [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                |
-| [1394][] | [Find Lucky Integer in an Array][]                          | [Array][]                                                |
-| [1399][] | [Count Largest Group][]                                     | [Array][]                                                |
-| [1403][] | [Minimum Subsequence in Non-Increasing Order][]             | [Greedy][], [Sort][]                                     |
-| [1408][] | [String Matching in an Array]                               | [String][]                                               |
-| [1413][] | [Minimum Value to Get Positive Step by Step Sum][]          | [Array][]                                                |
-| [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                |
-| [1436][] | [Destination City][]                                        | [String][]                                               |
-| [1441][] | [Build an Array With Stack Operations][]                    | [Stack][]                                                |
-| [1450][] | [Number of Students Doing Homework at a Given Time][]       | [Array][]                                                |
-| [1460][] | [Make Two Arrays Equal by Reversing Sub-arrays][]           | [Array][]                                                |
-| [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                |
-| [1470][] | [Shuffle the Array][]                                       | [Array][]                                                |
-| [1475][] | [Final Prices With a Special Discount in a Shop][]          | [Array][]                                                |
-| [1480][] | [Running Sum of 1d Array][]                                 | [Array][]                                                |
-| [1491][] | [Average Salary Excluding the Minimum and Maximum Salary][] | [Array][], [Sort][]                                      |
-| [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                      |
-| [1512][] | [Number of Good Pairs][]                                    | [Array][], [Hash Table][], [Math][]                      |
-| [1518][] | [Water Bottles][]                                           | [Greedy][]                                               |
-| [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                |
-| [1582][] | [Special Positions in a Binary Matrix][]                    | [Array][]                                                |
-| [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                |
-| [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                |
-| [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                      |
-| [1641][] | [Count Sorted Vowel Strings][]                              | [Dynamic Programming][]                                  |
-| [1652][] | [Defuse the Bomb][]                                         | [Array][]                                                |
-| [1694][] | [Reformat Phone Number][]                                   | [String][]                                               |
-| [1716][] | [Calculate Money in Leetcode Bank][]                        | [Math][], [Greedy][]                                     |
-| [1779][] | [Find Nearest Point That Has the Same X or Y Coordinate][]  | [Array][]                                                |
+| #        | Title                                                       | Tags                                                                        |
+|----------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [1][]    | [Two Sum][]                                                 | [Array][],[Hash Table][]                                                    |
+| [2][]    | [Add Two Numbers][]                                         | [Linked List][],[Math][]                                                    |
+| [11][]   | [Container With Most Water][]                               | [Array][], [Two Pointers][]                                                 |
+| [13][]   | [Roman to Integer][]                                        | [Math][],[String][]                                                         |
+| [15][]   | [3Sum][]                                                    | [Array][], [Two Pointers][]                                                 |
+| [16][]   | [3Sum Closest][]                                            | [Array][], [Two Pointers][]                                                 |
+| [21][]   | [Merge Two Sorted Lists][]                                  | [Linked List][]                                                             |
+| [26][]   | [Remove Duplicates from Sorted Array][]                     | [Array][],[Two Pointers][]                                                  |
+| [33][]   | [Search in Rotated Sorted Array][]                          | [Array][], [Binary Search][]                                                |
+| [34][]   | [Find First and Last Position of Element in Sorted Array][] | [Array][],[Binary Search][]                                                 |
+| [62][]   | [Unique Paths][]                                            | [Array][], [Dynamic Programming][]                                          |
+| [69][]   | [Sqrt(x)][]                                                 | [Binary Search][], [Math][]                                                 |
+| [71][]   | [Simplify Path][]                                           | [String][], [Stack][]                                                       |
+| [94][]   | [Binary Tree Inorder Traversal][]                           | [Hash Table][], [Stack][], [Tree][]                                         |
+| [104][]  | [Maximum Depth of Binary Tree][]                            | [Tree][], [Depth-First Search][], [Breadth-First Search][], [Binary Tree][] |
+| [108][]  | [Convert Sorted Array to Binary Search Tree][]              | [Tree][],[Depth-first Search][]                                             |
+| [112][]  | [Path Sum][]                                                | [Tree][],[Depth-first Search][]                                             |
+| [118][]  | [Pascal's Triangle][]                                       | [Array][]                                                                   |
+| [119][]  | [Pascal's Triangle II][]                                    | [Array][]                                                                   |
+| [121][]  | [Best Time to Buy and Sell Stock][]                         | [Array][],[Dynamic Programming][]                                           |
+| [122][]  | [Best Time to Buy and Sell Stock II][]                      | [Array][],[Greedy][]                                                        |
+| [125][]  | [Valid Palindrome][]                                        | [String][],[Two Pointers][]                                                 |
+| [144][]  | [Binary Tree Preorder Traversal][]                          | [Stack][], [Tree][]                                                         |
+| [160][]  | [Intersection of Two Linked Lists][]                        | [Linked List][]                                                             |
+| [167][]  | [Two Sum II - Input array is sorted][]                      | [Array][],[Two Pointers][],[Binary Search][]                                |
+| [171][]  | [1-bit and 2-bit Characters][]                              | [Array][]                                                                   |
+| [189][]  | [Rotate Array][]                                            | [Array][]                                                                   |
+| [190][]  | [Reverse Bits][]                                            | [Bit Manipulation][]                                                        |
+| [193][]  | [Valid Phone Numbers][]                                     | [Shell][]                                                                   |
+| [195][]  | [Tenth Line][]                                              | [Shell][]                                                                   |
+| [198][]  | [House Robber][]                                            | [Dynamic Programming][]                                                     |
+| [203][]  | [Remove Linked List Elements][]                             | [Linked List][]                                                             |
+| [205][]  | [Isomorphic Strings][]                                      | [Hash Table][]                                                              |
+| [206][]  | [Reverse Linked List][]                                     | [Linked List][]                                                             |
+| [217][]  | [Contains Duplicate][]                                      | [Array][],[Hash Table][]                                                    |
+| [232][]  | [Implement Queue using Stacks][]                            | [Stack][],[Design][]                                                        |
+| [234][]  | [Palindrome Linked List][]                                  | [Array][],[Two Pointers][]                                                  |
+| [242][]  | [Valid Anagram][]                                           | [Hash Table][], [Sort][]                                                    |
+| [268][]  | [Missing Number][]                                          | [Array][],[Math][],[Bit Manipulation][]                                     |
+| [278][]  | [First Bad Version][]                                       | [Binary Search][]                                                           |
+| [283][]  | [Move Zeroes][]                                             | [Array][],[Two Pointers][]                                                  |
+| [303][]  | [Range Sum Query - Immutable][]                             | [Dynamic Programming][]                                                     |
+| [322][]  | [Coin Change][]                                             | [Dynamic Programming][]                                                     |
+| [344][]  | [Reverse String][]                                          | [String][],[Two Pointers][]                                                 |
+| [392][]  | [Is Subsequence][]                                          | [Binary Search][], [Dynamic Programming][], [Greedy][]                      |
+| [400][]  | [Nth Digit][]                                               | [Math][]                                                                    |
+| [412][]  | [Fizz Buzz][]                                               |                                                                             |
+| [414][]  | [Third Maximum Number][]                                    | [Array][]                                                                   |
+| [415][]  | [Add Strings][]                                             | [Math][]                                                                    |
+| [434][]  | [Number of Segments in a String][]                          | [String][]                                                                  |
+| [443][]  | [String Compression][]                                      | [String][]                                                                  |
+| [448][]  | [Find All Numbers Disappered in an Array][]                 | [Array][]                                                                   |
+| [455][]  | [Assign Cookies][]                                          | [Greedy][]                                                                  |
+| [461][]  | [Hamming Distance][]                                        | [Bit Manipulation][]                                                        |
+| [463][]  | [Island Perimeter][]                                        | [Hash Table][]                                                              |
+| [476][]  | [Number Complement][]                                       | [Bit Manipulation][]                                                        |
+| [485][]  | [Max Consecutive Ones][]                                    | [Array][]                                                                   |
+| [496][]  | [Next Greater Element I][]                                  | [Stack][]                                                                   |
+| [500][]  | [Keyboard Row][]                                            | [Hash Table][]                                                              |
+| [507][]  | [Perfect Number][]                                          | [Math][]                                                                    |
+| [509][]  | [Fibonacci Number][]                                        | [Array][]                                                                   |
+| [520][]  | [Detect Capital][]                                          | [String][]                                                                  |
+| [532][]  | [K-diff Pairs in an Array][]                                | [Array][],[Two Pointers][]                                                  |
+| [541][]  | [Reverse String II][]                                       | [String][]                                                                  |
+| [557][]  | [Reverse Words in a String III][]                           | [String][]                                                                  |
+| [559][]  | [Maximum Depth of N-ary Tree][]                             | [Breadth-first Search][],[Depth-first Search][],[Tree][]                    |
+| [561][]  | [Array Partition I][]                                       | [Array][]                                                                   |
+| [566][]  | [Reshape the Matrix][]                                      | [Array][]                                                                   |
+| [575][]  | [Distribute Candies][]                                      | [Hash Table][]                                                              |
+| [581][]  | [Shortest Unsorted Continuous Subarray][]                   | [Array][]                                                                   |
+| [589][]  | [N-ary Tree Preorder Traversal][]                           | [Tree][]                                                                    |
+| [595][]  | [Big Countries][]                                           | [Database][]                                                                |
+| [605][]  | [Can Place Flowers][]                                       | [Array][]                                                                   |
+| [617][]  | [Merge Two Binary Trees][]                                  | [Tree][]                                                                    |
+| [620][]  | [Not Boring Movies][]                                       | [Database][]                                                                |
+| [628][]  | [Maximum Product of Three Numbers][]                        | [Array][],[Math][]                                                          |
+| [633][]  | [Sum of Square Numbers][]                                   | [Math][]                                                                    |
+| [643][]  | [Maximum Average Subarray I][]                              | [Array][]                                                                   |
+| [645][]  | [Set Mismatch][]                                            | [Math][]                                                                    |
+| [657][]  | [Robot Return to Origin][]                                  | [String][]                                                                  |
+| [665][]  | [Non-decreasing Array][]                                    | [Array][]                                                                   |
+| [674][]  | [Longest Continuous Increasing Subsequence][]               | [Array][]                                                                   |
+| [680][]  | [Valid Palindrome II][]                                     | [String][]                                                                  |
+| [682][]  | [Baseball Game][]                                           | [Stack][]                                                                   |
+| [696][]  | [Count Binary Substrings][]                                 | [String][]                                                                  |
+| [700][]  | [Search in a Binary Search Tree][]                          | [Tree][]                                                                    |
+| [704][]  | [Binary.Search][]                                           | [Binary Search][]                                                           |
+| [705][]  | [Design HashSet][]                                          | [Hash Table][], [Design][]                                                  |
+| [707][]  | [Design Linked List][]                                      | [Array][],[Design][]                                                        |
+| [709][]  | [To Lower Case][]                                           | [String][]                                                                  |
+| [724][]  | [Find Pivot Index][]                                        | [Array][]                                                                   |
+| [728][]  | [Self Dividing Numbers][]                                   | [Math][]                                                                    |
+| [744][]  | [Find Smallest Letter Greater Than Target][]                | [Binary Search][]                                                           |
+| [746][]  | [Min Cost Climbing Stairs][]                                | [Array][],[Dynamic Programming][]                                           |
+| [747][]  | [Largest Number At Least Twice of Other][]                  | [Array][]                                                                   |
+| [762][]  | [Prime Number of Set Bits in Binary Representation][]       | [Bit Manipulation][]                                                        |
+| [766][]  | [Toeplitz Matrix][]                                         | [Array][]                                                                   |
+| [804][]  | [Unique Morse Code Words][]                                 | [String][]                                                                  |
+| [806][]  | [Number of Lines To Write String][]                         | [Array][]                                                                   |
+| [811][]  | [Subdomain Visit Count][]                                   | [Hash Table][]                                                              |
+| [824][]  | [Goat Latin][]                                              | [String][]                                                                  |
+| [832][]  | [Flipping an Image][]                                       | [Array][]                                                                   |
+| [844][]  | [Backspace String Compare][]                                | [Stack][],[Two Pointers][]                                                  |
+| [852][]  | [Peak Index in a Mountain Array][]                          | [Binary Search][]                                                           |
+| [859][]  | [Buddy Strings][]                                           | [String][]                                                                  |
+| [860][]  | [Lemonade Change][]                                         | [Greedy][]                                                                  |
+| [867][]  | [Transpose Matrix][]                                        | [Array][]                                                                   |
+| [872][]  | [Leaf-Similar Trees][]                                      | [Tree][], [Depth-first Search][]                                            |
+| [876][]  | [Middle of the Linked List][]                               | [Linked List][]                                                             |
+| [883][]  | [Projection Area of 3D Shapes][]                            | [Math][]                                                                    |
+| [888][]  | [Fair Candy Swap][]                                         | [Array][]                                                                   |
+| [892][]  | [Surface Area of 3D Shapes][]                               | [Geometry][],[Math][]                                                       |
+| [893][]  | [Groups of Special-Equivalent Strings][]                    | [String][]                                                                  |
+| [896][]  | [Monotonic Array][]                                         | [Array][]                                                                   |
+| [897][]  | [Increasing Order Search Tree][]                            | [Tree][], [Depth-first Search][]                                            |
+| [908][]  | [Smallest Range I][]                                        | [Math][]                                                                    |
+| [917][]  | [Reverse Only Letters][]                                    | [String][]                                                                  |
+| [922][]  | [Sort Array By Parity II][]                                 | [Array][],[Sort][]                                                          |
+| [925][]  | [Long Pressed Name][]                                       | [String][],[Two Pointers][]                                                 |
+| [929][]  | [Unique Email Addresses][]                                  | [String][]                                                                  |
+| [933][]  | [Number of Recent Calls][]                                  | [Queue][]                                                                   |
+| [938][]  | [Range Sum of BST][]                                        | [Tree][],[Recursion][]                                                      |
+| [941][]  | [Valid Mountain Array][]                                    | [Array][]                                                                   |
+| [942][]  | [DI String Match][]                                         | [Math][]                                                                    |
+| [944][]  | [Delete Columns to Make Sorted][]                           | [Greedy][]                                                                  |
+| [961][]  | [N-Repeated Element in Size 2N Array][]                     | [Hash Table][]                                                              |
+| [965][]  | [Univalued Binary Tree][]                                   | [Tree][]                                                                    |
+| [977][]  | [Squares of a Sorted Array][]                               | [Array][],[Two Pointers][]                                                  |
+| [985][]  | [Sum of Even Numbers After Queries][]                       | [Array][]                                                                   |
+| [999][]  | [Available Captures for Rook][]                             | [Array][]                                                                   |
+| [1002][] | [Find Common Characters][]                                  | [Array][],[Hash Table][]                                                    |
+| [1005][] | [Maximize Sum Of Array After K Negations][]                 | [Greedy][]                                                                  |
+| [1009][] | [Complement of Base 10 Integer][]                           | [Math][]                                                                    |
+| [1021][] | [Remove Outermost Parentheses][]                            | [Stack][]                                                                   |
+| [1022][] | [Sum of Root To Leaf Binary Numbers][]                      | [Tree][]                                                                    |
+| [1025][] | [Divisor Game][]                                            | [Math][], [Dynamic Programming][]                                           |
+| [1030][] | [Matrix Cells in Distance Order][]                          | [Sort][]                                                                    |
+| [1046][] | [Last Stone Weight][]                                       | [Heap][], [Greedy][]                                                        |
+| [1047][] | [Remove All Adjacent Duplicates In String][]                | [Stack][]                                                                   |
+| [1051][] | [Height Checker][]                                          | [Array][]                                                                   |
+| [1078][] | [Occurrences After Bigram][]                                | [Hash Table][]                                                              |
+| [1103][] | [Distribute Candies to People][]                            | [Math][]                                                                    |
+| [1108][] | [Defanging an IP Address][]                                 | [String][]                                                                  |
+| [1114][] | [Print in Order][]                                          |                                                                             |
+| [1122][] | [Relative Sort Array][]                                     | [Array][], [Sort][]                                                         |
+| [1137][] | [N-th Tribonacci Number][]                                  | [Math][], [Dynamic Programming][], [Memoization][]                          |
+| [1160][] | [Find Words That Can Be Formed by Characters][]             | [Array][], [Hash Table][]                                                   |
+| [1185][] | [Day of the Week][]                                         | [Array][]                                                                   |
+| [1200][] | [Minimum Absolute Difference][]                             | [Array][]                                                                   |
+| [1207][] | [Unique Number of Occurrences][]                            | [Hash Table][]                                                              |
+| [1217][] | [Play with Chips][]                                         | [Array][], [Math][], [Greedy][]                                             |
+| [1221][] | [Split a String in Balanced Strings][]                      | [String][], [Greedy][]                                                      |
+| [1237][] | [Find Positive Integer Solution for a Given Equation][]     | [Binary Search][], [Math][]                                                 |
+| [1252][] | [Cells with Odd Values in a Matrix][]                       | [Array][]                                                                   |
+| [1260][] | [Shift 2D Grid][]                                           | [Array][]                                                                   |
+| [1266][] | [Minimum Time Visiting All Points][]                        | [Array][], [Geometry][]                                                     |
+| [1295][] | [Find Numbers with Even Number of Digits][]                 | [Array][]                                                                   |
+| [1299][] | [Replace Elements with Greatest Element on Right Side][]    | [Array][]                                                                   |
+| [1304][] | [Find N Unique Integers Sum up to Zero][]                   | [Array][]                                                                   |
+| [1309][] | [Decrypt String from Alphabet to Integer Mapping][]         | [String][]                                                                  |
+| [1313][] | [Decompress Run-Length Encoded List][]                      | [Array][]                                                                   |
+| [1332][] | [Remove Palindromic Subsequences][]                         | [String][]                                                                  |
+| [1337][] | [The K Weakest Rows in a Matrix][]                          | [Array][], [Binary Search][]                                                |
+| [1346][] | [Check If N and Its Double Exist][]                         | [Array][]                                                                   |
+| [1351][] | [Count Negative Numbers in a Sorted Matrix][]               | [Array][], [Binary Search][]                                                |
+| [1356][] | [Sort Integers by The Number of 1 Bits][]                   | [Bit Manipulation][], [Sort][]                                              |
+| [1365][] | [How Many Numbers Are Smaller Than the Current Number][]    | [Array][], [Hash Table][]                                                   |
+| [1370][] | [Increasing Decreasing String][]                            | [String][], [Sort][]                                                        |
+| [1374][] | [Generate a String With Characters That Have Odd Counts][]  | [String][]                                                                  |
+| [1380][] | [Lucky Numbers in a Matrix][]                               | [Array][]                                                                   |
+| [1385][] | [Find the Distance Value Between Two Arrays][]              | [Array][]                                                                   |
+| [1389][] | [Create Target Array in the Given Order][]                  | [Array][]                                                                   |
+| [1394][] | [Find Lucky Integer in an Array][]                          | [Array][]                                                                   |
+| [1399][] | [Count Largest Group][]                                     | [Array][]                                                                   |
+| [1403][] | [Minimum Subsequence in Non-Increasing Order][]             | [Greedy][], [Sort][]                                                        |
+| [1408][] | [String Matching in an Array]                               | [String][]                                                                  |
+| [1413][] | [Minimum Value to Get Positive Step by Step Sum][]          | [Array][]                                                                   |
+| [1431][] | [Kids With the Greatest Number of Candies][]                | [Array][]                                                                   |
+| [1436][] | [Destination City][]                                        | [String][]                                                                  |
+| [1441][] | [Build an Array With Stack Operations][]                    | [Stack][]                                                                   |
+| [1450][] | [Number of Students Doing Homework at a Given Time][]       | [Array][]                                                                   |
+| [1460][] | [Make Two Arrays Equal by Reversing Sub-arrays][]           | [Array][]                                                                   |
+| [1464][] | [Maximum Product of Two Elements in an Array][]             | [Array][]                                                                   |
+| [1470][] | [Shuffle the Array][]                                       | [Array][]                                                                   |
+| [1475][] | [Final Prices With a Special Discount in a Shop][]          | [Array][]                                                                   |
+| [1480][] | [Running Sum of 1d Array][]                                 | [Array][]                                                                   |
+| [1491][] | [Average Salary Excluding the Minimum and Maximum Salary][] | [Array][], [Sort][]                                                         |
+| [1502][] | [Can Make Arithmetic Progression From Sequence][]           | [Array][], [Sort][]                                                         |
+| [1512][] | [Number of Good Pairs][]                                    | [Array][], [Hash Table][], [Math][]                                         |
+| [1518][] | [Water Bottles][]                                           | [Greedy][]                                                                  |
+| [1550][] | [Three Consecutive Odds][]                                  | [Array][]                                                                   |
+| [1582][] | [Special Positions in a Binary Matrix][]                    | [Array][]                                                                   |
+| [1598][] | [Crawler Log Folder][]                                      | [Stack][]                                                                   |
+| [1619][] | [Mean of Array After Removing Some Elements][]              | [Array][]                                                                   |
+| [1636][] | [Sort Array by Increasing Frequency][]                      | [Array][], [Sort][]                                                         |
+| [1641][] | [Count Sorted Vowel Strings][]                              | [Dynamic Programming][]                                                     |
+| [1652][] | [Defuse the Bomb][]                                         | [Array][]                                                                   |
+| [1694][] | [Reformat Phone Number][]                                   | [String][]                                                                  |
+| [1716][] | [Calculate Money in Leetcode Bank][]                        | [Math][], [Greedy][]                                                        |
+| [1779][] | [Find Nearest Point That Has the Same X or Y Coordinate][]  | [Array][]                                                                   |
 
 
 <!-- Questions -->
@@ -218,6 +219,7 @@
 [69]: https://leetcode.com/problems/sqrtx/
 [71]: https://leetcode.com/problems/simplify-path/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
@@ -444,6 +446,7 @@
 [Sqrt(x)]: ./0069-Sqrt-x/
 [Simplify Path]: ./0071-Simplify.Path/
 [Binary Tree Inorder Traversal]: ./0094-Binary.Tree.Inorder.Traversal/
+[Maximum Depth of Binary Tree]: ./0104-Maximum.Depth.of.Binary.Tree/
 [Convert Sorted Array to Binary Search Tree]: ./0108-Convert.Sorted.Array.to.Binary.Search.Tree
 [Path Sum]: ./0112-Path.Sum/
 [Pascal's Triangle]: ./0118-Pascals.Triangle/
